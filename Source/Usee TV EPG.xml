@@ -6819,9 +6819,19 @@
       <value>P13</value>
     </rating>
   </programme>
-  <programme start="20210613040000 +0000" stop="20210613143000 +0000" channel="egg network">
+  <programme start="20210613040000 +0000" stop="20210613050000 +0000" channel="egg network">
+    <title lang="en">Arena eSports</title>
+    <desc lang="en">The first of its kind weekly program that covers the big developments, news and massively popular eSports events worldwide.(c)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IVP_IBBTZ.jpg" />
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20210613050000 +0000" stop="20210613143000 +0000" channel="egg network">
     <title lang="en">(L) MSC Playoffs Day 3</title>
-    <desc lang="en">LIVE: The best teams of Cambodia, Indonesia, Laos, Malaysia, the Philippines, Singapore, Thailand and Vietnam will be competing in the 2021 Mobile Legends: Bang Bang SEA Cup.</desc>
+    <desc lang="en">LIVE: The best teams of Cambodia, Indonesia, Laos, Malaysia, the Philippines, Singapore, Thailand and Vietnam will be competing in the 2021 Mobile Legends: Bang Bang SEA Cup.(c)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Others (Sports)</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JTTPK.jpg" />
@@ -28068,243 +28078,212 @@
   </programme>
   <programme start="20210613014300 +0000" stop="20210613095700 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">重播精選綜藝</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">Entertainment</category>
     <category lang="en">Variety</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210613095700 +0000" stop="20210613100000 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">氣象預報</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">News</category>
     <category lang="en">Weather</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210613100000 +0000" stop="20210613103000 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">新聞深一度</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">News</category>
     <category lang="en">Features</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210613103000 +0000" stop="20210613105100 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">浙江新聞聯播</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">News</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210613105100 +0000" stop="20210613105300 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">天氣預報</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">News</category>
     <category lang="en">Weather</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210613105300 +0000" stop="20210613110000 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">今日聚焦</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">News</category>
     <category lang="en">Talkshow</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210613110000 +0000" stop="20210613113300 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">轉播中央電視台新聞聯播</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">News</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210613113300 +0000" stop="20210613133000 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">中國藍劇場</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">Series</category>
     <category lang="en">Chinese</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210613133000 +0000" stop="20210613134000 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">今日評說</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">News</category>
     <category lang="en">Talkshow</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210613134000 +0000" stop="20210613135800 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">中國藍速遞</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">Entertainment</category>
     <category lang="en">Variety</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210613135800 +0000" stop="20210613160200 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">重播精選綜藝</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">Entertainment</category>
     <category lang="en">Variety</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210613160200 +0000" stop="20210613171000 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">重播精選綜藝</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">Entertainment</category>
     <category lang="en">Variety</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210613171000 +0000" stop="20210613171400 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">天氣預報</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">News</category>
     <category lang="en">Weather</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210613171400 +0000" stop="20210613181900 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">今日聚焦</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">News</category>
     <category lang="en">Talkshow</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210613181900 +0000" stop="20210613223100 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">紀錄片</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">Knowledge</category>
     <category lang="en">Documentary</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210613223100 +0000" stop="20210613225700 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">浙江新聞聯播</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">News</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210613225700 +0000" stop="20210613231800 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">華商啟示錄</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">Knowledge</category>
     <category lang="en">Cultures</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210613231800 +0000" stop="20210613232000 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">天氣預報</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">News</category>
     <category lang="en">Weather</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210613232000 +0000" stop="20210613232500 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">今日證券</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">News</category>
     <category lang="en">Financial News</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210613232500 +0000" stop="20210614014300 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">上午劇場</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">Series</category>
     <category lang="en">Chinese</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210614014300 +0000" stop="20210614095700 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">重播精選綜藝</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">Entertainment</category>
     <category lang="en">Variety</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210614095700 +0000" stop="20210614100000 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">氣象預報</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">News</category>
     <category lang="en">Weather</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210614100000 +0000" stop="20210614103000 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">新聞深一度</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">News</category>
     <category lang="en">Features</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210614103000 +0000" stop="20210614105100 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">浙江新聞聯播</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">News</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210614105100 +0000" stop="20210614105300 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">天氣預報</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">News</category>
     <category lang="en">Weather</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210614105300 +0000" stop="20210614110000 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">今日聚焦</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">News</category>
     <category lang="en">Talkshow</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210614110000 +0000" stop="20210614113300 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">轉播中央電視台新聞聯播</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">News</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210614113300 +0000" stop="20210614133000 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">中國藍劇場</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">Series</category>
     <category lang="en">Chinese</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210614133000 +0000" stop="20210614134000 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">今日評說</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">News</category>
     <category lang="en">Talkshow</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210614134000 +0000" stop="20210614135800 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">中國藍速遞</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">Entertainment</category>
     <category lang="en">Variety</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210614135800 +0000" stop="20210614160200 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">重播精選綜藝</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">Entertainment</category>
     <category lang="en">Variety</category>
     <country lang="en">CN</country>
@@ -30994,7 +30973,7 @@
     <title lang="id">Kumpul Keluarga</title>
   </programme>
   <programme start="20210613090000 +0700" stop="20210613093000 +0700" channel="Daai TV">
-    <title lang="id">VOA - Dunia Kita</title>
+    <title lang="id">at Jakarta</title>
   </programme>
   <programme start="20210613093000 +0700" stop="20210613100000 +0700" channel="Daai TV">
     <title lang="id">Potret</title>
@@ -31003,10 +30982,16 @@
     <title lang="id">Sehat Ala Timur</title>
   </programme>
   <programme start="20210613103000 +0700" stop="20210613110000 +0700" channel="Daai TV">
-    <title lang="id">Tzu Chi In Malaysia</title>
+    <title lang="id">Vegetarian Cooking</title>
   </programme>
-  <programme start="20210613110000 +0700" stop="20210613130000 +0700" channel="Daai TV">
-    <title lang="id">Drama Kisah Nyata : Indahnya Kasih</title>
+  <programme start="20210613110000 +0700" stop="20210613120000 +0700" channel="Daai TV">
+    <title lang="id">Drama Kisah Nyata  : Siao Mei</title>
+  </programme>
+  <programme start="20210613120000 +0700" stop="20210613123000 +0700" channel="Daai TV">
+    <title lang="id">Selasar Budi</title>
+  </programme>
+  <programme start="20210613123000 +0700" stop="20210613130000 +0700" channel="Daai TV">
+    <title lang="id">at Jakarta</title>
   </programme>
   <programme start="20210613130000 +0700" stop="20210613131500 +0700" channel="Daai TV">
     <title lang="id">Puffin Rock</title>
@@ -31030,7 +31015,7 @@
     <title lang="id">Drama Kisah Nyata : Kebahagiaan Sejati</title>
   </programme>
   <programme start="20210613160000 +0700" stop="20210613170000 +0700" channel="Daai TV">
-    <title lang="id">Dream Stage</title>
+    <title lang="id">Hati Bicara</title>
   </programme>
   <programme start="20210613170000 +0700" stop="20210613173000 +0700" channel="Daai TV">
     <title lang="id">Dapur Mama</title>
@@ -31041,11 +31026,8 @@
   <programme start="20210613180000 +0700" stop="20210613183000 +0700" channel="Daai TV">
     <title lang="id">DAAI Mandarin</title>
   </programme>
-  <programme start="20210613183000 +0700" stop="20210613184500 +0700" channel="Daai TV">
+  <programme start="20210613183000 +0700" stop="20210613190000 +0700" channel="Daai TV">
     <title lang="id">DAAI Inspirasi</title>
-  </programme>
-  <programme start="20210613184500 +0700" stop="20210613190000 +0700" channel="Daai TV">
-    <title lang="id">Lentera Kehidupan</title>
   </programme>
   <programme start="20210613190000 +0700" stop="20210613193000 +0700" channel="Daai TV">
     <title lang="id">Sudut Pandang</title>
@@ -31059,20 +31041,17 @@
   <programme start="20210613210000 +0700" stop="20210613220000 +0700" channel="Daai TV">
     <title lang="id">Drama Kisah Nyata : Indahnya Kasih</title>
   </programme>
-  <programme start="20210613220000 +0700" stop="20210613221500 +0700" channel="Daai TV">
+  <programme start="20210613220000 +0700" stop="20210613223000 +0700" channel="Daai TV">
     <title lang="id">DAAI Inspirasi</title>
   </programme>
-  <programme start="20210613221500 +0700" stop="20210613223000 +0700" channel="Daai TV">
+  <programme start="20210613223000 +0700" stop="20210613230000 +0700" channel="Daai TV">
     <title lang="id">Lentera Kehidupan</title>
   </programme>
-  <programme start="20210613223000 +0700" stop="20210613230000 +0700" channel="Daai TV">
+  <programme start="20210613230000 +0700" stop="20210613233000 +0700" channel="Daai TV">
     <title lang="id">Semangat Berbagi</title>
   </programme>
-  <programme start="20210613230000 +0700" stop="20210613233000 +0700" channel="Daai TV">
-    <title lang="id">Potret</title>
-  </programme>
   <programme start="20210613233000 +0700" stop="20210614000000 +0700" channel="Daai TV">
-    <title lang="id">DAAI Mandarin</title>
+    <title lang="id">Voice Of DAAI</title>
   </programme>
   <programme start="20210613000000 +0700" stop="20210613010000 +0700" channel="Indihome Shopping">
     <title lang="id">Speak Up</title>
