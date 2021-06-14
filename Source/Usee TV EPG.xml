@@ -3097,13 +3097,9 @@
     <title lang="id">MD 11</title>
     <sub-title lang="id">Ligue 1 Highlights 2020/21</sub-title>
   </programme>
-  <programme start="20210614015000 +0000" stop="20210614035000 +0000" channel="BS2">
+  <programme start="20210614015000 +0000" stop="20210614042000 +0000" channel="BS2">
     <title lang="id">Central Coast vs Macarthur</title>
     <sub-title lang="id">A-League 2020/21</sub-title>
-  </programme>
-  <programme start="20210614035000 +0000" stop="20210614042000 +0000" channel="BS2">
-    <title lang="id">Episode Number 9</title>
-    <sub-title lang="id">Fastzone 2021</sub-title>
   </programme>
   <programme start="20210614042000 +0000" stop="20210614060500 +0000" channel="BS2">
     <title lang="id">Atletico vs Osasuna</title>
@@ -3511,13 +3507,10 @@
     <title lang="id">UCL 2020 - 2021</title>
   </programme>
   <programme start="20210614000000 +0700" stop="20210614010000 +0700" channel="Champion TV 2">
-    <title lang="id">Volleyball Nations League 2021 - Women s LIVE</title>
+    <title lang="id">Volleyball Nations League 2021 - Women s</title>
   </programme>
-  <programme start="20210614010000 +0700" stop="20210614013000 +0700" channel="Champion TV 2">
+  <programme start="20210614010000 +0700" stop="20210614015000 +0700" channel="Champion TV 2">
     <title lang="id">Sport Woman</title>
-  </programme>
-  <programme start="20210614013000 +0700" stop="20210614015000 +0700" channel="Champion TV 2">
-    <title lang="id">WTA My Story</title>
   </programme>
   <programme start="20210614015000 +0700" stop="20210614040000 +0700" channel="Champion TV 2">
     <title lang="id">Volleyball Nations League 2021 - Women s LIVE</title>
@@ -3526,22 +3519,19 @@
     <title lang="id">Badminton Unlimited</title>
   </programme>
   <programme start="20210614043000 +0700" stop="20210614063000 +0700" channel="Champion TV 2">
-    <title lang="id">ATP 500 ABN AMRO World Tennis</title>
+    <title lang="id">ATP 500 ABN AMRO World Tennis Tournament</title>
   </programme>
   <programme start="20210614063000 +0700" stop="20210614070000 +0700" channel="Champion TV 2">
     <title lang="id">The Immortal</title>
   </programme>
   <programme start="20210614070000 +0700" stop="20210614090000 +0700" channel="Champion TV 2">
-    <title lang="id">EFL Championship 2020 - 2021</title>
+    <title lang="id">EFL League 1 2020 - 2021</title>
   </programme>
-  <programme start="20210614090000 +0700" stop="20210614110000 +0700" channel="Champion TV 2">
+  <programme start="20210614090000 +0700" stop="20210614113000 +0700" channel="Champion TV 2">
     <title lang="id">UEL 2020 - 2021</title>
   </programme>
-  <programme start="20210614110000 +0700" stop="20210614130000 +0700" channel="Champion TV 2">
+  <programme start="20210614113000 +0700" stop="20210614133000 +0700" channel="Champion TV 2">
     <title lang="id">UCL 2020 - 2021</title>
-  </programme>
-  <programme start="20210614130000 +0700" stop="20210614133000 +0700" channel="Champion TV 2">
-    <title lang="id">Badminton Unlimited</title>
   </programme>
   <programme start="20210614133000 +0700" stop="20210614140000 +0700" channel="Champion TV 2">
     <title lang="id">Monster Knock Out</title>
@@ -3552,23 +3542,17 @@
   <programme start="20210614165000 +0700" stop="20210614190000 +0700" channel="Champion TV 2">
     <title lang="id">Volleyball Nations League 2021 Women s LIVE</title>
   </programme>
-  <programme start="20210614190000 +0700" stop="20210614193000 +0700" channel="Champion TV 2">
-    <title lang="id">UCL Extra Show</title>
-  </programme>
-  <programme start="20210614193000 +0700" stop="20210614195000 +0700" channel="Champion TV 2">
-    <title lang="id">WTA My Story</title>
+  <programme start="20210614190000 +0700" stop="20210614195000 +0700" channel="Champion TV 2">
+    <title lang="id">UCL Final Archive Series</title>
   </programme>
   <programme start="20210614195000 +0700" stop="20210614220000 +0700" channel="Champion TV 2">
     <title lang="id">Volleyball Nations League 2021 Women s LIVE</title>
   </programme>
-  <programme start="20210614220000 +0700" stop="20210614223000 +0700" channel="Champion TV 2">
-    <title lang="id">Badminton Unlimited</title>
-  </programme>
-  <programme start="20210614223000 +0700" stop="20210614233000 +0700" channel="Champion TV 2">
-    <title lang="id">ATP 1000 -  Rolex Monte Carlo Monaco</title>
-  </programme>
-  <programme start="20210614233000 +0700" stop="20210615000000 +0700" channel="Champion TV 2">
+  <programme start="20210614220000 +0700" stop="20210614225000 +0700" channel="Champion TV 2">
     <title lang="id">Monster Knock Out</title>
+  </programme>
+  <programme start="20210614225000 +0700" stop="20210615000000 +0700" channel="Champion TV 2">
+    <title lang="id">Volleyball Nations League 2021 Women s LIVE</title>
   </programme>
   <programme start="20210614000000 +0700" stop="20210614003000 +0700" channel="UseeSports">
     <title lang="id">Smashing Day</title>
@@ -4243,12 +4227,21 @@
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20210614013000 +0000" stop="20210614120000 +0000" channel="egg network">
+  <programme start="20210614033000 +0000" stop="20210614113000 +0000" channel="egg network">
     <title lang="en">MSC Playoffs Day 3</title>
-    <desc lang="en">The best teams of Cambodia, Indonesia, Laos, Malaysia, the Philippines, Singapore, Thailand and Vietnam will be competing in the 2021 Mobile Legends: Bang Bang SEA Cup.</desc>
+    <desc lang="en">The best teams of Cambodia, Indonesia, Laos, Malaysia, the Philippines, Singapore, Thailand and Vietnam will be competing in the 2021 Mobile Legends: Bang Bang SEA Cup.(c)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Others (Sports)</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JTTPK.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210614113000 +0000" stop="20210614120000 +0000" channel="egg network">
+    <title lang="en">Arena eSports</title>
+    <desc lang="en">The first of its kind weekly program that covers the big developments, news and massively popular eSports events worldwide.(c)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
     <rating system="MY">
       <value>U</value>
     </rating>
@@ -12902,30 +12895,39 @@
     <desc lang="id">Setelah kabur dari rumah Haikal melarikan diri sampai harus berganti baju koko marbot yang sedang digantung di terminal. Ustadz Musa yang melihat Haikal berpakaian baju koko, salah mengiranya sebagai santri pertukaran yang harus ia dijemput.</desc>
   </programme>
   <programme start="20210614000000 +0700" stop="20210614003000 +0700" channel="inews">
-    <title lang="id">Mnc Shop</title>
+    <title lang="id">Super Sport Euro 2021 Live Relay Rcti Poland Vs Slovakia</title>
   </programme>
-  <programme start="20210614003000 +0700" stop="20210614010000 +0700" channel="inews">
-    <title lang="id">Mnc Shop</title>
+  <programme start="20210614003000 +0700" stop="20210614005400 +0700" channel="inews">
+    <title lang="id">Super Sport Euro 2021 Live Relay Rcti Poland Vs Slovakia</title>
+  </programme>
+  <programme start="20210614005400 +0700" stop="20210614010000 +0700" channel="inews">
+    <title lang="id">Top Euro</title>
   </programme>
   <programme start="20210614010000 +0700" stop="20210614013000 +0700" channel="inews">
-    <title lang="id">Loveless</title>
+    <title lang="id">Europhoria</title>
   </programme>
-  <programme start="20210614013000 +0700" stop="20210614020000 +0700" channel="inews">
-    <title lang="id">One Fc</title>
+  <programme start="20210614013000 +0700" stop="20210614013500 +0700" channel="inews">
+    <title lang="id">Europhoria</title>
+  </programme>
+  <programme start="20210614013500 +0700" stop="20210614020000 +0700" channel="inews">
+    <title lang="id">Super Sport Euro 2021 Live Relay Rcti Spain Vs Sweden</title>
   </programme>
   <programme start="20210614020000 +0700" stop="20210614023000 +0700" channel="inews">
-    <title lang="id">Inews Sport</title>
+    <title lang="id">Super Sport Euro 2021 Live Relay Rcti Spain Vs Sweden</title>
   </programme>
   <programme start="20210614023000 +0700" stop="20210614030000 +0700" channel="inews">
-    <title lang="id">Inews Sport</title>
+    <title lang="id">Super Sport Euro 2021 Live Relay Rcti Spain Vs Sweden</title>
   </programme>
   <programme start="20210614030000 +0700" stop="20210614032700 +0700" channel="inews">
-    <title lang="id">Inews Sport</title>
+    <title lang="id">Super Sport Euro 2021 Live Relay Rcti Spain Vs Sweden</title>
   </programme>
   <programme start="20210614032700 +0700" stop="20210614033000 +0700" channel="inews">
-    <title lang="id">Padamu Negeri</title>
+    <title lang="id">Super Sport Euro 2021 Live Relay Rcti Spain Vs Sweden</title>
   </programme>
-  <programme start="20210614033000 +0700" stop="20210614040000 +0700" channel="inews">
+  <programme start="20210614033000 +0700" stop="20210614035500 +0700" channel="inews">
+    <title lang="id">Super Sport Euro 2021 Live Relay Rcti Spain Vs Sweden</title>
+  </programme>
+  <programme start="20210614035500 +0700" stop="20210614040000 +0700" channel="inews">
     <title lang="id">Realita</title>
   </programme>
   <programme start="20210614040000 +0700" stop="20210614042700 +0700" channel="inews">
@@ -12962,19 +12964,19 @@
     <title lang="id">Silet</title>
   </programme>
   <programme start="20210614083000 +0700" stop="20210614090000 +0700" channel="inews">
-    <title lang="id">Silet</title>
+    <title lang="id">Inews Sport</title>
   </programme>
   <programme start="20210614090000 +0700" stop="20210614093000 +0700" channel="inews">
-    <title lang="id">Iseleb</title>
+    <title lang="id">Uefa Euro 2020 Rerun Belgium Vs Russia</title>
   </programme>
   <programme start="20210614093000 +0700" stop="20210614100000 +0700" channel="inews">
-    <title lang="id">Iseleb</title>
+    <title lang="id">Uefa Euro 2020 Rerun Belgium Vs Russia</title>
   </programme>
   <programme start="20210614100000 +0700" stop="20210614103000 +0700" channel="inews">
-    <title lang="id">Intens Reborn</title>
+    <title lang="id">Uefa Euro 2020 Rerun Belgium Vs Russia</title>
   </programme>
   <programme start="20210614103000 +0700" stop="20210614110000 +0700" channel="inews">
-    <title lang="id">Realita</title>
+    <title lang="id">Uefa Euro 2020 Rerun Belgium Vs Russia</title>
   </programme>
   <programme start="20210614110000 +0700" stop="20210614113000 +0700" channel="inews">
     <title lang="id">Inews Siang</title>
@@ -12986,25 +12988,19 @@
     <title lang="id">Hello Euro</title>
   </programme>
   <programme start="20210614123000 +0700" stop="20210614130000 +0700" channel="inews">
-    <title lang="id">Bizz Update</title>
+    <title lang="id">Inews Sport</title>
   </programme>
   <programme start="20210614130000 +0700" stop="20210614133000 +0700" channel="inews">
-    <title lang="id">Monitor</title>
+    <title lang="id">Uefa Euro 2020 Rerun England Vs Croatia</title>
   </programme>
   <programme start="20210614133000 +0700" stop="20210614140000 +0700" channel="inews">
-    <title lang="id">Intens Reborn</title>
+    <title lang="id">Uefa Euro 2020 Rerun England Vs Croatia</title>
   </programme>
-  <programme start="20210614140000 +0700" stop="20210614141500 +0700" channel="inews">
-    <title lang="id">Intens Reborn</title>
+  <programme start="20210614140000 +0700" stop="20210614143000 +0700" channel="inews">
+    <title lang="id">Uefa Euro 2020 Rerun England Vs Croatia</title>
   </programme>
-  <programme start="20210614141500 +0700" stop="20210614143000 +0700" channel="inews">
-    <title lang="id">I Seleb</title>
-  </programme>
-  <programme start="20210614143000 +0700" stop="20210614144500 +0700" channel="inews">
-    <title lang="id">I Seleb</title>
-  </programme>
-  <programme start="20210614144500 +0700" stop="20210614150000 +0700" channel="inews">
-    <title lang="id">I Seleb</title>
+  <programme start="20210614143000 +0700" stop="20210614150000 +0700" channel="inews">
+    <title lang="id">Uefa Euro 2020 Rerun England Vs Croatia</title>
   </programme>
   <programme start="20210614150000 +0700" stop="20210614153000 +0700" channel="inews">
     <title lang="id">Realita</title>
@@ -13027,44 +13023,62 @@
   <programme start="20210614180000 +0700" stop="20210614183000 +0700" channel="inews">
     <title lang="id">Inews Room</title>
   </programme>
-  <programme start="20210614183000 +0700" stop="20210614190000 +0700" channel="inews">
+  <programme start="20210614183000 +0700" stop="20210614184500 +0700" channel="inews">
     <title lang="id">Inews Room</title>
   </programme>
-  <programme start="20210614190000 +0700" stop="20210614193000 +0700" channel="inews">
+  <programme start="20210614184500 +0700" stop="20210614190000 +0700" channel="inews">
+    <title lang="id">Inews Room</title>
+  </programme>
+  <programme start="20210614190000 +0700" stop="20210614191500 +0700" channel="inews">
+    <title lang="id">Top Euro</title>
+  </programme>
+  <programme start="20210614191500 +0700" stop="20210614193000 +0700" channel="inews">
+    <title lang="id">Top Euro</title>
+  </programme>
+  <programme start="20210614193000 +0700" stop="20210614193500 +0700" channel="inews">
     <title lang="id">Top Hilite</title>
   </programme>
-  <programme start="20210614193000 +0700" stop="20210614200000 +0700" channel="inews">
+  <programme start="20210614193500 +0700" stop="20210614200000 +0700" channel="inews">
     <title lang="id">Top Hilite</title>
   </programme>
   <programme start="20210614200000 +0700" stop="20210614201500 +0700" channel="inews">
-    <title lang="id">Top Files</title>
+    <title lang="id">Top Hilite</title>
   </programme>
   <programme start="20210614201500 +0700" stop="20210614203000 +0700" channel="inews">
-    <title lang="id">Top Files</title>
+    <title lang="id">Top Hilite</title>
   </programme>
   <programme start="20210614203000 +0700" stop="20210614210000 +0700" channel="inews">
     <title lang="id">Top Files</title>
   </programme>
   <programme start="20210614210000 +0700" stop="20210614211500 +0700" channel="inews">
-    <title lang="id">Police Story</title>
+    <title lang="id">Top Files</title>
   </programme>
   <programme start="20210614211500 +0700" stop="20210614213000 +0700" channel="inews">
-    <title lang="id">Police Story</title>
+    <title lang="id">Top Files</title>
   </programme>
-  <programme start="20210614213000 +0700" stop="20210614220000 +0700" channel="inews">
-    <title lang="id">Indonesia Border</title>
-  </programme>
-  <programme start="20210614220000 +0700" stop="20210614223000 +0700" channel="inews">
+  <programme start="20210614213000 +0700" stop="20210614215600 +0700" channel="inews">
     <title lang="id">Inews Malam</title>
   </programme>
-  <programme start="20210614223000 +0700" stop="20210614230000 +0700" channel="inews">
+  <programme start="20210614215600 +0700" stop="20210614220000 +0700" channel="inews">
+    <title lang="id">Inews Malam</title>
+  </programme>
+  <programme start="20210614220000 +0700" stop="20210614221500 +0700" channel="inews">
     <title lang="id">Hello Euro</title>
+  </programme>
+  <programme start="20210614221500 +0700" stop="20210614223000 +0700" channel="inews">
+    <title lang="id">Europhoria</title>
+  </programme>
+  <programme start="20210614223000 +0700" stop="20210614223500 +0700" channel="inews">
+    <title lang="id">Europhoria</title>
+  </programme>
+  <programme start="20210614223500 +0700" stop="20210614230000 +0700" channel="inews">
+    <title lang="id">Super Sport Euro 2021 Live Relay Rcti Poland Vs Slovakia</title>
   </programme>
   <programme start="20210614230000 +0700" stop="20210614233000 +0700" channel="inews">
-    <title lang="id">Hello Euro</title>
+    <title lang="id">Super Sport Euro 2021 Live Relay Rcti Poland Vs Slovakia</title>
   </programme>
   <programme start="20210614233000 +0700" stop="20210615000000 +0700" channel="inews">
-    <title lang="id">Bentrap</title>
+    <title lang="id">Super Sport Euro 2021 Live Relay Rcti Poland Vs Slovakia</title>
   </programme>
   <programme start="20210614000000 +0700" stop="20210614013000 +0700" channel="mncnews">
     <title lang="id">One Fighting Championship LIVE</title>
