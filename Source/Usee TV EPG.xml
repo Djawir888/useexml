@@ -183,7 +183,7 @@
   </channel>
   <channel id="UseeSports2">
     <display-name lang="id">UseeSports2</display-name>
-    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_useesports2_small.png&quot;  alt=&quot;UseeSports2&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;UseeSports2&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;UseeSports2&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
+    <icon src="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png&quot;  alt=&quot;UseeSports2&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;UseeSports2&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;UseeSports2&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;div data-shaka-player-container style=&quot;max-width:100%;background-color:#000&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; autoplay data-shaka-player id=&quot;video&quot; style=&quot;width:100%;height:100%&quot;&gt;&lt;/video&gt;&lt;/div&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="UseePrime">
@@ -1941,7 +1941,7 @@
   </programme>
   <programme start="20210617000000 +0200" stop="20210617010000 +0200" channel="RED BY HBO (HD)">
     <title lang="en">Wacko At Law S1 19: Episode 19 - EP19</title>
-    <desc lang="en">When a tragic air crash suddenly takes the lives of his loved ones, a disgruntled genius returns to the legal world he gave up in order to seek justice for the ones he lost.(n)</desc>
+    <desc lang="en">When a tragic air crash suddenly takes the lives of his loved ones, a disgruntled genius returns to the legal world he gave up in order to seek justice for the ones he lost.</desc>
     <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='2994266'&amp;EntityType='LinearSchedule'&amp;EntityId='f436116f-19af-4982-a633-8c7e7bd5118b'&amp;Width=1280&amp;Height=720&amp;ImageUrl=2994266.jpg&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <episode-num system="onscreen">S1 E19</episode-num>
     <rating>
@@ -1950,7 +1950,7 @@
   </programme>
   <programme start="20210617010000 +0200" stop="20210617020010 +0200" channel="RED BY HBO (HD)">
     <title lang="en">Wacko At Law S1 20: Episode 20 - EP20</title>
-    <desc lang="en">When a tragic air crash suddenly takes the lives of his loved ones, a disgruntled genius returns to the legal world he gave up in order to seek justice for the ones he lost.(n)</desc>
+    <desc lang="en">When a tragic air crash suddenly takes the lives of his loved ones, a disgruntled genius returns to the legal world he gave up in order to seek justice for the ones he lost.</desc>
     <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='2994262'&amp;EntityType='LinearSchedule'&amp;EntityId='fe7b578d-165f-4521-86fc-e4af7c9278d1'&amp;Width=1280&amp;Height=720&amp;ImageUrl=2994262.jpg&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <episode-num system="onscreen">S1 E20</episode-num>
     <rating>
@@ -1959,7 +1959,7 @@
   </programme>
   <programme start="20210617020010 +0200" stop="20210617041006 +0200" channel="RED BY HBO (HD)">
     <title lang="en">Zenin, Kataomoi</title>
-    <desc lang="en">A Japanese anthology of bittersweet love stories on unrequited love, as told through a weekly radio show by a once-popular singer-turned-DJ.(n)</desc>
+    <desc lang="en">A Japanese anthology of bittersweet love stories on unrequited love, as told through a weekly radio show by a once-popular singer-turned-DJ.</desc>
     <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='2994258'&amp;EntityType='LinearSchedule'&amp;EntityId='67369df2-b7ab-407b-a4ba-38f9582a9df6'&amp;Width=1280&amp;Height=720&amp;ImageUrl=2994258.jpg&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <rating>
       <value>PG</value>
@@ -1968,7 +1968,7 @@
   <programme start="20210617041006 +0200" stop="20210617055000 +0200" channel="RED BY HBO (HD)">
     <title lang="en">Master Of The White Crane Fist: Wong Yan-Lam</title>
     <title lang="xx">龙藏深泉王隐林</title>
-    <desc lang="en">Four constables escorting a criminal cross paths with a theatre troupe and a mysterious priest, setting off a series of events that will lead to the murder of a constable.(n)</desc>
+    <desc lang="en">Four constables escorting a criminal cross paths with a theatre troupe and a mysterious priest, setting off a series of events that will lead to the murder of a constable.</desc>
     <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='2994254'&amp;EntityType='LinearSchedule'&amp;EntityId='7ad624e2-c1a8-4100-af14-d219ea0bb043'&amp;Width=1280&amp;Height=720&amp;ImageUrl=2994254.jpg&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <rating>
       <value>NC16</value>
@@ -1976,7 +1976,7 @@
   </programme>
   <programme start="20210617055000 +0200" stop="20210617081000 +0200" channel="RED BY HBO (HD)">
     <title lang="en">Leaving The Scene</title>
-    <desc lang="en">In this Japanese crime drama, detectives soon find out that there is more to uncover under the surface of this seemingly simple hit-and-run case.(n)</desc>
+    <desc lang="en">In this Japanese crime drama, detectives soon find out that there is more to uncover under the surface of this seemingly simple hit-and-run case.</desc>
     <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='2994250'&amp;EntityType='LinearSchedule'&amp;EntityId='aceaca54-3907-4423-8f21-70ad1e2da327'&amp;Width=1280&amp;Height=720&amp;ImageUrl=2994250.jpg&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <rating>
       <value>PG</value>
@@ -1984,7 +1984,7 @@
   </programme>
   <programme start="20210617081000 +0200" stop="20210617100002 +0200" channel="RED BY HBO (HD)">
     <title lang="en">Eclipse</title>
-    <desc lang="en">When a troubled teen moves into a new town, he befriends a suspicious new acquaintance and things start taking a dark turn.(n)</desc>
+    <desc lang="en">When a troubled teen moves into a new town, he befriends a suspicious new acquaintance and things start taking a dark turn.</desc>
     <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='2994246'&amp;EntityType='LinearSchedule'&amp;EntityId='0b344759-5599-4369-ba17-050c409dd711'&amp;Width=1280&amp;Height=720&amp;ImageUrl=2994246.jpg&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <rating>
       <value>PG</value>
@@ -1992,7 +1992,7 @@
   </programme>
   <programme start="20210617100002 +0200" stop="20210617120010 +0200" channel="RED BY HBO (HD)">
     <title lang="en">Airpocalypse</title>
-    <desc lang="en">A psychologist accidentally absorbs the power of the God of Longevity and must now team up with other fallen Gods to defeat the evil God of Thunder.(n)</desc>
+    <desc lang="en">A psychologist accidentally absorbs the power of the God of Longevity and must now team up with other fallen Gods to defeat the evil God of Thunder.</desc>
     <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='2994242'&amp;EntityType='LinearSchedule'&amp;EntityId='ffb3bc91-5797-4f5d-965d-0cbbedeee641'&amp;Width=1280&amp;Height=720&amp;ImageUrl=2994242.jpg&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <rating>
       <value>PG</value>
@@ -2000,7 +2000,7 @@
   </programme>
   <programme start="20210617120010 +0200" stop="20210617140000 +0200" channel="RED BY HBO (HD)">
     <title lang="en">Black Light</title>
-    <desc lang="en">Doubts and questions arise after a suspicious car accident in this South Korean mystery melodrama.(n)</desc>
+    <desc lang="en">Doubts and questions arise after a suspicious car accident in this South Korean mystery melodrama.</desc>
     <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='3012988'&amp;EntityType='LinearSchedule'&amp;EntityId='7dc5069f-74fb-4c11-88b8-19fae1ec4c71'&amp;Width=1280&amp;Height=720&amp;ImageUrl=3012988.jpg&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <rating>
       <value>PG</value>
@@ -2008,7 +2008,7 @@
   </programme>
   <programme start="20210617140000 +0200" stop="20210617155005 +0200" channel="RED BY HBO (HD)">
     <title lang="en">Beautiful Voice</title>
-    <desc lang="en">A group of passionate voice actors attempts a massive undertaking – finishing a project in just one day. What can go wrong?(n)</desc>
+    <desc lang="en">A group of passionate voice actors attempts a massive undertaking – finishing a project in just one day. What can go wrong?</desc>
     <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='2994238'&amp;EntityType='LinearSchedule'&amp;EntityId='a2691983-205c-4ec3-b41a-a456155cb55a'&amp;Width=1280&amp;Height=720&amp;ImageUrl=2994238.jpg&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <rating>
       <value>PG</value>
@@ -2016,7 +2016,7 @@
   </programme>
   <programme start="20210617155005 +0200" stop="20210617173000 +0200" channel="RED BY HBO (HD)">
     <title lang="en">Tiger: My Life As A Cat</title>
-    <desc lang="en">When a failed manga artist who spends all day drinking and gambling dies unexpectedly, the afterlife gives him one more chance to reflect on his life and he returns to Earth as a cat.(n)</desc>
+    <desc lang="en">When a failed manga artist who spends all day drinking and gambling dies unexpectedly, the afterlife gives him one more chance to reflect on his life and he returns to Earth as a cat.</desc>
     <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='2994234'&amp;EntityType='LinearSchedule'&amp;EntityId='ccbe6a72-c1c5-4615-ad15-000942470674'&amp;Width=1280&amp;Height=720&amp;ImageUrl=2994234.jpg&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <rating>
       <value>PG</value>
@@ -2024,7 +2024,7 @@
   </programme>
   <programme start="20210617173000 +0200" stop="20210617192003 +0200" channel="RED BY HBO (HD)">
     <title lang="en">Eclipse</title>
-    <desc lang="en">When a troubled teen moves into a new town, he befriends a suspicious new acquaintance and things start taking a dark turn.(n)</desc>
+    <desc lang="en">When a troubled teen moves into a new town, he befriends a suspicious new acquaintance and things start taking a dark turn.</desc>
     <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='2997234'&amp;EntityType='LinearSchedule'&amp;EntityId='58783f20-7a81-4c14-967b-3131b07be54f'&amp;Width=1280&amp;Height=720&amp;ImageUrl=2997234.jpg&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <rating>
       <value>PG</value>
@@ -2032,7 +2032,7 @@
   </programme>
   <programme start="20210617192003 +0200" stop="20210617211006 +0200" channel="RED BY HBO (HD)">
     <title lang="en">Something Like, Something Like It</title>
-    <desc lang="en">In this Japanese comedy, a young apprentice in a traditional comic storytelling troupe is sent on a quest to find a long-lost performer.(n)</desc>
+    <desc lang="en">In this Japanese comedy, a young apprentice in a traditional comic storytelling troupe is sent on a quest to find a long-lost performer.</desc>
     <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='2997230'&amp;EntityType='LinearSchedule'&amp;EntityId='7f8f53e1-700f-498d-a653-1802fa3135ab'&amp;Width=1280&amp;Height=720&amp;ImageUrl=2997230.jpg&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <rating>
       <value>PG</value>
@@ -4090,159 +4090,168 @@
   </programme>
   <programme start="20210617003000 +0000" stop="20210617013000 +0000" channel="NBA">
     <title lang="en">Playoff Playback Mavericks/Clippers Round 1 Game 3</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
     <date>2021</date>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20210617013000 +0000" stop="20210617020000 +0000" channel="NBA">
     <title lang="en">NBA Action</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
     <date>3025</date>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20210617020000 +0000" stop="20210617043000 +0000" channel="NBA">
     <title lang="en">Playoff Central Live</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20210617043000 +0000" stop="20210617060000 +0000" channel="NBA">
     <title lang="en">Playoff Central Live</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20210617060000 +0000" stop="20210617070000 +0000" channel="NBA">
     <title lang="en">Playoff Playback Clippers/Mavericks Round 1 Game 4</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
     <date>2021</date>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20210617070000 +0000" stop="20210617080000 +0000" channel="NBA">
     <title lang="en">Playoff Playback Sixers/Wizards Round 1 Game 3</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
     <date>2021</date>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20210617080000 +0000" stop="20210617090000 +0000" channel="NBA">
     <title lang="en">Playoff Playback Sixers/Wizards Round 1 Game 4</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
     <date>2021</date>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20210617090000 +0000" stop="20210617100000 +0000" channel="NBA">
     <title lang="en">Playoff Playback Mavericks/Clippers Round 1 Game 3</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
     <date>2021</date>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20210617100000 +0000" stop="20210617110000 +0000" channel="NBA">
     <title lang="en">Playoff Playback Clippers/Mavericks Round 1 Game 4</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
     <date>2021</date>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20210617110000 +0000" stop="20210617120000 +0000" channel="NBA">
     <title lang="en">Inside the NBA</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20210617120000 +0000" stop="20210617130000 +0000" channel="NBA">
     <title lang="en">Playoff Playback Sixers/Wizards Round 1 Game 3</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
     <date>2021</date>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20210617130000 +0000" stop="20210617140000 +0000" channel="NBA">
     <title lang="en">Playoff Playback Sixers/Wizards Round 1 Game 4</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
     <date>2021</date>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20210617140000 +0000" stop="20210617150000 +0000" channel="NBA">
     <title lang="en">Inside the NBA</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20210617150000 +0000" stop="20210617160000 +0000" channel="NBA">
     <title lang="en">Playoff Playback Nets/Celtics Round 1 Game 4</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
     <date>2021</date>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20210617160000 +0000" stop="20210617170000 +0000" channel="NBA">
     <title lang="en">Playoff Playback Nets/Celtics Round 1 Game 5</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
     <date>2021</date>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20210617170000 +0000" stop="20210617180000 +0000" channel="NBA">
     <title lang="en">Inside the NBA</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20210617180000 +0000" stop="20210617190000 +0000" channel="NBA">
     <title lang="en">Playoff Playback Hawks/Knicks Round 1 Game 5</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
     <date>2021</date>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20210617190000 +0000" stop="20210617200000 +0000" channel="NBA">
     <title lang="en">Inside the NBA</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20210617200000 +0000" stop="20210617210000 +0000" channel="NBA">
     <title lang="en">Playoff Playback Nets/Celtics Round 1 Game 4</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
     <date>2021</date>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20210617210000 +0000" stop="20210617220000 +0000" channel="NBA">
     <title lang="en">Playoff Playback Celtics/Nets Round 1 Game 5</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
     <date>2021</date>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20210617220000 +0000" stop="20210617223000 +0000" channel="NBA">
     <title lang="en">WNBA Weekly #205</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20210617223000 +0000" stop="20210617233000 +0000" channel="NBA">
     <title lang="en">Asian American &amp; Pacifc Islands Round Table</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20210617233000 +0000" stop="20210618003000 +0000" channel="NBA">
     <title lang="en">Playoff Central Live</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
   </programme>
+  <programme start="20210617030500 +0000" stop="20210617033000 +0000" channel="egg network">
+    <title lang="en">Arena eSports</title>
+    <desc lang="en">The first of its kind weekly program that covers the big developments, news and massively popular eSports events worldwide.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
   <programme start="20210617033000 +0000" stop="20210617100000 +0000" channel="egg network">
     <title lang="en">WePlay AniMajor: Playoffs Day 4</title>
-    <desc lang="en">Top teams are competing for the second major of the 2021 Dota Pro Circuit season at WePlay Esports Arena Kyiv, Ukraine.(n)</desc>
+    <desc lang="en">Top teams are competing for the second major of the 2021 Dota Pro Circuit season at WePlay Esports Arena Kyiv, Ukraine.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Others (Sports)</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JTTUJ.jpg" />
@@ -4252,7 +4261,7 @@
   </programme>
   <programme start="20210617100000 +0000" stop="20210617194000 +0000" channel="egg network">
     <title lang="en">(L) Blast Premier Spring Final Day 3</title>
-    <desc lang="en">LIVE: 8 of the world’s best esports teams. The world’s best players and biggest stars.(n)</desc>
+    <desc lang="en">LIVE: 8 of the world’s best esports teams. The world’s best players and biggest stars.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Others (Sports)</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JTZLU.jpg" />
@@ -4262,7 +4271,7 @@
   </programme>
   <programme start="20210617194000 +0000" stop="20210617230000 +0000" channel="egg network">
     <title lang="en">Apex Legends Cship Group Stage Day 1</title>
-    <desc lang="en">The epic conclusion of the ALGS is almost here. With a total Prize Pool of $1,000,000, the best teams in the world will compete to be crowned champions and cement their status as true Legends.(n)</desc>
+    <desc lang="en">The epic conclusion of the ALGS is almost here. With a total Prize Pool of $1,000,000, the best teams in the world will compete to be crowned champions and cement their status as true Legends.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Others (Sports)</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JTCRK.jpg" />
@@ -4272,7 +4281,7 @@
   </programme>
   <programme start="20210617230000 +0000" stop="20210618023000 +0000" channel="egg network">
     <title lang="en">(L) NBA 2K League: Week 4 Day 2</title>
-    <desc lang="en">LIVE: A professional esports league featuring the best NBA2K players in the world and the first official esports league operated by a U.S. professional sports league.(n)</desc>
+    <desc lang="en">LIVE: A professional esports league featuring the best NBA2K players in the world and the first official esports league operated by a U.S. professional sports league.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Others (Sports)</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JTJIH.jpg" />
@@ -4286,40 +4295,40 @@
   </programme>
   <programme start="20210617010000 +0700" stop="20210617021000 +0700" channel="MTV LIVE HD">
     <title lang="id">24K Goldn's 24k Hits</title>
-    <desc lang="id">Rapper 24k Goldn meluangkan waktu untuk menaklukkan tangga lagu untuk menghitung mundur hit 24k favoritnya! Termasuk musik dari Post Malone, DJ Khaled, Drake dan 24k Goldn sendiri!(c)</desc>
+    <desc lang="id">Rapper 24k Goldn meluangkan waktu untuk menaklukkan tangga lagu untuk menghitung mundur hit 24k favoritnya! Termasuk musik dari Post Malone, DJ Khaled, Drake dan 24k Goldn sendiri!</desc>
   </programme>
   <programme start="20210617021000 +0700" stop="20210617023500 +0700" channel="MTV LIVE HD">
     <title lang="id">MTV Asks Jorja Smith @ Home</title>
-    <desc lang="id">Snoochie Shy mengobrol dengan Jorja Smith tentang musiknya, mengintip ponselnya, dan menanyakan pertanyaan yang dikirimkan oleh kalian, penggemarnya di seluruh dunia!(c)</desc>
+    <desc lang="id">Snoochie Shy mengobrol dengan Jorja Smith tentang musiknya, mengintip ponselnya, dan menanyakan pertanyaan yang dikirimkan oleh kalian, penggemarnya di seluruh dunia!</desc>
   </programme>
   <programme start="20210617023500 +0700" stop="20210617025500 +0700" channel="MTV LIVE HD">
     <title lang="id">Hot Spot</title>
     <sub-title lang="id">Bruno Mars</sub-title>
-    <desc lang="id">Bruno Mars menjadi sorotan sekarang karena kami memutar video terbaiknya!(c)</desc>
+    <desc lang="id">Bruno Mars menjadi sorotan sekarang karena kami memutar video terbaiknya!</desc>
   </programme>
   <programme start="20210617025500 +0700" stop="20210617031500 +0700" channel="MTV LIVE HD">
     <title lang="id">World Stage</title>
     <sub-title lang="id">Shawn Mendes MTV Highlights</sub-title>
-    <desc lang="id">MTV World Stage merayakan perilisan album studio ke-4 Shawn Mendes 'Wonder' dengan koleksi highlight penampilan MTV-nya. Termasuk trek dari MTV VMAs dan MTV Unplugged.(c)</desc>
+    <desc lang="id">MTV World Stage merayakan perilisan album studio ke-4 Shawn Mendes 'Wonder' dengan koleksi highlight penampilan MTV-nya. Termasuk trek dari MTV VMAs dan MTV Unplugged.</desc>
   </programme>
   <programme start="20210617031500 +0700" stop="20210617034000 +0700" channel="MTV LIVE HD">
     <title lang="id">MTV Unplugged Presents</title>
     <sub-title lang="id">BTS</sub-title>
-    <desc lang="id">Grup super global BTS menyanyikan 'Unplugged' yang tidak hanya menyanyikan beberapa lagu terbaru mereka di BE, tetapi juga beberapa kejutan besar - semuanya dalam acara spesial yang tidak boleh dilewatkan ini.(c)</desc>
+    <desc lang="id">Grup super global BTS menyanyikan 'Unplugged' yang tidak hanya menyanyikan beberapa lagu terbaru mereka di BE, tetapi juga beberapa kejutan besar - semuanya dalam acara spesial yang tidak boleh dilewatkan ini.</desc>
   </programme>
   <programme start="20210617034000 +0700" stop="20210617040500 +0700" channel="MTV LIVE HD">
     <title lang="id">My Life On MTV</title>
-    <desc lang="id">Bersiap untuk para Boy Band! Dua era musik pop yang berbeda. Dua era MTV yang berbeda.(c)</desc>
+    <desc lang="id">Bersiap untuk para Boy Band! Dua era musik pop yang berbeda. Dua era MTV yang berbeda.</desc>
   </programme>
   <programme start="20210617040500 +0700" stop="20210617042500 +0700" channel="MTV LIVE HD">
     <title lang="id">Twenty One Pilots</title>
     <sub-title lang="id">MTV World Stage</sub-title>
-    <desc lang="id">MTV World Stage adalah kesempatan Anda untuk melihat artis terbesar di dunia hidup bersama tanpa meninggalkan kenyamanan sofa Anda.(c)</desc>
+    <desc lang="id">MTV World Stage adalah kesempatan Anda untuk melihat artis terbesar di dunia hidup bersama tanpa meninggalkan kenyamanan sofa Anda.</desc>
   </programme>
   <programme start="20210617042500 +0700" stop="20210617045000 +0700" channel="MTV LIVE HD">
     <title lang="id">MTV Unplugged Presents</title>
     <sub-title lang="id">BTS</sub-title>
-    <desc lang="id">Grup super global BTS menyanyikan 'Unplugged' yang tidak hanya menyanyikan beberapa lagu terbaru mereka di BE, tetapi juga beberapa kejutan besar - semuanya dalam acara spesial yang tidak boleh dilewatkan ini.(c)</desc>
+    <desc lang="id">Grup super global BTS menyanyikan 'Unplugged' yang tidak hanya menyanyikan beberapa lagu terbaru mereka di BE, tetapi juga beberapa kejutan besar - semuanya dalam acara spesial yang tidak boleh dilewatkan ini.</desc>
   </programme>
   <programme start="20210617045000 +0700" stop="20210617051500 +0700" channel="MTV LIVE HD">
     <title lang="id">Little Mix</title>
@@ -4336,21 +4345,21 @@
   </programme>
   <programme start="20210617080000 +0700" stop="20210617090000 +0700" channel="MTV LIVE HD">
     <title lang="id">MTV Unplugged Natalia Przybysz</title>
-    <desc lang="id">Direkam di Warsawa pada tahun 2020, penyanyi R&amp;B Polandia Natalia Przybysz adalah artis terbaru yang menampilkan beberapa lagu yang paling dicintainya, khusus untuk MTV Unplugged!(c)</desc>
+    <desc lang="id">Direkam di Warsawa pada tahun 2020, penyanyi R&amp;B Polandia Natalia Przybysz adalah artis terbaru yang menampilkan beberapa lagu yang paling dicintainya, khusus untuk MTV Unplugged!</desc>
   </programme>
   <programme start="20210617090000 +0700" stop="20210617092000 +0700" channel="MTV LIVE HD">
     <title lang="id">Sam Fender</title>
     <sub-title lang="id">MTV Live From Fusion Festival 2019</sub-title>
-    <desc lang="id">Menghadirkan liputan dari Festival Fusion tahun ini di mana Sam Fender membawakan lagu-lagu terkenalnya termasuk 'Play God', 'Spice', dan 'Hypersonic Missiles'.(c)</desc>
+    <desc lang="id">Menghadirkan liputan dari Festival Fusion tahun ini di mana Sam Fender membawakan lagu-lagu terkenalnya termasuk 'Play God', 'Spice', dan 'Hypersonic Missiles'.</desc>
   </programme>
   <programme start="20210617092000 +0700" stop="20210617094500 +0700" channel="MTV LIVE HD">
     <title lang="id">MTV Live</title>
     <sub-title lang="id">Fontaines DC</sub-title>
-    <desc lang="id">Kuintet indie yang penuh semangat, Fontaines D.C., menampilkan puisi mereka yang dipadukan ke dalam musik Rock di Montrose, Dublin, dengan menyuguhkan lagu-lagu dari album terbaru mereka, A Hero's Death.(c)</desc>
+    <desc lang="id">Kuintet indie yang penuh semangat, Fontaines D.C., menampilkan puisi mereka yang dipadukan ke dalam musik Rock di Montrose, Dublin, dengan menyuguhkan lagu-lagu dari album terbaru mereka, A Hero's Death.</desc>
   </programme>
   <programme start="20210617094500 +0700" stop="20210617120000 +0700" channel="MTV LIVE HD">
     <title lang="id">Hot Right Now!</title>
-    <desc lang="id">Kami tampilkan video musik terpanas di dunia sekarang!(c)</desc>
+    <desc lang="id">Kami tampilkan video musik terpanas di dunia sekarang!</desc>
   </programme>
   <programme start="20210617120000 +0700" stop="20210617140000 +0700" channel="MTV LIVE HD">
     <title lang="id">High Definition Hits!</title>
@@ -7247,7 +7256,7 @@
   </programme>
   <programme start="20210617000000 +0000" stop="20210617004500 +0000" channel="Kplus">
     <title lang="en">My Strange Hero</title>
-    <desc lang="en">Soo-jung decides to ask Bok-soo about what happened 9 years ago.(n)</desc>
+    <desc lang="en">Soo-jung decides to ask Bok-soo about what happened 9 years ago.</desc>
     <credits>
       <director>Ham Joon Ho</director>
       <actor>Yoo Seung Ho / Jo Bo Ah</actor>
@@ -7262,7 +7271,7 @@
   </programme>
   <programme start="20210617004500 +0000" stop="20210617020000 +0000" channel="Kplus">
     <title lang="en">Best of Chef &amp; My Fridge</title>
-    <desc lang="en">Chef and My Fridge is an innovative cooking variety program that teaches you how to make amazing dishes with simple ingredients from your fridge in a matter of minutes!(n)</desc>
+    <desc lang="en">Chef and My Fridge is an innovative cooking variety program that teaches you how to make amazing dishes with simple ingredients from your fridge in a matter of minutes!</desc>
     <credits>
       <director>Sung Hee Sung</director>
       <actor>Kim Sung Joo / Ahn Jung Hwan</actor>
@@ -7277,7 +7286,7 @@
   </programme>
   <programme start="20210617020000 +0000" stop="20210617031500 +0000" channel="Kplus">
     <title lang="en">Best Chicken</title>
-    <desc lang="en">Andrew decides to work at Choi-go's restaurant.(n)</desc>
+    <desc lang="en">Andrew decides to work at Choi-go's restaurant.</desc>
     <credits>
       <director>Lee Seung Hoon</director>
       <actor>Park Sun Ho / Kim So Hye</actor>
@@ -7292,7 +7301,7 @@
   </programme>
   <programme start="20210617031500 +0000" stop="20210617034500 +0000" channel="Kplus">
     <title lang="en">My Strange Hero</title>
-    <desc lang="en">Soo-jung gets her money back from the swindler.(n)</desc>
+    <desc lang="en">Soo-jung gets her money back from the swindler.</desc>
     <credits>
       <director>Ham Joon Ho</director>
       <actor>Yoo Seung Ho / Jo Bo Ah</actor>
@@ -7307,7 +7316,7 @@
   </programme>
   <programme start="20210617034500 +0000" stop="20210617043000 +0000" channel="Kplus">
     <title lang="en">My Strange Hero</title>
-    <desc lang="en">Soo-jung decides to ask Bok-soo about what happened 9 years ago.(n)</desc>
+    <desc lang="en">Soo-jung decides to ask Bok-soo about what happened 9 years ago.</desc>
     <credits>
       <director>Ham Joon Ho</director>
       <actor>Yoo Seung Ho / Jo Bo Ah</actor>
@@ -7322,7 +7331,7 @@
   </programme>
   <programme start="20210617043000 +0000" stop="20210617054500 +0000" channel="Kplus">
     <title lang="en">I Hate Going to Work</title>
-    <desc lang="en">Ji-won finds out that Jin-ju is secretly dating someone in the company.(n)</desc>
+    <desc lang="en">Ji-won finds out that Jin-ju is secretly dating someone in the company.</desc>
     <credits>
       <director>Jo Na Eun</director>
       <actor>Kim Dong Wan / Han Soo Yeon</actor>
@@ -7337,7 +7346,7 @@
   </programme>
   <programme start="20210617054500 +0000" stop="20210617070000 +0000" channel="Kplus">
     <title lang="en">Best of Chef &amp; My Fridge</title>
-    <desc lang="en">Chef and My Fridge is an innovative cooking variety program that teaches you how to make amazing dishes with simple ingredients from your fridge in a matter of minutes!(n)</desc>
+    <desc lang="en">Chef and My Fridge is an innovative cooking variety program that teaches you how to make amazing dishes with simple ingredients from your fridge in a matter of minutes!</desc>
     <credits>
       <director>Sung Hee Sung</director>
       <actor>Kim Sung Joo / Ahn Jung Hwan</actor>
@@ -7352,7 +7361,7 @@
   </programme>
   <programme start="20210617070000 +0000" stop="20210617081500 +0000" channel="Kplus">
     <title lang="en">Best Chicken</title>
-    <desc lang="en">Andrew decides to work at Choi-go's restaurant.(n)</desc>
+    <desc lang="en">Andrew decides to work at Choi-go's restaurant.</desc>
     <credits>
       <director>Lee Seung Hoon</director>
       <actor>Park Sun Ho / Kim So Hye</actor>
@@ -7367,7 +7376,7 @@
   </programme>
   <programme start="20210617081500 +0000" stop="20210617084500 +0000" channel="Kplus">
     <title lang="en">My Strange Hero</title>
-    <desc lang="en">Soo-jung gets her money back from the swindler.(n)</desc>
+    <desc lang="en">Soo-jung gets her money back from the swindler.</desc>
     <credits>
       <director>Ham Joon Ho</director>
       <actor>Yoo Seung Ho / Jo Bo Ah</actor>
@@ -7382,7 +7391,7 @@
   </programme>
   <programme start="20210617084500 +0000" stop="20210617093000 +0000" channel="Kplus">
     <title lang="en">My Strange Hero</title>
-    <desc lang="en">Soo-jung decides to ask Bok-soo about what happened 9 years ago.(n)</desc>
+    <desc lang="en">Soo-jung decides to ask Bok-soo about what happened 9 years ago.</desc>
     <credits>
       <director>Ham Joon Ho</director>
       <actor>Yoo Seung Ho / Jo Bo Ah</actor>
@@ -7397,7 +7406,7 @@
   </programme>
   <programme start="20210617093000 +0000" stop="20210617104500 +0000" channel="Kplus">
     <title lang="en">I Hate Going to Work</title>
-    <desc lang="en">Ji-won finds out that Jin-ju is secretly dating someone in the company.(n)</desc>
+    <desc lang="en">Ji-won finds out that Jin-ju is secretly dating someone in the company.</desc>
     <credits>
       <director>Jo Na Eun</director>
       <actor>Kim Dong Wan / Han Soo Yeon</actor>
@@ -7412,7 +7421,7 @@
   </programme>
   <programme start="20210617104500 +0000" stop="20210617120000 +0000" channel="Kplus">
     <title lang="en">Best of Chef &amp; My Fridge</title>
-    <desc lang="en">Chef and My Fridge is an innovative cooking variety program that teaches you how to make amazing dishes with simple ingredients from your fridge in a matter of minutes!(n)</desc>
+    <desc lang="en">Chef and My Fridge is an innovative cooking variety program that teaches you how to make amazing dishes with simple ingredients from your fridge in a matter of minutes!</desc>
     <credits>
       <director>Sung Hee Sung</director>
       <actor>Kim Sung Joo / Ahn Jung Hwan</actor>
@@ -7427,7 +7436,7 @@
   </programme>
   <programme start="20210617120000 +0000" stop="20210617131500 +0000" channel="Kplus">
     <title lang="en">18 Again</title>
-    <desc lang="en">Woo-young finds out that Shi-ah does not plan to go to university.(n)</desc>
+    <desc lang="en">Woo-young finds out that Shi-ah does not plan to go to university.</desc>
     <credits>
       <director>Ha Byung Hoon</director>
       <actor>Kim Ha Neul / Lee Do Hyun</actor>
@@ -7441,7 +7450,7 @@
   </programme>
   <programme start="20210617131500 +0000" stop="20210617143000 +0000" channel="Kplus">
     <title lang="en">Twelve Nights</title>
-    <desc lang="en">Hyun-oh refuses doctor's advice on surgery as he wants to continue dancing.(n)</desc>
+    <desc lang="en">Hyun-oh refuses doctor's advice on surgery as he wants to continue dancing.</desc>
     <credits>
       <director>Jung Hyun Soo</director>
       <actor>Han Seung Yeon / Shin Hyun Soo</actor>
@@ -7456,7 +7465,7 @@
   </programme>
   <programme start="20210617143000 +0000" stop="20210617154500 +0000" channel="Kplus">
     <title lang="en">I Hate Going to Work</title>
-    <desc lang="en">The company introduces an automatic shutdown policy to encourage work-life balance.(n)</desc>
+    <desc lang="en">The company introduces an automatic shutdown policy to encourage work-life balance.</desc>
     <credits>
       <director>Jo Na Eun</director>
       <actor>Kim Dong Wan / Han Soo Yeon</actor>
@@ -7471,7 +7480,7 @@
   </programme>
   <programme start="20210617154500 +0000" stop="20210617170000 +0000" channel="Kplus">
     <title lang="en">Best of Chef &amp; My Fridge</title>
-    <desc lang="en">Chef and My Fridge is an innovative cooking variety program that teaches you how to make amazing dishes with simple ingredients from your fridge in a matter of minutes!(n)</desc>
+    <desc lang="en">Chef and My Fridge is an innovative cooking variety program that teaches you how to make amazing dishes with simple ingredients from your fridge in a matter of minutes!</desc>
     <credits>
       <director>Sung Hee Sung</director>
       <actor>Kim Sung Joo / Ahn Jung Hwan</actor>
@@ -7486,7 +7495,7 @@
   </programme>
   <programme start="20210617170000 +0000" stop="20210617181500 +0000" channel="Kplus">
     <title lang="en">18 Again</title>
-    <desc lang="en">Woo-young finds out that Shi-ah does not plan to go to university.(n)</desc>
+    <desc lang="en">Woo-young finds out that Shi-ah does not plan to go to university.</desc>
     <credits>
       <director>Ha Byung Hoon</director>
       <actor>Kim Ha Neul / Lee Do Hyun</actor>
@@ -7500,7 +7509,7 @@
   </programme>
   <programme start="20210617181500 +0000" stop="20210617194500 +0000" channel="Kplus">
     <title lang="en">Twelve Nights</title>
-    <desc lang="en">Hyun-oh refuses doctor's advice on surgery as he wants to continue dancing.(n)</desc>
+    <desc lang="en">Hyun-oh refuses doctor's advice on surgery as he wants to continue dancing.</desc>
     <credits>
       <director>Jung Hyun Soo</director>
       <actor>Han Seung Yeon / Shin Hyun Soo</actor>
@@ -7515,7 +7524,7 @@
   </programme>
   <programme start="20210617194500 +0000" stop="20210617210000 +0000" channel="Kplus">
     <title lang="en">Best of Chef &amp; My Fridge</title>
-    <desc lang="en">Chef and My Fridge is an innovative cooking variety program that teaches you how to make amazing dishes with simple ingredients from your fridge in a matter of minutes!(n)</desc>
+    <desc lang="en">Chef and My Fridge is an innovative cooking variety program that teaches you how to make amazing dishes with simple ingredients from your fridge in a matter of minutes!</desc>
     <credits>
       <director>Sung Hee Sung</director>
       <actor>Kim Sung Joo / Ahn Jung Hwan</actor>
@@ -7530,7 +7539,7 @@
   </programme>
   <programme start="20210617210000 +0000" stop="20210617221500 +0000" channel="Kplus">
     <title lang="en">I Hate Going to Work</title>
-    <desc lang="en">The company introduces an automatic shutdown policy to encourage work-life balance.(n)</desc>
+    <desc lang="en">The company introduces an automatic shutdown policy to encourage work-life balance.</desc>
     <credits>
       <director>Jo Na Eun</director>
       <actor>Kim Dong Wan / Han Soo Yeon</actor>
@@ -7545,7 +7554,7 @@
   </programme>
   <programme start="20210617221500 +0000" stop="20210617233000 +0000" channel="Kplus">
     <title lang="en">18 Again</title>
-    <desc lang="en">Woo-young finds out that Shi-ah does not plan to go to university.(n)</desc>
+    <desc lang="en">Woo-young finds out that Shi-ah does not plan to go to university.</desc>
     <credits>
       <director>Ha Byung Hoon</director>
       <actor>Kim Ha Neul / Lee Do Hyun</actor>
@@ -7559,7 +7568,7 @@
   </programme>
   <programme start="20210617233000 +0000" stop="20210618004500 +0000" channel="Kplus">
     <title lang="en">Twelve Nights</title>
-    <desc lang="en">Hyun-oh refuses doctor's advice on surgery as he wants to continue dancing.(n)</desc>
+    <desc lang="en">Hyun-oh refuses doctor's advice on surgery as he wants to continue dancing.</desc>
     <credits>
       <director>Jung Hyun Soo</director>
       <actor>Han Seung Yeon / Shin Hyun Soo</actor>
@@ -16234,75 +16243,86 @@
   </programme>
   <programme start="20210617014300 +0000" stop="20210617095700 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">重播精選綜藝</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Variety</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210617095700 +0000" stop="20210617100000 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">氣象預報</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <category lang="en">News</category>
     <category lang="en">Weather</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210617100000 +0000" stop="20210617103000 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">新聞深一度</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <category lang="en">News</category>
     <category lang="en">Features</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210617103000 +0000" stop="20210617105100 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">浙江新聞聯播</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <category lang="en">News</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210617105100 +0000" stop="20210617105300 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">天氣預報</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <category lang="en">News</category>
     <category lang="en">Weather</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210617105300 +0000" stop="20210617110000 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">今日聚焦</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <category lang="en">News</category>
     <category lang="en">Talkshow</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210617110000 +0000" stop="20210617113300 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">轉播中央電視台新聞聯播</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <category lang="en">News</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210617113300 +0000" stop="20210617133000 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">中國藍劇場</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <category lang="en">Series</category>
     <category lang="en">Chinese</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210617133000 +0000" stop="20210617134000 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">今日評說</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <category lang="en">News</category>
     <category lang="en">Talkshow</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210617134000 +0000" stop="20210617135800 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">中國藍速遞</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Variety</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210617135800 +0000" stop="20210617160200 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">重播精選綜藝</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Variety</category>
     <country lang="en">CN</country>
@@ -16811,73 +16831,73 @@
   </programme>
   <programme start="20210617001000 +0000" stop="20210617031500 +0000" channel="English - Shenzhen TV">
     <title lang="en">TV Theatre</title>
-    <desc lang="en">Excellent TV Series.(n)</desc>
+    <desc lang="en">Excellent TV Series.</desc>
     <category lang="en">Entertainment</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210617031500 +0000" stop="20210617040000 +0000" channel="English - Shenzhen TV">
     <title lang="en">Direct Broadcasting Of HK,Macou And Taiwan</title>
-    <desc lang="en">Report the up to day news of Hongkong、Macou and Taiwan. Invite the top news analyst to anatomy the events.(n)</desc>
+    <desc lang="en">Report the up to day news of Hongkong、Macou and Taiwan. Invite the top news analyst to anatomy the events.</desc>
     <category lang="en">Entertainment</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210617040000 +0000" stop="20210617045500 +0000" channel="English - Shenzhen TV">
     <title lang="en">Hello Interviewer</title>
-    <desc lang="en">Job interview program restoring a series of job hunting scenes.(n)</desc>
+    <desc lang="en">Job interview program restoring a series of job hunting scenes.</desc>
     <category lang="en">Entertainment</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210617045500 +0000" stop="20210617053000 +0000" channel="English - Shenzhen TV">
     <title lang="en">Reveal Time</title>
-    <desc lang="en">The prospective touch the nature and human history and future, such as technology and occult in all areas. Through detailed data collection and interpretation of strict logic and reasoning, with the audience close to the truth behind the events, it prys into the mysteries of the magical world.(n)</desc>
+    <desc lang="en">The prospective touch the nature and human history and future, such as technology and occult in all areas. Through detailed data collection and interpretation of strict logic and reasoning, with the audience close to the truth behind the events, it prys into the mysteries of the magical world.</desc>
     <category lang="en">Entertainment</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210617053000 +0000" stop="20210617092000 +0000" channel="English - Shenzhen TV">
     <title lang="en">TV Theatre</title>
-    <desc lang="en">Excellent TV Series.(n)</desc>
+    <desc lang="en">Excellent TV Series.</desc>
     <category lang="en">Entertainment</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210617092000 +0000" stop="20210617100500 +0000" channel="English - Shenzhen TV">
     <title lang="en">Fantastic Folk Dwellings Season 1</title>
-    <desc lang="en">Fantastic Folk Dwellings takes characteristic dwellings as the carrier, tells the stories of people living there, and explores the cultural connotation, ingenuity and the great changes of local residents.(n)</desc>
+    <desc lang="en">Fantastic Folk Dwellings takes characteristic dwellings as the carrier, tells the stories of people living there, and explores the cultural connotation, ingenuity and the great changes of local residents.</desc>
     <category lang="en">Entertainment</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210617100500 +0000" stop="20210617110000 +0000" channel="English - Shenzhen TV">
     <title lang="en">Direct Broadcasting Of HK,Macou And Taiwan</title>
-    <desc lang="en">Report the up to day news of Hongkong、Macou and Taiwan. Invite the top news analyst to anatomy the events.(n)</desc>
+    <desc lang="en">Report the up to day news of Hongkong、Macou and Taiwan. Invite the top news analyst to anatomy the events.</desc>
     <category lang="en">Entertainment</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210617110000 +0000" stop="20210617113000 +0000" channel="English - Shenzhen TV">
     <title lang="en">News Broadcasting</title>
-    <desc lang="en">Broadcasting the current affairs of China and all over the world.(n)</desc>
+    <desc lang="en">Broadcasting the current affairs of China and all over the world.</desc>
     <category lang="en">Entertainment</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210617113000 +0000" stop="20210617141500 +0000" channel="English - Shenzhen TV">
     <title lang="en">TV Theatre</title>
-    <desc lang="en">Excellent TV Series.(n)</desc>
+    <desc lang="en">Excellent TV Series.</desc>
     <category lang="en">Entertainment</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210617141500 +0000" stop="20210617142500 +0000" channel="English - Shenzhen TV">
     <title lang="en">Nightly News</title>
-    <desc lang="en">Shenzhen evening news report.(n)</desc>
+    <desc lang="en">Shenzhen evening news report.</desc>
     <category lang="en">Entertainment</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210617142500 +0000" stop="20210617152500 +0000" channel="English - Shenzhen TV">
     <title lang="en">Direct Broadcasting Of HK,Macou And Taiwan</title>
-    <desc lang="en">Report the up to day news of Hongkong、Macou and Taiwan. Invite the top news analyst to anatomy the events.(n)</desc>
+    <desc lang="en">Report the up to day news of Hongkong、Macou and Taiwan. Invite the top news analyst to anatomy the events.</desc>
     <category lang="en">Entertainment</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210617152500 +0000" stop="20210617161500 +0000" channel="English - Shenzhen TV">
     <title lang="en">Hello Interviewer</title>
-    <desc lang="en">Job interview program restoring a series of job hunting scenes.(n)</desc>
+    <desc lang="en">Job interview program restoring a series of job hunting scenes.</desc>
     <category lang="en">Entertainment</category>
     <country lang="en">CN</country>
   </programme>
@@ -17650,7 +17670,7 @@
   </programme>
   <programme start="20210617000000 +0000" stop="20210617003000 +0000" channel="HopeChannel">
     <title lang="en">It Is Written</title>
-    <desc lang="en">Leap of Faith: Faith does not equal anything easy, John Bradshaw takes a look at some bible characters that chose to take the Leap of Faith.(n)</desc>
+    <desc lang="en">Leap of Faith: Faith does not equal anything easy, John Bradshaw takes a look at some bible characters that chose to take the Leap of Faith.</desc>
     <category lang="en">Religion</category>
     <rating>
       <value>G</value>
@@ -17658,7 +17678,7 @@
   </programme>
   <programme start="20210617003000 +0000" stop="20210617010000 +0000" channel="HopeChannel">
     <title lang="en">Creation Magazine Live</title>
-    <desc lang="en">Unshakable Faith: Richard and Matt discuss the value of applying the mountains of creation evidence to your walk with Christ. They provide some things to think about for developing a solid, unshakable faith.(n)</desc>
+    <desc lang="en">Unshakable Faith: Richard and Matt discuss the value of applying the mountains of creation evidence to your walk with Christ. They provide some things to think about for developing a solid, unshakable faith.</desc>
     <category lang="en">News Magazine</category>
     <rating>
       <value>G</value>
@@ -17666,7 +17686,7 @@
   </programme>
   <programme start="20210617010000 +0000" stop="20210617025000 +0000" channel="HopeChannel">
     <title lang="en">The One I Wrote For You - Movi</title>
-    <desc lang="en">The One I Wrote For You: A singer/songwriter who loses the first two rounds of a reality TV contest takes on a win-at-all-cost attitute to make it, even if winning means losing himself.(n)</desc>
+    <desc lang="en">The One I Wrote For You: A singer/songwriter who loses the first two rounds of a reality TV contest takes on a win-at-all-cost attitute to make it, even if winning means losing himself.</desc>
     <category lang="en">Family</category>
     <rating>
       <value>PG</value>
@@ -17674,7 +17694,7 @@
   </programme>
   <programme start="20210617025000 +0000" stop="20210617031500 +0000" channel="HopeChannel">
     <title lang="en">Zoo Days</title>
-    <desc lang="en">Katavi, Rhinos, and Hunting Dogs: Colchester zoo is hoping that white rhino Cynthia will be the first rhino in the UK to have a baby via artificial insemination.(n)</desc>
+    <desc lang="en">Katavi, Rhinos, and Hunting Dogs: Colchester zoo is hoping that white rhino Cynthia will be the first rhino in the UK to have a baby via artificial insemination.</desc>
     <category lang="en">Nature Documentary</category>
     <rating>
       <value>G</value>
@@ -17682,7 +17702,7 @@
   </programme>
   <programme start="20210617031500 +0000" stop="20210617034500 +0000" channel="HopeChannel">
     <title lang="en">Faith and Finance</title>
-    <desc lang="en">Dealing with Debt - Getting Out and Staying Out: In this episode, \"Dealing with Debt - Getting Out and Staying Out\" Edward Reid uses biblical principles and shares practical lessons on life about money management.(n)</desc>
+    <desc lang="en">Dealing with Debt - Getting Out and Staying Out: In this episode, \"Dealing with Debt - Getting Out and Staying Out\" Edward Reid uses biblical principles and shares practical lessons on life about money management.</desc>
     <category lang="en">Lifestyle</category>
     <rating>
       <value>G</value>
@@ -17690,7 +17710,7 @@
   </programme>
   <programme start="20210617034500 +0000" stop="20210617040000 +0000" channel="HopeChannel">
     <title lang="en">Scenic Praise</title>
-    <desc lang="en">Fields of Flowers: Renown videographer Gary Hanson brings you some of the most fantastic and inspirational visuals that creation can provide, set to some of your favourite hymns and worship music.(n)</desc>
+    <desc lang="en">Fields of Flowers: Renown videographer Gary Hanson brings you some of the most fantastic and inspirational visuals that creation can provide, set to some of your favourite hymns and worship music.</desc>
     <category lang="en">Music</category>
     <rating>
       <value>G</value>
@@ -17698,7 +17718,7 @@
   </programme>
   <programme start="20210617040000 +0000" stop="20210617041000 +0000" channel="HopeChannel">
     <title lang="en">The Tuis</title>
-    <desc lang="en">Callisters Cache: After taking Archies special compass Alinta, Jonathan and Kosta do some treasure hunting old school style. They end up getting more than they bargained for.(n)</desc>
+    <desc lang="en">Callisters Cache: After taking Archies special compass Alinta, Jonathan and Kosta do some treasure hunting old school style. They end up getting more than they bargained for.</desc>
     <category lang="en">Cartoons</category>
     <category lang="en">Puppets</category>
     <rating>
@@ -17707,7 +17727,7 @@
   </programme>
   <programme start="20210617041000 +0000" stop="20210617043000 +0000" channel="HopeChannel">
     <title lang="en">Kids' Camp Sing-Along</title>
-    <desc lang="en">Call On God: Singing can bring real joy and build your trust in God so, come join the Kids at Camp as they sing along to some well-known songs.(n)</desc>
+    <desc lang="en">Call On God: Singing can bring real joy and build your trust in God so, come join the Kids at Camp as they sing along to some well-known songs.</desc>
     <category lang="en">Kids</category>
     <category lang="en">Family</category>
     <rating>
@@ -17716,7 +17736,7 @@
   </programme>
   <programme start="20210617043000 +0000" stop="20210617050000 +0000" channel="HopeChannel">
     <title lang="en">Wild Brothers</title>
-    <desc lang="en">Preparing For Departure: Get ready to meet these four modern-day missionary kids as they adventure far into God's creation and discover the rich wildlife of the jungle of a remote Pacific island.(n)</desc>
+    <desc lang="en">Preparing For Departure: Get ready to meet these four modern-day missionary kids as they adventure far into God's creation and discover the rich wildlife of the jungle of a remote Pacific island.</desc>
     <category lang="en">Educational</category>
     <rating>
       <value>G</value>
@@ -17724,7 +17744,7 @@
   </programme>
   <programme start="20210617050000 +0000" stop="20210617060000 +0000" channel="HopeChannel">
     <title lang="en">Go Healthy For Good</title>
-    <desc lang="en">Environmental Health: We all constantly interact with our environment, and those interactions affect us in terms of quality of life and years of healthy life lived. A healthy environment is pivotal to good health.(n)</desc>
+    <desc lang="en">Environmental Health: We all constantly interact with our environment, and those interactions affect us in terms of quality of life and years of healthy life lived. A healthy environment is pivotal to good health.</desc>
     <category lang="en">Health &amp; Fitness</category>
     <rating>
       <value>G</value>
@@ -17732,7 +17752,7 @@
   </programme>
   <programme start="20210617060000 +0000" stop="20210617070000 +0000" channel="HopeChannel">
     <title lang="en">Cross Connection - Luke</title>
-    <desc lang="en">The Kingdom Within: When will the kingdom of God come? Jesus had a very clear answer to this question.(n)</desc>
+    <desc lang="en">The Kingdom Within: When will the kingdom of God come? Jesus had a very clear answer to this question.</desc>
     <category lang="en">Religion</category>
     <rating>
       <value>G</value>
@@ -17740,7 +17760,7 @@
   </programme>
   <programme start="20210617070000 +0000" stop="20210617073000 +0000" channel="HopeChannel">
     <title lang="en">The Incredible Journey</title>
-    <desc lang="en">Mary of Magdala: In her desperate search for freedom, Mary of Magdala was drawn to Jesus' inspirational message.But still, we seem to know so little about Mary of Magdala.(n)</desc>
+    <desc lang="en">Mary of Magdala: In her desperate search for freedom, Mary of Magdala was drawn to Jesus' inspirational message.But still, we seem to know so little about Mary of Magdala.</desc>
     <category lang="en">Religion</category>
     <rating>
       <value>G</value>
@@ -17748,7 +17768,7 @@
   </programme>
   <programme start="20210617073000 +0000" stop="20210617080000 +0000" channel="HopeChannel">
     <title lang="en">Poverty Cure</title>
-    <desc lang="en">Justice for the Poor: To bring justice to poor communities, we must have the same faith in their ideas and efforts as we do in our own.(n)</desc>
+    <desc lang="en">Justice for the Poor: To bring justice to poor communities, we must have the same faith in their ideas and efforts as we do in our own.</desc>
     <category lang="en">Cultural Documentary</category>
     <rating>
       <value>G</value>
@@ -17756,7 +17776,7 @@
   </programme>
   <programme start="20210617080000 +0000" stop="20210617082000 +0000" channel="HopeChannel">
     <title lang="en">Garden Pantry</title>
-    <desc lang="en">Plant Rotation, and Bottling Stone-Fruit: Be self-sustainable from your own backyard. Grow and harvest fruit and veggies; cook, preserve and freeze produce for winter; get back to the basics of healthy eating and grow and process your own f.(n)</desc>
+    <desc lang="en">Plant Rotation, and Bottling Stone-Fruit: Be self-sustainable from your own backyard. Grow and harvest fruit and veggies; cook, preserve and freeze produce for winter; get back to the basics of healthy eating and grow and process your own f.</desc>
     <category lang="en">Home</category>
     <category lang="en">Gardening</category>
     <rating>
@@ -17765,7 +17785,7 @@
   </programme>
   <programme start="20210617082000 +0000" stop="20210617090000 +0000" channel="HopeChannel">
     <title lang="en">The Presence</title>
-    <desc lang="en">The Appointed Hour: There is an appointment that nobody can miss. Has it already begun?(n)</desc>
+    <desc lang="en">The Appointed Hour: There is an appointment that nobody can miss. Has it already begun?</desc>
     <category lang="en">Religion</category>
     <rating>
       <value>G</value>
@@ -17773,7 +17793,7 @@
   </programme>
   <programme start="20210617090000 +0000" stop="20210617093000 +0000" channel="HopeChannel">
     <title lang="en">Wild Britain</title>
-    <desc lang="en">Skomer Island, Wales: In this series, Ray Mears explores some of Britain's most beautiful areas of natural beauty, to uncover the fascinating wild life that lives there. This week he explores Skomer Island, Wales.(n)</desc>
+    <desc lang="en">Skomer Island, Wales: In this series, Ray Mears explores some of Britain's most beautiful areas of natural beauty, to uncover the fascinating wild life that lives there. This week he explores Skomer Island, Wales.</desc>
     <category lang="en">Nature Documentary</category>
     <rating>
       <value>G</value>
@@ -17781,7 +17801,7 @@
   </programme>
   <programme start="20210617093000 +0000" stop="20210617100000 +0000" channel="HopeChannel">
     <title lang="en">Unhooked</title>
-    <desc lang="en">Underage Addiction: In her own words, Lizzie shares what started her multiple addictions and how she began to heal her heart, mind and body. Experts also explain the potential long-term effects of drugs.(n)</desc>
+    <desc lang="en">Underage Addiction: In her own words, Lizzie shares what started her multiple addictions and how she began to heal her heart, mind and body. Experts also explain the potential long-term effects of drugs.</desc>
     <category lang="en">Lifestyle</category>
     <rating>
       <value>M</value>
@@ -17789,7 +17809,7 @@
   </programme>
   <programme start="20210617100000 +0000" stop="20210617103000 +0000" channel="HopeChannel">
     <title lang="en">The Search</title>
-    <desc lang="en">Immortality: Imagine a life with no end, no boundary of time. Does it sound too good to be true? Geoff Youlden looks at the subject of Immortality.(n)</desc>
+    <desc lang="en">Immortality: Imagine a life with no end, no boundary of time. Does it sound too good to be true? Geoff Youlden looks at the subject of Immortality.</desc>
     <category lang="en">Religion</category>
     <rating>
       <value>G</value>
@@ -17797,7 +17817,7 @@
   </programme>
   <programme start="20210617103000 +0000" stop="20210617110000 +0000" channel="HopeChannel">
     <title lang="en">Secrets from the Sky</title>
-    <desc lang="en">Maiden Castle: Bettany and Ben visit Maiden Castle in Dorset to find evidence of its construction, and how Iron Age Britain prospered and changed with the arrival of the Romans.(n)</desc>
+    <desc lang="en">Maiden Castle: Bettany and Ben visit Maiden Castle in Dorset to find evidence of its construction, and how Iron Age Britain prospered and changed with the arrival of the Romans.</desc>
     <category lang="en">Historical Documentary</category>
     <rating>
       <value>PG</value>
@@ -17805,7 +17825,7 @@
   </programme>
   <programme start="20210617110000 +0000" stop="20210617120000 +0000" channel="HopeChannel">
     <title lang="en">Celebrating Life In Recovery</title>
-    <desc lang="en">Self Abuse: Who are we really? Join Cheri Peters and her guests as they talk about experiences in the entertainment enviroment that are seldom discussed.(n)</desc>
+    <desc lang="en">Self Abuse: Who are we really? Join Cheri Peters and her guests as they talk about experiences in the entertainment enviroment that are seldom discussed.</desc>
     <category lang="en">Talk Show</category>
     <rating>
       <value>16</value>
@@ -17813,7 +17833,7 @@
   </programme>
   <programme start="20210617120000 +0000" stop="20210617123000 +0000" channel="HopeChannel">
     <title lang="en">It Is Written</title>
-    <desc lang="en">Leap of Faith: Faith does not equal anything easy, John Bradshaw takes a look at some bible characters that chose to take the Leap of Faith.(n)</desc>
+    <desc lang="en">Leap of Faith: Faith does not equal anything easy, John Bradshaw takes a look at some bible characters that chose to take the Leap of Faith.</desc>
     <category lang="en">Religion</category>
     <rating>
       <value>G</value>
@@ -17821,7 +17841,7 @@
   </programme>
   <programme start="20210617123000 +0000" stop="20210617125500 +0000" channel="HopeChannel">
     <title lang="en">Zoo Days</title>
-    <desc lang="en">Katavi, Rhinos, and Hunting Dogs: Colchester zoo is hoping that white rhino Cynthia will be the first rhino in the UK to have a baby via artificial insemination.(n)</desc>
+    <desc lang="en">Katavi, Rhinos, and Hunting Dogs: Colchester zoo is hoping that white rhino Cynthia will be the first rhino in the UK to have a baby via artificial insemination.</desc>
     <category lang="en">Nature Documentary</category>
     <rating>
       <value>G</value>
@@ -17829,7 +17849,7 @@
   </programme>
   <programme start="20210617125500 +0000" stop="20210617133000 +0000" channel="HopeChannel">
     <title lang="en">New Perceptions</title>
-    <desc lang="en">The Last Letter - Wretched: Dwight Nelson in this episode 'Wretched' reflects on the message in the last letter written to the church of Laodicea, and what it means for us today.(n)</desc>
+    <desc lang="en">The Last Letter - Wretched: Dwight Nelson in this episode 'Wretched' reflects on the message in the last letter written to the church of Laodicea, and what it means for us today.</desc>
     <category lang="en">Religion</category>
     <rating>
       <value>G</value>
@@ -17837,7 +17857,7 @@
   </programme>
   <programme start="20210617133000 +0000" stop="20210617140000 +0000" channel="HopeChannel">
     <title lang="en">Mums At The Table</title>
-    <desc lang="en">Fad Diets and Crazes: Fad Diets and Crazes.(n)</desc>
+    <desc lang="en">Fad Diets and Crazes: Fad Diets and Crazes.</desc>
     <category lang="en">News Magazine</category>
     <rating>
       <value>G</value>
@@ -17845,7 +17865,7 @@
   </programme>
   <programme start="20210617140000 +0000" stop="20210617155000 +0000" channel="HopeChannel">
     <title lang="en">The One I Wrote For You - Movi</title>
-    <desc lang="en">The One I Wrote For You: A singer/songwriter who loses the first two rounds of a reality TV contest takes on a win-at-all-cost attitute to make it, even if winning means losing himself.(n)</desc>
+    <desc lang="en">The One I Wrote For You: A singer/songwriter who loses the first two rounds of a reality TV contest takes on a win-at-all-cost attitute to make it, even if winning means losing himself.</desc>
     <category lang="en">Family</category>
     <rating>
       <value>PG</value>
@@ -17853,7 +17873,7 @@
   </programme>
   <programme start="20210617155000 +0000" stop="20210617162000 +0000" channel="HopeChannel">
     <title lang="en">The Incredible Journey</title>
-    <desc lang="en">Mary of Magdala: In her desperate search for freedom, Mary of Magdala was drawn to Jesus' inspirational message.But still, we seem to know so little about Mary of Magdala.(n)</desc>
+    <desc lang="en">Mary of Magdala: In her desperate search for freedom, Mary of Magdala was drawn to Jesus' inspirational message.But still, we seem to know so little about Mary of Magdala.</desc>
     <category lang="en">Religion</category>
     <rating>
       <value>G</value>
@@ -17861,7 +17881,7 @@
   </programme>
   <programme start="20210617162000 +0000" stop="20210617164500 +0000" channel="HopeChannel">
     <title lang="en">Real Family Talk</title>
-    <desc lang="en">Ministering to Refugees: Join Real Family Talk hosts Willie &amp; Elaine Oliver meets a pastor whose church is actively ministering to the needs of 40 refugee families in their community.(n)</desc>
+    <desc lang="en">Ministering to Refugees: Join Real Family Talk hosts Willie &amp; Elaine Oliver meets a pastor whose church is actively ministering to the needs of 40 refugee families in their community.</desc>
     <category lang="en">Lifestyle</category>
     <rating>
       <value>G</value>
@@ -17869,7 +17889,7 @@
   </programme>
   <programme start="20210617164500 +0000" stop="20210617170500 +0000" channel="HopeChannel">
     <title lang="en">Missions Today</title>
-    <desc lang="en">Multiple Stories: In this episode we hear many wonderful stories from several different countries of people's lives being changed for the better by volunteers from around the world.(n)</desc>
+    <desc lang="en">Multiple Stories: In this episode we hear many wonderful stories from several different countries of people's lives being changed for the better by volunteers from around the world.</desc>
     <category lang="en">Foreign</category>
     <category lang="en">Expeditions</category>
     <rating>
@@ -17878,7 +17898,7 @@
   </programme>
   <programme start="20210617170500 +0000" stop="20210617173000 +0000" channel="HopeChannel">
     <title lang="en">Live at Psalter Studio</title>
-    <desc lang="en">Sanctuary: Eric and Monique talk about their music and spiritual journey, and are accompanied by a String Quartet from the Australian National University for their originals 'Sanctuary' and 'He Knows'.(n)</desc>
+    <desc lang="en">Sanctuary: Eric and Monique talk about their music and spiritual journey, and are accompanied by a String Quartet from the Australian National University for their originals 'Sanctuary' and 'He Knows'.</desc>
     <category lang="en">Classical Music</category>
     <rating>
       <value>G</value>
@@ -17886,7 +17906,7 @@
   </programme>
   <programme start="20210617173000 +0000" stop="20210617183000 +0000" channel="HopeChannel">
     <title lang="en">Cross Connection - Luke</title>
-    <desc lang="en">The Kingdom Within: When will the kingdom of God come? Jesus had a very clear answer to this question.(n)</desc>
+    <desc lang="en">The Kingdom Within: When will the kingdom of God come? Jesus had a very clear answer to this question.</desc>
     <category lang="en">Religion</category>
     <rating>
       <value>G</value>
@@ -17894,7 +17914,7 @@
   </programme>
   <programme start="20210617183000 +0000" stop="20210617190000 +0000" channel="HopeChannel">
     <title lang="en">Body of Evidence</title>
-    <desc lang="en">Respiratory System - part 1: Dr Menton and his students explore the human respiratory system, of which the lungs is the largest component and the most high-tech air purification and conditioning system on earth - part 1.(n)</desc>
+    <desc lang="en">Respiratory System - part 1: Dr Menton and his students explore the human respiratory system, of which the lungs is the largest component and the most high-tech air purification and conditioning system on earth - part 1.</desc>
     <category lang="en">Science</category>
     <rating>
       <value>G</value>
@@ -17902,7 +17922,7 @@
   </programme>
   <programme start="20210617190000 +0000" stop="20210617193000 +0000" channel="HopeChannel">
     <title lang="en">Arnie's Shack</title>
-    <desc lang="en">Pure Like Snow: Arnie and his friends continue their Adventure in Peru as they explore more around Lima. They drive up the mountains, see the snow and learn some more Spanish with Shane and Pedro too.(n)</desc>
+    <desc lang="en">Pure Like Snow: Arnie and his friends continue their Adventure in Peru as they explore more around Lima. They drive up the mountains, see the snow and learn some more Spanish with Shane and Pedro too.</desc>
     <category lang="en">Cartoons</category>
     <category lang="en">Puppets</category>
     <rating>
@@ -17911,7 +17931,7 @@
   </programme>
   <programme start="20210617193000 +0000" stop="20210617200000 +0000" channel="HopeChannel">
     <title lang="en">Nest Family Heroes</title>
-    <desc lang="en">Pocahontas: Except for the courage of Native American princess Pocahontas, English settlers at Jamestown would have died from starvation and exposure. Her brave intervention brought peace between two very diffe.(n)</desc>
+    <desc lang="en">Pocahontas: Except for the courage of Native American princess Pocahontas, English settlers at Jamestown would have died from starvation and exposure. Her brave intervention brought peace between two very diffe.</desc>
     <category lang="en">Cartoons</category>
     <category lang="en">Puppets</category>
     <rating>
@@ -17920,7 +17940,7 @@
   </programme>
   <programme start="20210617200000 +0000" stop="20210617202500 +0000" channel="HopeChannel">
     <title lang="en">Britain's Brightest Family</title>
-    <desc lang="en">Vlok vs Gough: Anne Hergerty, the Governess, hosts a new series of the gameshow where families compete for the title of Britain's Brightest Family. This week it's the Vlok family vs the Gough family.(n)</desc>
+    <desc lang="en">Vlok vs Gough: Anne Hergerty, the Governess, hosts a new series of the gameshow where families compete for the title of Britain's Brightest Family. This week it's the Vlok family vs the Gough family.</desc>
     <category lang="en">Game Show</category>
     <rating>
       <value>G</value>
@@ -17928,7 +17948,7 @@
   </programme>
   <programme start="20210617202500 +0000" stop="20210617211500 +0000" channel="HopeChannel">
     <title lang="en">Disclosure</title>
-    <desc lang="en">Messages to the Churches 02: The church today is so completely fragmented that it has more flavours than Kiwi Tip Top ice-cream. It is easy to point to the problems, but not so easy to focus on solutions.(n)</desc>
+    <desc lang="en">Messages to the Churches 02: The church today is so completely fragmented that it has more flavours than Kiwi Tip Top ice-cream. It is easy to point to the problems, but not so easy to focus on solutions.</desc>
     <category lang="en">Religion</category>
     <rating>
       <value>G</value>
@@ -17936,7 +17956,7 @@
   </programme>
   <programme start="20210617211500 +0000" stop="20210617221000 +0000" channel="HopeChannel">
     <title lang="en">Classical Composers</title>
-    <desc lang="en">Beethoven: Ludwig van Beethhoven spent most of his life in Vienna, where early deafness robbed him of a performing career; but his world-shattering achievements as a composer changed music forever.(n)</desc>
+    <desc lang="en">Beethoven: Ludwig van Beethhoven spent most of his life in Vienna, where early deafness robbed him of a performing career; but his world-shattering achievements as a composer changed music forever.</desc>
     <category lang="en">Biography</category>
     <rating>
       <value>G</value>
@@ -17944,7 +17964,7 @@
   </programme>
   <programme start="20210617221000 +0000" stop="20210617224000 +0000" channel="HopeChannel">
     <title lang="en">The Radical Prayer</title>
-    <desc lang="en">Radical Dependence: Are you ready to pray a prayer that will revolutionise your life, and that God will answer with a definite yes?(n)</desc>
+    <desc lang="en">Radical Dependence: Are you ready to pray a prayer that will revolutionise your life, and that God will answer with a definite yes?</desc>
     <category lang="en">Religion</category>
     <rating>
       <value>G</value>
@@ -17952,7 +17972,7 @@
   </programme>
   <programme start="20210617224000 +0000" stop="20210617230000 +0000" channel="HopeChannel">
     <title lang="en">Let's Pray</title>
-    <desc lang="en">Medicine to Music: He had dreams of becoming a doctor, but by his second year of medical training he felt God's call to leave medical school for a life dedicated to music ministry.(n)</desc>
+    <desc lang="en">Medicine to Music: He had dreams of becoming a doctor, but by his second year of medical training he felt God's call to leave medical school for a life dedicated to music ministry.</desc>
     <category lang="en">Lifestyle</category>
     <rating>
       <value>G</value>
@@ -17960,7 +17980,7 @@
   </programme>
   <programme start="20210617230000 +0000" stop="20210617233000 +0000" channel="HopeChannel">
     <title lang="en">Cliff!</title>
-    <desc lang="en">Guilty As Sin: Do you ever feel guilty about things? How about the kind of guilt that you just can't get rid of? Cliff wonders if the  guilt that we have can't teach us some important lessons about ourselves.(n)</desc>
+    <desc lang="en">Guilty As Sin: Do you ever feel guilty about things? How about the kind of guilt that you just can't get rid of? Cliff wonders if the  guilt that we have can't teach us some important lessons about ourselves.</desc>
     <category lang="en">Lifestyle</category>
     <rating>
       <value>PG</value>
@@ -17968,7 +17988,7 @@
   </programme>
   <programme start="20210617233000 +0000" stop="20210618000000 +0000" channel="HopeChannel">
     <title lang="en">Unhooked</title>
-    <desc lang="en">Underage Addiction: In her own words, Lizzie shares what started her multiple addictions and how she began to heal her heart, mind and body. Experts also explain the potential long-term effects of drugs.(n)</desc>
+    <desc lang="en">Underage Addiction: In her own words, Lizzie shares what started her multiple addictions and how she began to heal her heart, mind and body. Experts also explain the potential long-term effects of drugs.</desc>
     <category lang="en">Lifestyle</category>
     <rating>
       <value>M</value>
