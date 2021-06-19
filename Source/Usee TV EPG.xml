@@ -4159,7 +4159,7 @@
   </programme>
   <programme start="20210619030500 +0000" stop="20210619033000 +0000" channel="egg network">
     <title lang="en">Arena eSports</title>
-    <desc lang="en">The first of its kind weekly program that covers the big developments, news and massively popular eSports events worldwide.(n)</desc>
+    <desc lang="en">The first of its kind weekly program that covers the big developments, news and massively popular eSports events worldwide.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Others (Sports)</category>
     <rating system="MY">
@@ -16012,86 +16012,75 @@
   </programme>
   <programme start="20210619014300 +0000" stop="20210619095700 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">重播精選綜藝</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">Entertainment</category>
     <category lang="en">Variety</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210619095700 +0000" stop="20210619100000 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">氣象預報</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">News</category>
     <category lang="en">Weather</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210619100000 +0000" stop="20210619103000 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">新聞深一度</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">News</category>
     <category lang="en">Features</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210619103000 +0000" stop="20210619105100 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">浙江新聞聯播</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">News</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210619105100 +0000" stop="20210619105300 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">天氣預報</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">News</category>
     <category lang="en">Weather</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210619105300 +0000" stop="20210619110000 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">今日聚焦</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">News</category>
     <category lang="en">Talkshow</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210619110000 +0000" stop="20210619113300 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">轉播中央電視台新聞聯播</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">News</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210619113300 +0000" stop="20210619133000 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">中國藍劇場</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">Series</category>
     <category lang="en">Chinese</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210619133000 +0000" stop="20210619134000 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">今日評說</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">News</category>
     <category lang="en">Talkshow</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210619134000 +0000" stop="20210619135800 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">中國藍速遞</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">Entertainment</category>
     <category lang="en">Variety</category>
     <country lang="en">CN</country>
   </programme>
   <programme start="20210619135800 +0000" stop="20210619160200 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">重播精選綜藝</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <category lang="en">Entertainment</category>
     <category lang="en">Variety</category>
     <country lang="en">CN</country>
