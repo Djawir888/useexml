@@ -1970,108 +1970,100 @@
     <title lang="id">The Chronicles Of Riddick</title>
     <desc lang="id">Dalam film fiksi ilmiah ini, Vin Diesel berperan sebagai buronan karismatik yang harus menghentikan kelompok jahat yang ingin menguasai alam semesta.</desc>
   </programme>
-  <programme start="20210626011000 +0200" stop="20210626031000 +0200" channel="RED BY HBO (HD)">
-    <title lang="en">Black Light</title>
-    <desc lang="en">Doubts and questions arise after a suspicious car accident in this South Korean mystery melodrama.</desc>
-    <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='3041163'&amp;EntityType='LinearSchedule'&amp;EntityId='d6285f76-a8a1-4405-b94a-3d9557121708'&amp;Width=1280&amp;Height=720&amp;ImageUrl=3041163.jpg&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+  <programme start="20210627000000 +0200" stop="20210627020000 +0200" channel="RED BY HBO (HD)">
+    <title lang="en">Bori</title>
+    <desc lang="en">As the only hearing member of her family, 11 year-old Bo-ri feels immensely left out and tries desperately to fit in.(n)</desc>
+    <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='3026921'&amp;EntityType='LinearSchedule'&amp;EntityId='3e72a22b-a98e-4081-8b61-08a8f95a5d74'&amp;Width=1280&amp;Height=720&amp;ImageUrl=3026921.jpg&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <rating>
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20210626031000 +0200" stop="20210626050002 +0200" channel="RED BY HBO (HD)">
-    <title lang="en">Thicker Than Water</title>
-    <desc lang="en">A pair of bickering brothers meet two squabbling sisters, and the tensions of their life-long rivalries both come to a head in a bittersweet comedy-drama.</desc>
-    <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='3024446'&amp;EntityType='LinearSchedule'&amp;EntityId='2f0c4487-30f9-44ab-932f-3bb02292645d'&amp;Width=1280&amp;Height=720&amp;ImageUrl=3024446.jpg&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20210626050002 +0200" stop="20210626065009 +0200" channel="RED BY HBO (HD)">
-    <title lang="en">Paradise Next</title>
-    <desc lang="en">Three drifting souls meet by chance on an island in high summer and keep each other company.</desc>
-    <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='3038599'&amp;EntityType='LinearSchedule'&amp;EntityId='2b1d930a-62b3-4380-a011-573d90910d54'&amp;Width=1280&amp;Height=720&amp;ImageUrl=3038599.png&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20210626065009 +0200" stop="20210626083001 +0200" channel="RED BY HBO (HD)">
+  <programme start="20210627020000 +0200" stop="20210627034000 +0200" channel="RED BY HBO (HD)">
     <title lang="en">Ramen Teh</title>
-    <desc lang="en">Masato, a young ramen chef, leaves his hometown in Japan to embark on a culinary journey to Singapore to find out the truth about his past.</desc>
-    <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='3038603'&amp;EntityType='LinearSchedule'&amp;EntityId='6b860f4d-894b-4e5d-8ff4-b13f180980aa'&amp;Width=1280&amp;Height=720&amp;ImageUrl=3038603.png&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <desc lang="en">Masato, a young ramen chef, leaves his hometown in Japan to embark on a culinary journey to Singapore to find out the truth about his past.(n)</desc>
+    <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='3041151'&amp;EntityType='LinearSchedule'&amp;EntityId='35c25aa2-e0cd-43ba-9821-0c038cb19fec'&amp;Width=1280&amp;Height=720&amp;ImageUrl=3041151.png&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <rating>
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20210626083001 +0200" stop="20210626101004 +0200" channel="RED BY HBO (HD)">
-    <title lang="en">Mission: Kidnap The Top Star</title>
-    <desc lang="en">When an arrogant superstar and a journalist are both kidnapped, they must find a way to look past their differences and work together in order to escape.</desc>
-    <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='3024434'&amp;EntityType='LinearSchedule'&amp;EntityId='809cb089-c230-48aa-b781-b4cebbaeee1e'&amp;Width=1280&amp;Height=720&amp;ImageUrl=3024434.jpg&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+  <programme start="20210627034000 +0200" stop="20210627060001 +0200" channel="RED BY HBO (HD)">
+    <title lang="en">Maestro!</title>
+    <desc lang="en">A mysterious conductor shows a once-disbanded orchestra a new world of music.(n)</desc>
+    <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='3026913'&amp;EntityType='LinearSchedule'&amp;EntityId='5ed189a6-ec18-4dfa-8e82-d01a082a0b9f'&amp;Width=1280&amp;Height=720&amp;ImageUrl=3026913.jpg&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <rating>
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20210626101004 +0200" stop="20210626120002 +0200" channel="RED BY HBO (HD)">
-    <title lang="en">The Missing (2017)</title>
-    <desc lang="en">This Chinese thriller follows the botched kidnapping of a five-year-old girl, whose kidnapper gets knocked over and wakes up with zero recollection of his past.</desc>
-    <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='3038607'&amp;EntityType='LinearSchedule'&amp;EntityId='c6315acd-4da4-49ab-b0bd-23d5a1019e9f'&amp;Width=1280&amp;Height=720&amp;ImageUrl=3038607.png&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20210626120002 +0200" stop="20210626140000 +0200" channel="RED BY HBO (HD)">
-    <title lang="en">Helen The Baby Fox</title>
-    <desc lang="en">A heart-warming Japanese film about the bond between a young boy and an abandoned baby fox and his attempts to nurse the cub back to health.</desc>
-    <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='3038611'&amp;EntityType='LinearSchedule'&amp;EntityId='77b14489-6c2e-4c9e-ad95-fe68a3c19cf7'&amp;Width=1280&amp;Height=720&amp;ImageUrl=3038611.png&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20210626140000 +0200" stop="20210626150002 +0200" channel="RED BY HBO (HD)">
+  <programme start="20210627060001 +0200" stop="20210627070003 +0200" channel="RED BY HBO (HD)">
     <title lang="en">Wacko At Law S1 23: Episode 23 - EP23</title>
-    <desc lang="en">When a tragic air crash suddenly takes the lives of his loved ones, a disgruntled genius returns to the legal world he gave up in order to seek justice for the ones he lost.</desc>
-    <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='3024422'&amp;EntityType='LinearSchedule'&amp;EntityId='4abb4da4-a884-48a2-858e-f23c8f4523bd'&amp;Width=1280&amp;Height=720&amp;ImageUrl=3024422.jpg&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <desc lang="en">When a tragic air crash suddenly takes the lives of his loved ones, a disgruntled genius returns to the legal world he gave up in order to seek justice for the ones he lost.(n)</desc>
+    <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='3026909'&amp;EntityType='LinearSchedule'&amp;EntityId='ec14d9ef-6e2c-4e6f-b82d-8f7175e013ab'&amp;Width=1280&amp;Height=720&amp;ImageUrl=3026909.jpg&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <episode-num system="onscreen">S1 E23</episode-num>
     <rating>
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20210626150002 +0200" stop="20210626160012 +0200" channel="RED BY HBO (HD)">
+  <programme start="20210627070003 +0200" stop="20210627080007 +0200" channel="RED BY HBO (HD)">
     <title lang="en">Wacko At Law S1 24: Episode 24 - EP24</title>
-    <desc lang="en">When a tragic air crash suddenly takes the lives of his loved ones, a disgruntled genius returns to the legal world he gave up in order to seek justice for the ones he lost.</desc>
-    <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='3024418'&amp;EntityType='LinearSchedule'&amp;EntityId='876e81ee-bbc3-472b-8d8d-67de3210efd4'&amp;Width=1280&amp;Height=720&amp;ImageUrl=3024418.jpg&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <desc lang="en">When a tragic air crash suddenly takes the lives of his loved ones, a disgruntled genius returns to the legal world he gave up in order to seek justice for the ones he lost.(n)</desc>
+    <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='3026905'&amp;EntityType='LinearSchedule'&amp;EntityId='3d4b8cce-a6bc-48b0-85ba-0da192ee35ff'&amp;Width=1280&amp;Height=720&amp;ImageUrl=3026905.jpg&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <episode-num system="onscreen">S1 E24</episode-num>
     <rating>
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20210626160012 +0200" stop="20210626180012 +0200" channel="RED BY HBO (HD)">
-    <title lang="en">Bori</title>
-    <desc lang="en">As the only hearing member of her family, 11 year-old Bo-ri feels immensely left out and tries desperately to fit in.</desc>
-    <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='3026937'&amp;EntityType='LinearSchedule'&amp;EntityId='598912d9-4681-40f7-8898-aeeb73ffba05'&amp;Width=1280&amp;Height=720&amp;ImageUrl=3026937.jpg&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20210626180012 +0200" stop="20210626194000 +0200" channel="RED BY HBO (HD)">
-    <title lang="en">Because Of You</title>
-    <desc lang="en">A mentally challenged mother and her daughter try to stick together despite all odds.</desc>
-    <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='3026933'&amp;EntityType='LinearSchedule'&amp;EntityId='3e8f45a4-2b4d-4d7d-815a-4aac33de6fbe'&amp;Width=1280&amp;Height=720&amp;ImageUrl=3026933.jpg&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20210626194000 +0200" stop="20210626214000 +0200" channel="RED BY HBO (HD)">
-    <title lang="en">Ryuzo And The Seven Henchmen</title>
-    <desc lang="en">A hilarious tale of the old versus the young as a retired Yakuza boss gathers his former accomplices to take down a scam company for one last hurrah.</desc>
-    <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='3041147'&amp;EntityType='LinearSchedule'&amp;EntityId='b5476435-2ec2-44ee-9fde-33462e953649'&amp;Width=1280&amp;Height=720&amp;ImageUrl=3041147.png&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20210626214000 +0200" stop="20210627000000 +0200" channel="RED BY HBO (HD)">
+  <programme start="20210627080007 +0200" stop="20210627102002 +0200" channel="RED BY HBO (HD)">
     <title lang="en">See You Tomorrow</title>
-    <desc lang="en">In this Chinese-Hong Kong rom-com, a bar owner takes on the role of a “ferryman”, a self-styled therapist for lonely people stranded in sorrow and heartbreak.</desc>
-    <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='3026925'&amp;EntityType='LinearSchedule'&amp;EntityId='88adcb36-9968-48a2-b82a-8a87c419d493'&amp;Width=1280&amp;Height=720&amp;ImageUrl=3026925.jpg&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <desc lang="en">In this Chinese-Hong Kong rom-com, a bar owner takes on the role of a “ferryman”, a self-styled therapist for lonely people stranded in sorrow and heartbreak.(n)</desc>
+    <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='3026901'&amp;EntityType='LinearSchedule'&amp;EntityId='c8e17d33-6273-4a57-abcb-526ad528988d'&amp;Width=1280&amp;Height=720&amp;ImageUrl=3026901.jpg&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20210627102002 +0200" stop="20210627122002 +0200" channel="RED BY HBO (HD)">
+    <title lang="en">Dad For Rent</title>
+    <desc lang="en">Family values are tested when a daughter starts a business to rent her father out. As the business grows, neglect for his own family threatens to tear them apart.(n)</desc>
+    <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='3041155'&amp;EntityType='LinearSchedule'&amp;EntityId='5b67bd3d-c225-44ac-bb9e-4080df3bc64e'&amp;Width=1280&amp;Height=720&amp;ImageUrl=3041155.png&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20210627122002 +0200" stop="20210627140003 +0200" channel="RED BY HBO (HD)">
+    <title lang="en">Because Of You</title>
+    <desc lang="en">A mentally challenged mother and her daughter try to stick together despite all odds.(n)</desc>
+    <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='3026893'&amp;EntityType='LinearSchedule'&amp;EntityId='2949e8da-f03a-40b6-b169-be4d3701b4d7'&amp;Width=1280&amp;Height=720&amp;ImageUrl=3026893.jpg&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20210627140003 +0200" stop="20210627162000 +0200" channel="RED BY HBO (HD)">
+    <title lang="en">Have A Song On Your Lips</title>
+    <desc lang="en">A former professional musician returns to her rural hometown as a temporary substitute teacher only to regain something she thought she had lost.(n)</desc>
+    <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='3041159'&amp;EntityType='LinearSchedule'&amp;EntityId='14570d76-7ac6-43b5-986e-bb097d647dc1'&amp;Width=1280&amp;Height=720&amp;ImageUrl=3041159.png&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20210627162000 +0200" stop="20210627182004 +0200" channel="RED BY HBO (HD)">
+    <title lang="en">Helen The Baby Fox</title>
+    <desc lang="en">A heart-warming Japanese film about the bond between a young boy and an abandoned baby fox and his attempts to nurse the cub back to health.(n)</desc>
+    <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='3041127'&amp;EntityType='LinearSchedule'&amp;EntityId='e3095c29-c5e5-491c-bfce-81dc8c54618e'&amp;Width=1280&amp;Height=720&amp;ImageUrl=3041127.png&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20210627182004 +0200" stop="20210627201008 +0200" channel="RED BY HBO (HD)">
+    <title lang="en">Thicker Than Water</title>
+    <desc lang="en">A pair of bickering brothers meet two squabbling sisters, and the tensions of their life-long rivalries both come to a head in a bittersweet comedy-drama.(n)</desc>
+    <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='3029261'&amp;EntityType='LinearSchedule'&amp;EntityId='2aff8c9e-a779-42dc-9c82-90ea4c95f7ae'&amp;Width=1280&amp;Height=720&amp;ImageUrl=3029261.jpg&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20210627201008 +0200" stop="20210627221000 +0200" channel="RED BY HBO (HD)">
+    <title lang="en">Bori</title>
+    <desc lang="en">As the only hearing member of her family, 11 year-old Bo-ri feels immensely left out and tries desperately to fit in.(n)</desc>
+    <icon src="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='3029257'&amp;EntityType='LinearSchedule'&amp;EntityId='22ca6651-d04c-45cc-9992-b63de90823d2'&amp;Width=1280&amp;Height=720&amp;ImageUrl=3029257.jpg&amp;device=web_browser&amp;subscriptions=Anonymous&amp;segmentationTags=all" />
     <rating>
       <value>PG</value>
     </rating>
@@ -3007,414 +2999,376 @@
   <programme start="20210627235000 +0700" stop="20210628011500 +0700" channel="Citra Drama">
     <title lang="id">Cinta Datang Disaat Pergi</title>
   </programme>
-  <programme start="20210626000000 +0000" stop="20210626015000 +0000" channel="BS1">
-    <title lang="id">Roma vs Lazio</title>
-    <sub-title lang="id">Serie A 2020/21</sub-title>
+  <programme start="20210627000500 +0000" stop="20210627003500 +0000" channel="BS1">
+    <title lang="id">Premier League Years 06/07</title>
+    <sub-title lang="id">Chelsea TV: Premier League Years 2020/21</sub-title>
   </programme>
-  <programme start="20210626015000 +0000" stop="20210626035000 +0000" channel="BS1">
-    <title lang="id">Man Utd vs Liverpool</title>
-    <sub-title lang="id">Liverpool TV 2020/21</sub-title>
-  </programme>
-  <programme start="20210626035000 +0000" stop="20210626042000 +0000" channel="BS1">
-    <title lang="id">Liverpool vs Leipzig</title>
-    <sub-title lang="id">LFC TV Specials 2020/21</sub-title>
-  </programme>
-  <programme start="20210626042000 +0000" stop="20210626045000 +0000" channel="BS1">
-    <title lang="id">Burnley vs Liverpool</title>
-    <sub-title lang="id">LFC TV Specials 2020/21</sub-title>
-  </programme>
-  <programme start="20210626045000 +0000" stop="20210626063500 +0000" channel="BS1">
-    <title lang="id">Torino vs Milan</title>
-    <sub-title lang="id">Serie A 2020/21</sub-title>
-  </programme>
-  <programme start="20210626063500 +0000" stop="20210626082000 +0000" channel="BS1">
-    <title lang="id">Real Betis vs Celta 2016/17</title>
-    <sub-title lang="id">LaLiga Classics 2018/19</sub-title>
-  </programme>
-  <programme start="20210626082000 +0000" stop="20210626084000 +0000" channel="BS1">
-    <title lang="id">Best Goalkeeper</title>
-    <sub-title lang="id">LaLiga Specials 2020/21</sub-title>
-  </programme>
-  <programme start="20210626084000 +0000" stop="20210626103000 +0000" channel="BS1">
-    <title lang="id">Inter Miami vs Orlando</title>
+  <programme start="20210627003500 +0000" stop="20210627023500 +0000" channel="BS1">
+    <title lang="id">Nashville vs Montreal</title>
     <category lang="id">Major League Soccer 2021</category>
   </programme>
-  <programme start="20210626103000 +0000" stop="20210626110000 +0000" channel="BS1">
-    <title lang="id">Hungaroring</title>
-    <sub-title lang="id">FIA European Truck Racing Championship Highlights 2021</sub-title>
-  </programme>
-  <programme start="20210626110000 +0000" stop="20210626125000 +0000" channel="BS1">
-    <title lang="id">Napoli vs Milan</title>
-    <sub-title lang="id">Serie A 2020/21</sub-title>
-  </programme>
-  <programme start="20210626125000 +0000" stop="20210626143500 +0000" channel="BS1">
-    <title lang="id">Milan vs Lazio</title>
-    <sub-title lang="id">Serie A 2020/21</sub-title>
-  </programme>
-  <programme start="20210626143500 +0000" stop="20210626162000 +0000" channel="BS1">
-    <title lang="id">Atalanta vs Milan</title>
-    <sub-title lang="id">Serie A 2020/21</sub-title>
-  </programme>
-  <programme start="20210626162000 +0000" stop="20210626164000 +0000" channel="BS1">
-    <title lang="id">Best Goalkeeper</title>
-    <sub-title lang="id">LaLiga Specials 2020/21</sub-title>
-  </programme>
-  <programme start="20210626164000 +0000" stop="20210626173000 +0000" channel="BS1">
-    <title lang="id">Vallelunga</title>
-    <sub-title lang="id">Pure ETCR Highlights 2021</sub-title>
-  </programme>
-  <programme start="20210626173000 +0000" stop="20210626192000 +0000" channel="BS1">
-    <title lang="id">Celta vs Osasuna</title>
-    <sub-title lang="id">LaLiga 2020/21</sub-title>
-  </programme>
-  <programme start="20210626192000 +0000" stop="20210626210500 +0000" channel="BS1">
-    <title lang="id">Napoli vs Verona</title>
-    <sub-title lang="id">Serie A 2020/21</sub-title>
-  </programme>
-  <programme start="20210626210500 +0000" stop="20210626213500 +0000" channel="BS1">
-    <title lang="id">Hungaroring</title>
-    <sub-title lang="id">FIA European Truck Racing Championship Highlights 2021</sub-title>
-  </programme>
-  <programme start="20210626213500 +0000" stop="20210626220500 +0000" channel="BS1">
-    <title lang="id">Episode Number 8</title>
-    <sub-title lang="id">GP Confidential 2021</sub-title>
-  </programme>
-  <programme start="20210626220500 +0000" stop="20210626223500 +0000" channel="BS1">
-    <title lang="id">Argentina v Brazil</title>
-    <sub-title lang="id">Sporting Rivalries</sub-title>
-  </programme>
-  <programme start="20210626223500 +0000" stop="20210626230500 +0000" channel="BS1">
-    <title lang="id">Premier League Years 03/04</title>
-    <sub-title lang="id">Chelsea TV: Premier League Years 2020/21</sub-title>
-  </programme>
-  <programme start="20210626230500 +0000" stop="20210626233500 +0000" channel="BS1">
-    <title lang="id">Premier League Years 04/05</title>
-    <sub-title lang="id">Chelsea TV: Premier League Years 2020/21</sub-title>
-  </programme>
-  <programme start="20210626233500 +0000" stop="20210627000500 +0000" channel="BS1">
-    <title lang="id">Premier League Years 05/06</title>
-    <sub-title lang="id">Chelsea TV: Premier League Years 2020/21</sub-title>
-  </programme>
-  <programme start="20210626002000 +0000" stop="20210626022500 +0000" channel="BS2">
-    <title lang="id">Inter Miami vs Orlando</title>
-    <category lang="id">Major League Soccer 2021</category>
-  </programme>
-  <programme start="20210626022500 +0000" stop="20210626024000 +0000" channel="BS2">
-    <title lang="id">Crazy Comebacks in MLS History</title>
-    <sub-title lang="id">MLS Specials 2021</sub-title>
-  </programme>
-  <programme start="20210626024000 +0000" stop="20210626033000 +0000" channel="BS2">
-    <title lang="id">Poland</title>
-    <sub-title lang="id">FIA European Rally Championship Highlights 2021</sub-title>
-  </programme>
-  <programme start="20210626033000 +0000" stop="20210626043000 +0000" channel="BS2">
-    <title lang="id">Monza</title>
-    <sub-title lang="id">DTM Highlights 2021</sub-title>
-  </programme>
-  <programme start="20210626043000 +0000" stop="20210626053000 +0000" channel="BS2">
-    <title lang="id">Valencia</title>
-    <sub-title lang="id">Ferrari Challenge Highlights 2021</sub-title>
-  </programme>
-  <programme start="20210626053000 +0000" stop="20210626070000 +0000" channel="BS2">
-    <title lang="id">Liverpool vs Dortmund 2016</title>
-    <sub-title lang="id">Liverpool TV 2020/21</sub-title>
-  </programme>
-  <programme start="20210626070000 +0000" stop="20210626083000 +0000" channel="BS2">
-    <title lang="id">Everton vs Liverpool 2001</title>
-    <sub-title lang="id">Liverpool TV 2020/21</sub-title>
-  </programme>
-  <programme start="20210626083000 +0000" stop="20210626090000 +0000" channel="BS2">
-    <title lang="id">Semi Final</title>
-    <sub-title lang="id">A-League Highlights 2020/21</sub-title>
-  </programme>
-  <programme start="20210626090000 +0000" stop="20210626100000 +0000" channel="BS2">
-    <title lang="id">Merlin Darwin Triple Crown Sat</title>
-    <sub-title lang="id">Supercars Championship Highlights 2021</sub-title>
-  </programme>
-  <programme start="20210626100000 +0000" stop="20210626110000 +0000" channel="BS2">
-    <title lang="id">Merlin Darwin Triple Crown Sun</title>
-    <sub-title lang="id">Supercars Championship Highlights 2021</sub-title>
-  </programme>
-  <programme start="20210626110000 +0000" stop="20210626111000 +0000" channel="BS2">
-    <title lang="id">Episode Number 17</title>
-    <sub-title lang="id">Great Goals (CC)</sub-title>
-  </programme>
-  <programme start="20210626111000 +0000" stop="20210626114000 +0000" channel="BS2">
-    <title lang="id">Real Madrid v Barcelona</title>
-    <sub-title lang="id">Sporting Rivalries (CC)</sub-title>
-  </programme>
-  <programme start="20210626114000 +0000" stop="20210626121000 +0000" channel="BS2">
+  <programme start="20210627023500 +0000" stop="20210627030500 +0000" channel="BS1">
     <title lang="id">Episode Number 11</title>
     <sub-title lang="id">Fastzone 2021</sub-title>
   </programme>
-  <programme start="20210626121000 +0000" stop="20210626141000 +0000" channel="BS2">
-    <title lang="id">Sevilla vs Chelsea</title>
-    <sub-title lang="id">Chelsea TV 2020/21</sub-title>
+  <programme start="20210627030500 +0000" stop="20210627032500 +0000" channel="BS1">
+    <title lang="id">Best Goalkeeper</title>
+    <sub-title lang="id">LaLiga Specials 2020/21</sub-title>
   </programme>
-  <programme start="20210626141000 +0000" stop="20210626144000 +0000" channel="BS2">
-    <title lang="id">Retro Blues: Chelsea vs Leeds United 1972</title>
-    <sub-title lang="id">Chelsea TV Specials 2020/21</sub-title>
+  <programme start="20210627032500 +0000" stop="20210627033500 +0000" channel="BS1">
+    <title lang="id">Best of Weird/Insane Free Kicks</title>
+    <sub-title lang="id">MLS Specials 2021</sub-title>
   </programme>
-  <programme start="20210626144000 +0000" stop="20210626151000 +0000" channel="BS2">
-    <title lang="id">Champions League Years 08/09</title>
-    <sub-title lang="id">Chelsea TV Specials 2020/21</sub-title>
+  <programme start="20210627033500 +0000" stop="20210627054000 +0000" channel="BS1">
+    <title lang="id">Portland vs Minnesota</title>
+    <category lang="id">Major League Soccer 2021</category>
   </programme>
-  <programme start="20210626151000 +0000" stop="20210626154000 +0000" channel="BS2">
-    <title lang="id">June</title>
-    <category lang="id">The Outdoor Sports Show 2021</category>
+  <programme start="20210627054000 +0000" stop="20210627073000 +0000" channel="BS1">
+    <title lang="id">Napoli vs Milan</title>
+    <sub-title lang="id">Serie A 2020/21</sub-title>
   </programme>
-  <programme start="20210626154000 +0000" stop="20210626155700 +0000" channel="BS2">
-    <title lang="id">Episode Number 59</title>
-    <sub-title lang="id">Great Goals (CC)</sub-title>
+  <programme start="20210627073000 +0000" stop="20210627092000 +0000" channel="BS1">
+    <title lang="id">Milan vs Lazio</title>
+    <sub-title lang="id">Serie A 2020/21</sub-title>
   </programme>
-  <programme start="20210626155700 +0000" stop="20210626175700 +0000" channel="BS2">
-    <title lang="id">Kaizer Chiefs vs WAC</title>
-    <sub-title lang="id">TotalEnergies CAF Champions League 2020/21</sub-title>
+  <programme start="20210627092000 +0000" stop="20210627111000 +0000" channel="BS1">
+    <title lang="id">Atalanta vs Milan</title>
+    <sub-title lang="id">Serie A 2020/21</sub-title>
   </programme>
-  <programme start="20210626175700 +0000" stop="20210626182700 +0000" channel="BS2">
-    <title lang="id">Romania v USSR</title>
-    <sub-title lang="id">Sporting Rivalries (CC)</sub-title>
-  </programme>
-  <programme start="20210626182700 +0000" stop="20210626185700 +0000" channel="BS2">
-    <title lang="id">Miracle on Ice</title>
-    <sub-title lang="id">Sporting Rivalries (CC)</sub-title>
-  </programme>
-  <programme start="20210626185700 +0000" stop="20210626210000 +0000" channel="BS2">
-    <title lang="id">Ahly vs ES Tunis</title>
-    <sub-title lang="id">TotalEnergies CAF Champions League 2020/21</sub-title>
-  </programme>
-  <programme start="20210626210000 +0000" stop="20210626213000 +0000" channel="BS2">
-    <title lang="id">June</title>
-    <sub-title lang="id">Gearing Up 2021</sub-title>
-  </programme>
-  <programme start="20210626213000 +0000" stop="20210626233500 +0000" channel="BS2">
+  <programme start="20210627111000 +0000" stop="20210627130000 +0000" channel="BS1">
     <title lang="id">Sporting KC vs LAFC</title>
     <category lang="id">Major League Soccer 2021</category>
   </programme>
-  <programme start="20210626233500 +0000" stop="20210627000500 +0000" channel="BS2">
-    <title lang="id">June</title>
-    <category lang="id">The Outdoor Sports Show 2021</category>
+  <programme start="20210627130000 +0000" stop="20210627140000 +0000" channel="BS1">
+    <title lang="id">North London &amp; Croatia</title>
+    <category lang="id">Football Rivalries (CC)</category>
   </programme>
-  <programme start="20210626010000 +0000" stop="20210626013000 +0000" channel="FOX Sports 1 HD">
-    <title lang="en">UFC Connected</title>
-    <category lang="en">Martial Arts</category>
+  <programme start="20210627140000 +0000" stop="20210627153000 +0000" channel="BS1">
+    <title lang="id">Liverpool vs Man City 2018</title>
+    <sub-title lang="id">Liverpool TV 2020/21</sub-title>
   </programme>
-  <programme start="20210626013000 +0000" stop="20210626040000 +0000" channel="FOX Sports 1 HD">
-    <title lang="en">MotoGP 2021 : Free Practice 2 - Motul TT Assen</title>
+  <programme start="20210627153000 +0000" stop="20210627170000 +0000" channel="BS1">
+    <title lang="id">Liverpool vs Arsenal 2004</title>
+    <sub-title lang="id">Liverpool TV 2020/21</sub-title>
+  </programme>
+  <programme start="20210627170000 +0000" stop="20210627173000 +0000" channel="BS1">
+    <title lang="id">Le Castellet</title>
+    <sub-title lang="id">Le Mans Cup Highlights 2021</sub-title>
+  </programme>
+  <programme start="20210627173000 +0000" stop="20210627192000 +0000" channel="BS1">
+    <title lang="id">PSG vs Lille</title>
+    <sub-title lang="id">Ligue 1 2020/21</sub-title>
+  </programme>
+  <programme start="20210627192000 +0000" stop="20210627193000 +0000" channel="BS1">
+    <title lang="id">Best GK Assists</title>
+    <sub-title lang="id">MLS Specials 2021</sub-title>
+  </programme>
+  <programme start="20210627193000 +0000" stop="20210627213500 +0000" channel="BS1">
+    <title lang="id">Atlanta vs NY Red Bulls</title>
+    <category lang="id">Major League Soccer 2021</category>
+  </programme>
+  <programme start="20210627213500 +0000" stop="20210627220500 +0000" channel="BS1">
+    <title lang="id">Paco Lopez</title>
+    <sub-title lang="id">LaLiga Interview</sub-title>
+  </programme>
+  <programme start="20210627220500 +0000" stop="20210628001000 +0000" channel="BS1">
+    <title lang="id">New York City vs DC Utd</title>
+    <category lang="id">Major League Soccer 2021</category>
+  </programme>
+  <programme start="20210627000500 +0000" stop="20210627020500 +0000" channel="BS2">
+    <title lang="id">Chicago vs Philadelphia</title>
+    <category lang="id">Major League Soccer 2021</category>
+  </programme>
+  <programme start="20210627020500 +0000" stop="20210627040500 +0000" channel="BS2">
+    <title lang="id">San Jose vs LA Galaxy</title>
+    <category lang="id">Major League Soccer 2021</category>
+  </programme>
+  <programme start="20210627040500 +0000" stop="20210627043500 +0000" channel="BS2">
+    <title lang="id">Retro Blues: Chelsea vs Leeds United 1972</title>
+    <sub-title lang="id">Chelsea TV Specials 2020/21</sub-title>
+  </programme>
+  <programme start="20210627043500 +0000" stop="20210627050500 +0000" channel="BS2">
+    <title lang="id">Champions League Years 08/09</title>
+    <sub-title lang="id">Chelsea TV Specials 2020/21</sub-title>
+  </programme>
+  <programme start="20210627050500 +0000" stop="20210627070000 +0000" channel="BS2">
+    <title lang="id">Sevilla vs Chelsea</title>
+    <sub-title lang="id">Chelsea TV 2020/21</sub-title>
+  </programme>
+  <programme start="20210627070000 +0000" stop="20210627090000 +0000" channel="BS2">
+    <title lang="id">Melbourne City vs Sydney FC</title>
+    <sub-title lang="id">A-League 2020/21</sub-title>
+  </programme>
+  <programme start="20210627090000 +0000" stop="20210627093000 +0000" channel="BS2">
+    <title lang="id">Le Castellet</title>
+    <sub-title lang="id">Le Mans Cup Highlights 2021</sub-title>
+  </programme>
+  <programme start="20210627093000 +0000" stop="20210627100000 +0000" channel="BS2">
+    <title lang="id">Episode Number 8</title>
+    <sub-title lang="id">GP Confidential 2021</sub-title>
+  </programme>
+  <programme start="20210627100000 +0000" stop="20210627115000 +0000" channel="BS2">
+    <title lang="id">Kaizer Chiefs vs WAC</title>
+    <sub-title lang="id">TotalEnergies CAF Champions League 2020/21</sub-title>
+  </programme>
+  <programme start="20210627115000 +0000" stop="20210627135000 +0000" channel="BS2">
+    <title lang="id">Ahly vs ES Tunis</title>
+    <sub-title lang="id">TotalEnergies CAF Champions League 2020/21</sub-title>
+  </programme>
+  <programme start="20210627135000 +0000" stop="20210627155000 +0000" channel="BS2">
+    <title lang="id">Melbourne City vs Sydney FC</title>
+    <sub-title lang="id">A-League 2020/21</sub-title>
+  </programme>
+  <programme start="20210627155000 +0000" stop="20210627161000 +0000" channel="BS2">
+    <title lang="id">Best Goalkeeper</title>
+    <sub-title lang="id">LaLiga Specials 2020/21</sub-title>
+  </programme>
+  <programme start="20210627161000 +0000" stop="20210627163500 +0000" channel="BS2">
+    <title lang="id">Paco Lopez</title>
+    <sub-title lang="id">LaLiga Interview</sub-title>
+  </programme>
+  <programme start="20210627163500 +0000" stop="20210627170000 +0000" channel="BS2">
+    <title lang="id">101 Great Goals</title>
+    <sub-title lang="id">MLS Specials 2021</sub-title>
+  </programme>
+  <programme start="20210627170000 +0000" stop="20210627185000 +0000" channel="BS2">
+    <title lang="id">Chicago vs Philadelphia</title>
+    <category lang="id">Major League Soccer 2021</category>
+  </programme>
+  <programme start="20210627185000 +0000" stop="20210627185700 +0000" channel="BS2">
+    <title lang="id">First MLS Goals for Star Players</title>
+    <sub-title lang="id">MLS Specials 2021</sub-title>
+  </programme>
+  <programme start="20210627185700 +0000" stop="20210627210000 +0000" channel="BS2">
+    <title lang="id">Casablanca vs Pyramids FC</title>
+    <sub-title lang="id">TotalEnergies CAF Confederation Cup 2020/21</sub-title>
+  </programme>
+  <programme start="20210627210000 +0000" stop="20210627211000 +0000" channel="BS2">
+    <title lang="id">Episode Number 38</title>
+    <sub-title lang="id">Great Goals (CC)</sub-title>
+  </programme>
+  <programme start="20210627211000 +0000" stop="20210627230000 +0000" channel="BS2">
+    <title lang="id">Edinburgh vs La Rochelle</title>
+    <sub-title lang="id">Champions Cup 2020/21</sub-title>
+  </programme>
+  <programme start="20210627230000 +0000" stop="20210628000000 +0000" channel="BS2">
+    <title lang="id">MD 21</title>
+    <sub-title lang="id">Ligue 1 Highlights 2020/21</sub-title>
+  </programme>
+  <programme start="20210627003000 +0000" stop="20210627013000 +0000" channel="FOX Sports 1 HD">
+    <title lang="en">Wimbledon 2019 Gentlemen's Review - The Reign Continues</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210627013000 +0000" stop="20210627023000 +0000" channel="FOX Sports 1 HD">
+    <title lang="en">Wimbledon 2019 Ladies' Review - From Romania, With Love</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210627023000 +0000" stop="20210627040000 +0000" channel="FOX Sports 1 HD">
+    <title lang="en">MotoGP 2021 : Qualifying - Motul TT Assen</title>
     <category lang="en">Motor Cycle Racing</category>
   </programme>
-  <programme start="20210626040000 +0000" stop="20210626043000 +0000" channel="FOX Sports 1 HD">
+  <programme start="20210627040000 +0000" stop="20210627043000 +0000" channel="FOX Sports 1 HD">
     <title lang="en">ESPN FC 2021</title>
     <category lang="en">Sports News</category>
   </programme>
-  <programme start="20210626043000 +0000" stop="20210626050000 +0000" channel="FOX Sports 1 HD">
-    <title lang="en">Last Train To Tokyo</title>
-    <category lang="en">Magazine</category>
-  </programme>
-  <programme start="20210626050000 +0000" stop="20210626060000 +0000" channel="FOX Sports 1 HD">
-    <title lang="en">Formula 1 Bwt Grosser Preis Der Steiermark 2021 - Practice 2</title>
-    <category lang="en">Auto Racing</category>
-  </programme>
-  <programme start="20210626060000 +0000" stop="20210626062500 +0000" channel="FOX Sports 1 HD">
-    <title lang="en">Planet Speed</title>
-    <category lang="en">Auto Racing</category>
-  </programme>
-  <programme start="20210626062500 +0000" stop="20210626065500 +0000" channel="FOX Sports 1 HD">
-    <title lang="en">ESPN FC 2021</title>
-    <category lang="en">Sports News</category>
-  </programme>
-  <programme start="20210626065500 +0000" stop="20210626075500 +0000" channel="FOX Sports 1 HD">
-    <title lang="en">The Return of The Ultimate Fighter 29</title>
-    <category lang="en">Martial Arts</category>
-  </programme>
-  <programme start="20210626075500 +0000" stop="20210626085500 +0000" channel="FOX Sports 1 HD">
-    <title lang="en">Formula 1 Bwt Grosser Preis Der Steiermark 2021 - Practice 1</title>
-    <category lang="en">Auto Racing</category>
-  </programme>
-  <programme start="20210626085500 +0000" stop="20210626095500 +0000" channel="FOX Sports 1 HD">
-    <title lang="en">Formula 1 Bwt Grosser Preis Der Steiermark 2021 - Practice 2</title>
-    <category lang="en">Auto Racing</category>
-  </programme>
-  <programme start="20210626095500 +0000" stop="20210626110500 +0000" channel="FOX Sports 1 HD">
-    <title lang="en">Live! Formula 1 Bwt Grosser Preis Der Steiermark 2021 - Practice 3</title>
-    <category lang="en">Auto Racing</category>
-  </programme>
-  <programme start="20210626110500 +0000" stop="20210626123000 +0000" channel="FOX Sports 1 HD">
-    <title lang="en">F1 Classic : Formula 1 Styrian Grand Prix 2020</title>
-    <category lang="en">Auto Racing</category>
-  </programme>
-  <programme start="20210626123000 +0000" stop="20210626143000 +0000" channel="FOX Sports 1 HD">
-    <title lang="en">Live! Formula 1 Bwt Grosser Preis Der Steiermark 2021 - Qualifying</title>
-    <category lang="en">Auto Racing</category>
-  </programme>
-  <programme start="20210626143000 +0000" stop="20210626153000 +0000" channel="FOX Sports 1 HD">
-    <title lang="en">The Return of The Ultimate Fighter 29</title>
-    <category lang="en">Martial Arts</category>
-  </programme>
-  <programme start="20210626153000 +0000" stop="20210626163000 +0000" channel="FOX Sports 1 HD">
-    <title lang="en">The Return of The Ultimate Fighter 29</title>
-    <category lang="en">Martial Arts</category>
-  </programme>
-  <programme start="20210626163000 +0000" stop="20210626170000 +0000" channel="FOX Sports 1 HD">
-    <title lang="en">UFC Connected</title>
-    <category lang="en">Martial Arts</category>
-  </programme>
-  <programme start="20210626170000 +0000" stop="20210626200000 +0000" channel="FOX Sports 1 HD">
-    <title lang="en">Live! UFC Fight Night Prelims : Gane Vs. Volkov</title>
-    <category lang="en">Martial Arts</category>
-  </programme>
-  <programme start="20210626200000 +0000" stop="20210626230000 +0000" channel="FOX Sports 1 HD">
-    <title lang="en">Live! UFC Fight Night : Gane Vs. Volkov</title>
-    <category lang="en">Martial Arts</category>
-  </programme>
-  <programme start="20210626230000 +0000" stop="20210627003000 +0000" channel="FOX Sports 1 HD">
+  <programme start="20210627043000 +0000" stop="20210627060000 +0000" channel="FOX Sports 1 HD">
     <title lang="en">Formula 1 Bwt Grosser Preis Der Steiermark 2021 - Qualifying</title>
     <category lang="en">Auto Racing</category>
   </programme>
-  <programme start="20210626002500 +0000" stop="20210626012500 +0000" channel="FOX Sports 2 HD">
-    <title lang="en">Wimbledon Official Film 2014</title>
-    <category lang="en">Tennis</category>
-  </programme>
-  <programme start="20210626012500 +0000" stop="20210626022500 +0000" channel="FOX Sports 2 HD">
-    <title lang="en">Wimbledon Official Film 2015</title>
-    <category lang="en">Tennis</category>
-  </programme>
-  <programme start="20210626022500 +0000" stop="20210626042500 +0000" channel="FOX Sports 2 HD">
-    <title lang="en">US Open Championship 2021 H/L Day 4</title>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20210626042500 +0000" stop="20210626043000 +0000" channel="FOX Sports 2 HD">
-    <title lang="en">In Focus: Tony Finau (5mins)</title>
+  <programme start="20210627060000 +0000" stop="20210627063000 +0000" channel="FOX Sports 1 HD">
+    <title lang="en">ESPN FC 2021</title>
     <category lang="en">Sports News</category>
   </programme>
-  <programme start="20210626043000 +0000" stop="20210626063000 +0000" channel="FOX Sports 2 HD">
+  <programme start="20210627063000 +0000" stop="20210627070000 +0000" channel="FOX Sports 1 HD">
+    <title lang="en">Extreme E : Electric Odyssey</title>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20210627070000 +0000" stop="20210627080000 +0000" channel="FOX Sports 1 HD">
+    <title lang="en">US Womens Open Championship 2021 Review - Pride Of Philippines</title>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20210627080000 +0000" stop="20210627090000 +0000" channel="FOX Sports 1 HD">
+    <title lang="en">US Open Championship 2021 Review - Rahmbo: First Blood</title>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20210627090000 +0000" stop="20210627093000 +0000" channel="FOX Sports 1 HD">
+    <title lang="en">2 Wheels</title>
+    <category lang="en">Motor Cycle Racing</category>
+  </programme>
+  <programme start="20210627093000 +0000" stop="20210627100000 +0000" channel="FOX Sports 1 HD">
+    <title lang="en">UFC Connected</title>
+    <category lang="en">Martial Arts</category>
+  </programme>
+  <programme start="20210627100000 +0000" stop="20210627103000 +0000" channel="FOX Sports 1 HD">
+    <title lang="en">ESPN FC 2021</title>
+    <category lang="en">Sports News</category>
+  </programme>
+  <programme start="20210627103000 +0000" stop="20210627120000 +0000" channel="FOX Sports 1 HD">
+    <title lang="en">Formula 1 Bwt Grosser Preis Der Steiermark 2021 - Qualifying</title>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20210627120000 +0000" stop="20210627150000 +0000" channel="FOX Sports 1 HD">
+    <title lang="en">Live! Formula 1 Bwt Grosser Preis Der Steiermark 2021 - Main Race</title>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20210627150000 +0000" stop="20210627173000 +0000" channel="FOX Sports 1 HD">
+    <title lang="en">UFC Fight Night : Gane Vs. Volkov</title>
+    <category lang="en">Martial Arts</category>
+  </programme>
+  <programme start="20210627173000 +0000" stop="20210627213000 +0000" channel="FOX Sports 1 HD">
+    <title lang="en">MotoGP 2021 : Races - Motul TT Assen</title>
+    <category lang="en">Motor Cycle Racing</category>
+  </programme>
+  <programme start="20210627213000 +0000" stop="20210627220000 +0000" channel="FOX Sports 1 HD">
+    <title lang="en">UFC Connected</title>
+    <category lang="en">Martial Arts</category>
+  </programme>
+  <programme start="20210627220000 +0000" stop="20210628000000 +0000" channel="FOX Sports 1 HD">
+    <title lang="en">Formula 1 Bwt Grosser Preis Der Steiermark 2021 - Main Race</title>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20210627013000 +0000" stop="20210627030000 +0000" channel="FOX Sports 2 HD">
+    <title lang="en">Formula 1 Bwt Grosser Preis Der Steiermark 2021 - Qualifying</title>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20210627030000 +0000" stop="20210627043000 +0000" channel="FOX Sports 2 HD">
+    <title lang="en">Women's FIH Pro League 2020/21</title>
+    <sub-title lang="en">Australia vs. New Zealand</sub-title>
+    <category lang="en">Field Hockey</category>
+  </programme>
+  <programme start="20210627043000 +0000" stop="20210627063000 +0000" channel="FOX Sports 2 HD">
     <title lang="en">Live! Men's FIH Pro League 2020/21</title>
     <sub-title lang="en">Australia vs. New Zealand</sub-title>
     <category lang="en">Field Hockey</category>
   </programme>
-  <programme start="20210626063000 +0000" stop="20210626065500 +0000" channel="FOX Sports 2 HD">
-    <title lang="en">Outdoor Sports Show 2021</title>
+  <programme start="20210627063000 +0000" stop="20210627070000 +0000" channel="FOX Sports 2 HD">
+    <title lang="en">Wimbledon Highlights 2021 Preview</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210627070000 +0000" stop="20210627083000 +0000" channel="FOX Sports 2 HD">
+    <title lang="en">MotoGP 2021 : Qualifying - Motul TT Assen</title>
+    <category lang="en">Motor Cycle Racing</category>
+  </programme>
+  <programme start="20210627083000 +0000" stop="20210627133000 +0000" channel="FOX Sports 2 HD">
+    <title lang="en">Live! MotoGP 2021 : Races - Motul TT Assen</title>
+    <category lang="en">Motor Cycle Racing</category>
+  </programme>
+  <programme start="20210627133000 +0000" stop="20210627140500 +0000" channel="FOX Sports 2 HD">
+    <title lang="en">Live! FIM Enel Moto E World Cup 2021 : Race</title>
+    <category lang="en">Motor Cycle Racing</category>
+  </programme>
+  <programme start="20210627140500 +0000" stop="20210627143500 +0000" channel="FOX Sports 2 HD">
+    <title lang="en">Generation Gap - Eric Cantona Vs Zlatan Ibrahimovic</title>
     <category lang="en">Magazine</category>
   </programme>
-  <programme start="20210626065500 +0000" stop="20210626100000 +0000" channel="FOX Sports 2 HD">
-    <title lang="en">Live! MotoGP 2021 : Free Practice 3 - Motul TT Assen</title>
-    <category lang="en">Motor Cycle Racing</category>
-  </programme>
-  <programme start="20210626100000 +0000" stop="20210626141500 +0000" channel="FOX Sports 2 HD">
-    <title lang="en">Live! MotoGP 2021 : Qualifying - Motul TT Assen</title>
-    <category lang="en">Motor Cycle Racing</category>
-  </programme>
-  <programme start="20210626141500 +0000" stop="20210626150000 +0000" channel="FOX Sports 2 HD">
-    <title lang="en">Live! FIM Enel Moto E World Cup 2021 : E-Pole</title>
-    <category lang="en">Motor Cycle Racing</category>
-  </programme>
-  <programme start="20210626150000 +0000" stop="20210626160000 +0000" channel="FOX Sports 2 HD">
-    <title lang="en">History Of The Championships: The Glory Years, A</title>
+  <programme start="20210627143500 +0000" stop="20210627150500 +0000" channel="FOX Sports 2 HD">
+    <title lang="en">Wimbledon Highlights 2021 Preview</title>
     <category lang="en">Tennis</category>
   </programme>
-  <programme start="20210626160000 +0000" stop="20210626163000 +0000" channel="FOX Sports 2 HD">
-    <title lang="en">Outdoor Sports Show 2021</title>
-    <category lang="en">Magazine</category>
-  </programme>
-  <programme start="20210626163000 +0000" stop="20210626180000 +0000" channel="FOX Sports 2 HD">
-    <title lang="en">Formula 1 Bwt Grosser Preis Der Steiermark 2021 - Qualifying</title>
-    <category lang="en">Auto Racing</category>
-  </programme>
-  <programme start="20210626180000 +0000" stop="20210626200000 +0000" channel="FOX Sports 2 HD">
-    <title lang="en">US Women's Open Championship 2021 H/L- Day 4</title>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20210626200000 +0000" stop="20210626220000 +0000" channel="FOX Sports 2 HD">
-    <title lang="en">US Open Championship 2021 H/L Day 4</title>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20210626220000 +0000" stop="20210626230000 +0000" channel="FOX Sports 2 HD">
-    <title lang="en">History Of The Championships: Dare To Dream, A</title>
+  <programme start="20210627150500 +0000" stop="20210627160500 +0000" channel="FOX Sports 2 HD">
+    <title lang="en">History Of The Championships: Coming Of Age, A</title>
     <category lang="en">Tennis</category>
   </programme>
-  <programme start="20210626230000 +0000" stop="20210627000000 +0000" channel="FOX Sports 2 HD">
-    <title lang="en">History Of The Championships: The Glory Years, A</title>
+  <programme start="20210627160500 +0000" stop="20210627170500 +0000" channel="FOX Sports 2 HD">
+    <title lang="en">History Of The Championships: More Than A Game, A</title>
     <category lang="en">Tennis</category>
   </programme>
-  <programme start="20210626020000 +0000" stop="20210626030000 +0000" channel="FOX Sports 3 HD">
-    <title lang="en">Monster Jam 2021 Tampa 1</title>
-    <category lang="en">Truck and Tractor</category>
+  <programme start="20210627170500 +0000" stop="20210627173500 +0000" channel="FOX Sports 2 HD">
+    <title lang="en">Wimbledon Highlights 2021 Preview</title>
+    <category lang="en">Tennis</category>
   </programme>
-  <programme start="20210626030000 +0000" stop="20210626040000 +0000" channel="FOX Sports 3 HD">
-    <title lang="en">Motoamerica Rewind 2021</title>
-    <category lang="en">Motor Cycle Racing</category>
+  <programme start="20210627173500 +0000" stop="20210627200500 +0000" channel="FOX Sports 2 HD">
+    <title lang="en">UFC Fight Night : Gane Vs. Volkov</title>
+    <category lang="en">Martial Arts</category>
   </programme>
-  <programme start="20210626040000 +0000" stop="20210626050000 +0000" channel="FOX Sports 3 HD">
-    <title lang="en">Red Bull Rookies Cup 2021 : Race 7</title>
-    <category lang="en">Motor Cycle Racing</category>
+  <programme start="20210627200500 +0000" stop="20210627220000 +0000" channel="FOX Sports 2 HD">
+    <title lang="en">Athletes Unlimited Women's Volleyball 2021;</title>
+    <sub-title lang="en">Orange vs. Gold</sub-title>
+    <category lang="en">Volleyball</category>
   </programme>
-  <programme start="20210626050000 +0000" stop="20210626060000 +0000" channel="FOX Sports 3 HD">
-    <title lang="en">Red Bull Rookies Cup 2021 : Race 8</title>
-    <category lang="en">Motor Cycle Racing</category>
+  <programme start="20210627220000 +0000" stop="20210627230000 +0000" channel="FOX Sports 2 HD">
+    <title lang="en">History Of The Championships: Coming Of Age, A</title>
+    <category lang="en">Tennis</category>
   </programme>
-  <programme start="20210626060000 +0000" stop="20210626070000 +0000" channel="FOX Sports 3 HD">
+  <programme start="20210627230000 +0000" stop="20210628000000 +0000" channel="FOX Sports 2 HD">
+    <title lang="en">History Of The Championships: More Than A Game, A</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20210627020000 +0000" stop="20210627030000 +0000" channel="FOX Sports 3 HD">
     <title lang="en">Max Power</title>
     <category lang="en">Auto Racing</category>
   </programme>
-  <programme start="20210626070000 +0000" stop="20210626073000 +0000" channel="FOX Sports 3 HD">
-    <title lang="en">W Series 2021 : Qualifying</title>
-    <category lang="en">Auto Racing</category>
-  </programme>
-  <programme start="20210626073000 +0000" stop="20210626083000 +0000" channel="FOX Sports 3 HD">
-    <title lang="en">Monster Jam 2021 Tampa 1</title>
-    <category lang="en">Truck and Tractor</category>
-  </programme>
-  <programme start="20210626083000 +0000" stop="20210626093000 +0000" channel="FOX Sports 3 HD">
-    <title lang="en">FIM Supersport World Championship 2021 : Race 1</title>
-    <category lang="en">Motor Cycle Racing</category>
-  </programme>
-  <programme start="20210626093000 +0000" stop="20210626103000 +0000" channel="FOX Sports 3 HD">
-    <title lang="en">FIM Supersport World Championship 2021 : Race 2</title>
-    <category lang="en">Motor Cycle Racing</category>
-  </programme>
-  <programme start="20210626103000 +0000" stop="20210626110000 +0000" channel="FOX Sports 3 HD">
-    <title lang="en">W Series 2021 : Qualifying</title>
-    <category lang="en">Auto Racing</category>
-  </programme>
-  <programme start="20210626110000 +0000" stop="20210626120000 +0000" channel="FOX Sports 3 HD">
-    <title lang="en">NTT Indycar Series 2021 : Qualifying Rev Group Grand Prix At Road America</title>
-    <category lang="en">Auto Racing</category>
-  </programme>
-  <programme start="20210626120000 +0000" stop="20210626140000 +0000" channel="FOX Sports 3 HD">
-    <title lang="en">NTT Indycar Series 2021 : Rev Group GP At Road America</title>
-    <category lang="en">Auto Racing</category>
-  </programme>
-  <programme start="20210626140000 +0000" stop="20210626152000 +0000" channel="FOX Sports 3 HD">
-    <title lang="en">Live! W Series 2021 : Race</title>
-    <category lang="en">Auto Racing</category>
-  </programme>
-  <programme start="20210626152000 +0000" stop="20210626153000 +0000" channel="FOX Sports 3 HD">
-    <title lang="en">In Focus: Patrick Mouratoglou</title>
-    <category lang="en">Sports News</category>
-  </programme>
-  <programme start="20210626153000 +0000" stop="20210626160000 +0000" channel="FOX Sports 3 HD">
+  <programme start="20210627030000 +0000" stop="20210627033000 +0000" channel="FOX Sports 3 HD">
     <title lang="en">Andalucia Rally 2021 : Highlights</title>
     <category lang="en">Auto Racing</category>
   </programme>
-  <programme start="20210626160000 +0000" stop="20210626180000 +0000" channel="FOX Sports 3 HD">
-    <title lang="en">Supercars All Stars Eseries 2020 - Highlights</title>
-    <category lang="en">Esports</category>
-  </programme>
-  <programme start="20210626180000 +0000" stop="20210626200000 +0000" channel="FOX Sports 3 HD">
-    <title lang="en">Supercars All Stars Eseries 2020 - Highlights</title>
-    <category lang="en">Esports</category>
-  </programme>
-  <programme start="20210626200000 +0000" stop="20210626220000 +0000" channel="FOX Sports 3 HD">
-    <title lang="en">Supercars All Stars Eseries 2020 - Highlights</title>
-    <category lang="en">Esports</category>
-  </programme>
-  <programme start="20210626220000 +0000" stop="20210626230000 +0000" channel="FOX Sports 3 HD">
-    <title lang="en">Motoamerica Rewind 2021</title>
+  <programme start="20210627033000 +0000" stop="20210627060000 +0000" channel="FOX Sports 3 HD">
+    <title lang="en">Live! Australian Motorcross Championship 2021 - Round 4</title>
     <category lang="en">Motor Cycle Racing</category>
   </programme>
-  <programme start="20210626230000 +0000" stop="20210627000000 +0000" channel="FOX Sports 3 HD">
+  <programme start="20210627060000 +0000" stop="20210627070000 +0000" channel="FOX Sports 3 HD">
+    <title lang="en">Motoamerica Superbikes Championship 2021 : Race</title>
+    <category lang="en">Motor Cycle Racing</category>
+  </programme>
+  <programme start="20210627070000 +0000" stop="20210627073000 +0000" channel="FOX Sports 3 HD">
+    <title lang="en">Planet Speed</title>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20210627073000 +0000" stop="20210627080000 +0000" channel="FOX Sports 3 HD">
+    <title lang="en">W Series 2021 : Qualifying</title>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20210627080000 +0000" stop="20210627090000 +0000" channel="FOX Sports 3 HD">
+    <title lang="en">W Series 2021 : Race</title>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20210627090000 +0000" stop="20210627100000 +0000" channel="FOX Sports 3 HD">
+    <title lang="en">Motul FIM Superbike World Championship 2021 : Race 1</title>
+    <category lang="en">Motor Cycle Racing</category>
+  </programme>
+  <programme start="20210627100000 +0000" stop="20210627110000 +0000" channel="FOX Sports 3 HD">
+    <title lang="en">Motul FIM Superbike World Championship 2021 : Race 2</title>
+    <category lang="en">Motor Cycle Racing</category>
+  </programme>
+  <programme start="20210627110000 +0000" stop="20210627113000 +0000" channel="FOX Sports 3 HD">
+    <title lang="en">Planet Speed</title>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20210627113000 +0000" stop="20210627120000 +0000" channel="FOX Sports 3 HD">
+    <title lang="en">W Series 2021 : Qualifying</title>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20210627120000 +0000" stop="20210627130000 +0000" channel="FOX Sports 3 HD">
+    <title lang="en">W Series 2021 : Race</title>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20210627130000 +0000" stop="20210627140000 +0000" channel="FOX Sports 3 HD">
+    <title lang="en">Motoamerica Superbikes Championship 2021 : Race</title>
+    <category lang="en">Motor Cycle Racing</category>
+  </programme>
+  <programme start="20210627140000 +0000" stop="20210627160000 +0000" channel="FOX Sports 3 HD">
+    <title lang="en">Australian Motorcross Championship 2021 - Round 4</title>
+    <category lang="en">Motor Cycle Racing</category>
+  </programme>
+  <programme start="20210627160000 +0000" stop="20210627180000 +0000" channel="FOX Sports 3 HD">
+    <title lang="en">Supercars All Stars Eseries 2020 - Highlights</title>
+    <category lang="en">Esports</category>
+  </programme>
+  <programme start="20210627180000 +0000" stop="20210627200000 +0000" channel="FOX Sports 3 HD">
+    <title lang="en">Supercars All Stars Eseries 2020 - Highlights</title>
+    <category lang="en">Esports</category>
+  </programme>
+  <programme start="20210627200000 +0000" stop="20210627210000 +0000" channel="FOX Sports 3 HD">
+    <title lang="en">Motoamerica Superbikes Championship 2021 : Race</title>
+    <category lang="en">Motor Cycle Racing</category>
+  </programme>
+  <programme start="20210627210000 +0000" stop="20210627220000 +0000" channel="FOX Sports 3 HD">
     <title lang="en">Live! Motoamerica Superbikes Championship 2021 : Race</title>
     <category lang="en">Motor Cycle Racing</category>
+  </programme>
+  <programme start="20210627220000 +0000" stop="20210628000000 +0000" channel="FOX Sports 3 HD">
+    <title lang="en">Supercars All Stars Eseries 2020 - Highlights</title>
+    <category lang="en">Esports</category>
   </programme>
   <programme start="20210627000000 +0700" stop="20210627020000 +0700" channel="Champion TV 2">
     <title lang="id">UCL 2020 - 2021</title>
@@ -3948,196 +3902,293 @@
     <title lang="id">BMW International Open 2021 - Day 4</title>
     <desc lang="id">European Tour 2021 - BMW International Open from Golfclub Munchen Eichenried, Munich, Germany.</desc>
   </programme>
-  <programme start="20210626003000 +0000" stop="20210626013000 +0000" channel="NBA">
-    <title lang="en">Playoff Playback Bucks/Nets Round 2 Game 2</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
+  <programme start="20210627003000 +0000" stop="20210627013000 +0000" channel="NBA">
+    <title lang="en">Playoff Playback Nuggets/Suns Round 2 Game 2</title>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
     <date>2021</date>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20210626013000 +0000" stop="20210626023000 +0000" channel="NBA">
-    <title lang="en">Playoff Playback Nuggets/Suns Round 2 Game 1</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
+  <programme start="20210627013000 +0000" stop="20210627023000 +0000" channel="NBA">
+    <title lang="en">Playoff Playback Nets/Bucks Round 2 Game 3</title>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
     <date>2021</date>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20210626023000 +0000" stop="20210626030000 +0000" channel="NBA">
+  <programme start="20210627023000 +0000" stop="20210627030000 +0000" channel="NBA">
     <title lang="en">WNBA Weekly #206</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20210626030000 +0000" stop="20210626043000 +0000" channel="NBA">
-    <title lang="en">Playoff Central Live</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20210626043000 +0000" stop="20210626050000 +0000" channel="NBA">
+  <programme start="20210627030000 +0000" stop="20210627033000 +0000" channel="NBA">
     <title lang="en">NBA Action</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
     <date>3026</date>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20210626050000 +0000" stop="20210626060000 +0000" channel="NBA">
-    <title lang="en">Playoff Playback Hawks/76ers Round 2 Game 2</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
-    <date>2021</date>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20210626060000 +0000" stop="20210626070000 +0000" channel="NBA">
-    <title lang="en">Playoff Playback Suns/Nuggets Round 2 Game 3</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
-    <date>2021</date>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20210626070000 +0000" stop="20210626080000 +0000" channel="NBA">
-    <title lang="en">Playoff Playback Nuggets/Suns Round 2 Game 2</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
-    <date>2021</date>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20210626080000 +0000" stop="20210626090000 +0000" channel="NBA">
-    <title lang="en">Playoff Playback Bucks/Nets Round 2 Game 1</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
-    <date>2021</date>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20210626090000 +0000" stop="20210626100000 +0000" channel="NBA">
-    <title lang="en">Playoff Playback Nets/Bucks Round 2 Game 3</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
-    <date>2021</date>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20210626100000 +0000" stop="20210626110000 +0000" channel="NBA">
-    <title lang="en">Playoff Playback Clippers/Jazz Round 2 Game 2</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
-    <date>2021</date>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20210626110000 +0000" stop="20210626120000 +0000" channel="NBA">
-    <title lang="en">Inside the NBA</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20210626120000 +0000" stop="20210626130000 +0000" channel="NBA">
-    <title lang="en">Playoff Playback Sixers/Hawks Round 2 Game 3</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
-    <date>2021</date>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20210626130000 +0000" stop="20210626140000 +0000" channel="NBA">
-    <title lang="en">Playoff Playback Suns/Nuggets Round 2 Game 3</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
-    <date>2021</date>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20210626140000 +0000" stop="20210626150000 +0000" channel="NBA">
-    <title lang="en">Inside the NBA</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20210626150000 +0000" stop="20210626160000 +0000" channel="NBA">
-    <title lang="en">Playoff Playback Bucks/Nets Round 2 Game 1</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
-    <date>2021</date>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20210626160000 +0000" stop="20210626170000 +0000" channel="NBA">
-    <title lang="en">Playoff Playback Hawks/Sixers Round 2 Game 1</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
-    <date>2021</date>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20210626170000 +0000" stop="20210626180000 +0000" channel="NBA">
-    <title lang="en">Inside the NBA</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20210626180000 +0000" stop="20210626190000 +0000" channel="NBA">
-    <title lang="en">Playoff Playback Nuggets/Suns Round 2 Game 2</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
-    <date>2021</date>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20210626190000 +0000" stop="20210626200000 +0000" channel="NBA">
-    <title lang="en">Inside the NBA</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20210626200000 +0000" stop="20210626210000 +0000" channel="NBA">
-    <title lang="en">Playoff Playback Hawks/76ers Round 2 Game 2</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
-    <date>2021</date>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20210626210000 +0000" stop="20210626230000 +0000" channel="NBA">
-    <title lang="en">NBA Draft Combine Day 1 Tape</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
-    <date>2021</date>
-    <category lang="en">Basketball</category>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20210626230000 +0000" stop="20210627000000 +0000" channel="NBA">
+  <programme start="20210627033000 +0000" stop="20210627050000 +0000" channel="NBA">
     <title lang="en">Playoff Central Live</title>
-    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!</desc>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
     <category lang="en">Basketball</category>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20210626020000 +0000" stop="20210626053000 +0000" channel="egg network">
-    <title lang="en">Telur Mata Cup: Group Stage Day 2</title>
-    <desc lang="en">An officially supported PUBG Mobile tournament with a RM30,000 prize pool but more importantly – a direct invitation to the PUBG Mobile National Championship Malaysia 2021 Group Stage!</desc>
+  <programme start="20210627050000 +0000" stop="20210627070000 +0000" channel="NBA">
+    <title lang="en">NBA Draft Combine Day 1 Tape</title>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <date>2021</date>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20210627070000 +0000" stop="20210627073000 +0000" channel="NBA">
+    <title lang="en">NBA GAMETIME</title>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20210627073000 +0000" stop="20210627080000 +0000" channel="NBA">
+    <title lang="en">NBA GAMETIME</title>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20210627080000 +0000" stop="20210627083000 +0000" channel="NBA">
+    <title lang="en">NBA GAMETIME</title>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20210627083000 +0000" stop="20210627090000 +0000" channel="NBA">
+    <title lang="en">NBA GAMETIME</title>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20210627090000 +0000" stop="20210627093000 +0000" channel="NBA">
+    <title lang="en">NBA GAMETIME</title>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20210627093000 +0000" stop="20210627100000 +0000" channel="NBA">
+    <title lang="en">NBA GAMETIME</title>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20210627100000 +0000" stop="20210627103000 +0000" channel="NBA">
+    <title lang="en">NBA GAMETIME</title>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20210627103000 +0000" stop="20210627110000 +0000" channel="NBA">
+    <title lang="en">NBA GAMETIME</title>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20210627110000 +0000" stop="20210627113000 +0000" channel="NBA">
+    <title lang="en">NBA GAMETIME</title>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20210627113000 +0000" stop="20210627120000 +0000" channel="NBA">
+    <title lang="en">NBA GAMETIME</title>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20210627120000 +0000" stop="20210627123000 +0000" channel="NBA">
+    <title lang="en">NBA GAMETIME</title>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20210627123000 +0000" stop="20210627130000 +0000" channel="NBA">
+    <title lang="en">NBA GAMETIME</title>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20210627130000 +0000" stop="20210627133000 +0000" channel="NBA">
+    <title lang="en">NBA GAMETIME</title>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20210627133000 +0000" stop="20210627140000 +0000" channel="NBA">
+    <title lang="en">NBA GAMETIME</title>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20210627140000 +0000" stop="20210627143000 +0000" channel="NBA">
+    <title lang="en">NBA GAMETIME</title>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20210627143000 +0000" stop="20210627150000 +0000" channel="NBA">
+    <title lang="en">NBA GAMETIME</title>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20210627150000 +0000" stop="20210627160000 +0000" channel="NBA">
+    <title lang="en">Playoff Playback Nets/Bucks Round 2 Game 3</title>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <date>2021</date>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20210627160000 +0000" stop="20210627170000 +0000" channel="NBA">
+    <title lang="en">Playoff Playback Nuggets/Trail Blazers Round 1 Game 6</title>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <date>2021</date>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20210627170000 +0000" stop="20210627180000 +0000" channel="NBA">
+    <title lang="en">Playoff Playback Suns/Lakers Round 1 Game 6</title>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <date>2021</date>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20210627180000 +0000" stop="20210627190000 +0000" channel="NBA">
+    <title lang="en">Playoff Playback Clippers/Mavericks Round 1 Game 6</title>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <date>2021</date>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20210627190000 +0000" stop="20210627200000 +0000" channel="NBA">
+    <title lang="en">Playoff Playback Mavericks/Clippers Round 1 Game 7</title>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <date>2021</date>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20210627200000 +0000" stop="20210627210000 +0000" channel="NBA">
+    <title lang="en">Playoff Playback Bucks/Nets Round 2 Game 1</title>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <date>2021</date>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20210627210000 +0000" stop="20210627220000 +0000" channel="NBA">
+    <title lang="en">Asian American &amp; Pacific Islander Round Table</title>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20210627220000 +0000" stop="20210627223000 +0000" channel="NBA">
+    <title lang="en">NBA Action</title>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <date>3026</date>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20210627223000 +0000" stop="20210627233000 +0000" channel="NBA">
+    <title lang="en">Playoff Central Live</title>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20210627233000 +0000" stop="20210628013000 +0000" channel="NBA">
+    <title lang="en">NBA Draft Combine Day 2 Tape</title>
+    <desc lang="en">NBA TV brings you the most compelling basketball action from the NBA, with games, highlights, interviews, analysis as well as original programmes about the world's most well-known basketball league. It's all NBA, all the time!(n)</desc>
+    <date>2021</date>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20210627010000 +0000" stop="20210627020000 +0000" channel="egg network">
+    <title lang="en">eGG Scramble</title>
+    <desc lang="en">News, interviews, games and more games! Scramble gives you the latest and coolest from the world of gaming and esports.(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Others (Sports)</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGZN.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626053000 +0000" stop="20210626120000 +0000" channel="egg network">
-    <title lang="en">(L) Summer Super Cup: Playoffs Day 2</title>
-    <desc lang="en">LIVE: The Summer Super Cup is a regional championship for the SEA Icon Series Summer organized by Riot Games.</desc>
+  <programme start="20210627020000 +0000" stop="20210627044500 +0000" channel="egg network">
+    <title lang="en">Telur Mata Cup: Group Stage Day 3</title>
+    <desc lang="en">An officially supported PUBG Mobile tournament with a RM30,000 prize pool but more importantly – a direct invitation to the PUBG Mobile National Championship Malaysia 2021 Group Stage!(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Others (Sports)</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUCNR.jpg" />
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGZO.jpg" />
+    <rating system="MY">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210627044500 +0000" stop="20210627053000 +0000" channel="egg network">
+    <title lang="en">eGG Scramble</title>
+    <desc lang="en">News, interviews, games and more games! Scramble gives you the latest and coolest from the world of gaming and esports.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626160000 +0000" stop="20210626180000 +0000" channel="egg network">
-    <title lang="en">(L) TI10 Regional Qualifiers: EEU Day 4</title>
-    <desc lang="en">LIVE: The International 10 is the concluding tournament of the Dota Pro Circuit and the tenth annual edition of The International which returns to Europe for the first time since 2011.</desc>
+  <programme start="20210627053000 +0000" stop="20210627120000 +0000" channel="egg network">
+    <title lang="en">(L) Summer Super Cup: Playoffs Day 3</title>
+    <desc lang="en">LIVE: The Summer Super Cup is a regional championship for the SEA Icon Series Summer organized by Riot Games.(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Others (Sports)</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGYE.jpg" />
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUCNS.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20210626202000 +0000" stop="20210627010000 +0000" channel="egg network">
-    <title lang="en">(L) TI10 Regional Qualifiers: SA Day 4</title>
-    <desc lang="en">LIVE: The International 10 is the concluding tournament of the Dota Pro Circuit and the tenth annual edition of The International which returns to Europe for the first time since 2011.(c)</desc>
+  <programme start="20210627120000 +0000" stop="20210627123000 +0000" channel="egg network">
+    <title lang="en">Arena eSports</title>
+    <desc lang="en">The first of its kind weekly program that covers the big developments, news and massively popular eSports events worldwide.(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Others (Sports)</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGYI.jpg" />
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IVP_IBBTZ.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627123000 +0000" stop="20210627150300 +0000" channel="egg network">
+    <title lang="en">Telur Mata Cup: Group Stage Day 3</title>
+    <desc lang="en">An officially supported PUBG Mobile tournament with a RM30,000 prize pool but more importantly – a direct invitation to the PUBG Mobile National Championship Malaysia 2021 Group Stage!(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGZO.jpg" />
+    <rating system="MY">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210627150300 +0000" stop="20210627160000 +0000" channel="egg network">
+    <title lang="en">eGG Scramble</title>
+    <desc lang="en">News, interviews, games and more games! Scramble gives you the latest and coolest from the world of gaming and esports.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210627160000 +0000" stop="20210627223000 +0000" channel="egg network">
+    <title lang="en">Summer Super Cup: Playoffs Day 1</title>
+    <desc lang="en">The Summer Super Cup is a regional championship for the SEA Icon Series Summer organized by Riot Games.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUCNQ.jpg" />
+    <rating system="MY">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210627223000 +0000" stop="20210628013000 +0000" channel="egg network">
+    <title lang="en">NBA 2K League: Week 5 Day 2</title>
+    <desc lang="en">A professional esports league featuring the best NBA2K players in the world and the first official esports league operated by a U.S. professional sports league.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JTJIL.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
@@ -7028,187 +7079,9 @@
     <title lang="id">The Spies</title>
     <desc lang="id">Kim, seorang mata-mata Korea Utara yang telah tinggal di Korea Selatan selama 22 tahun tiba-tiba dihubungi oleh atasannya. Mereka berencana untuk menyelesaikan misi sebelumnya dan mencuri uang simpanan target sebanyak-banyaknya.</desc>
   </programme>
-  <programme start="20210626000000 +0000" stop="20210626001500 +0000" channel="Kplus">
-    <title lang="en">Nightmare High</title>
-    <desc lang="en">Nightmare High is about the mysterious things that happen in a school. The students fall into a sweet but mysterious seduction in which their dreams happen as soon as they dream it.</desc>
-    <credits>
-      <director>Hyun Moon Sub</director>
-      <actor>Uhm Ki Joon / Kim So Hyun</actor>
-    </credits>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000315X238678.jpg" />
-    <episode-num system="onscreen">E3</episode-num>
-    <rating system="MY">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20210626001500 +0000" stop="20210626004500 +0000" channel="Kplus">
-    <title lang="en">Nightmare High</title>
-    <desc lang="en">Nightmare High is about the mysterious things that happen in a school. The students fall into a sweet but mysterious seduction in which their dreams happen as soon as they dream it.</desc>
-    <credits>
-      <director>Hyun Moon Sub</director>
-      <actor>Uhm Ki Joon / Kim So Hyun</actor>
-    </credits>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000315X263731.jpg" />
-    <episode-num system="onscreen">E4</episode-num>
-    <rating system="MY">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20210626004500 +0000" stop="20210626020000 +0000" channel="Kplus">
-    <title lang="en">Best of Chef &amp; My Fridge</title>
-    <desc lang="en">Chef and My Fridge is an innovative cooking variety program that teaches you how to make amazing dishes with simple ingredients from your fridge in a matter of minutes!</desc>
-    <credits>
-      <director>Sung Hee Sung</director>
-      <actor>Kim Sung Joo / Ahn Jung Hwan</actor>
-    </credits>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Reality Show</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000315X127390.jpg" />
-    <episode-num system="onscreen">E100</episode-num>
-    <rating system="MY">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20210626020000 +0000" stop="20210626031500 +0000" channel="Kplus">
-    <title lang="en">18 Again</title>
-    <desc lang="en">A shocking video of Da-jung goes viral on the internet.</desc>
-    <credits>
-      <director>Ha Byung Hoon</director>
-      <actor>Kim Ha Neul / Lee Do Hyun</actor>
-    </credits>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">E16</episode-num>
-    <rating system="MY">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20210626031500 +0000" stop="20210626034500 +0000" channel="Kplus">
-    <title lang="en">Cafe Midnight S1: Begins</title>
-    <desc lang="en">In need of a job, a man finds his way to a mysterious caf where he meets an unexpected fate.</desc>
-    <credits>
-      <director>Goo Ja Joon</director>
-      <actor>Shin Joo Hwan / Song Won Yeob</actor>
-    </credits>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Drama</category>
-    <episode-num system="onscreen">E2</episode-num>
-    <rating system="MY">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20210626034500 +0000" stop="20210626040000 +0000" channel="Kplus">
-    <title lang="en">Nightmare High</title>
-    <desc lang="en">Nightmare High is about the mysterious things that happen in a school. The students fall into a sweet but mysterious seduction in which their dreams happen as soon as they dream it.</desc>
-    <credits>
-      <director>Hyun Moon Sub</director>
-      <actor>Uhm Ki Joon / Kim So Hyun</actor>
-    </credits>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000315X238678.jpg" />
-    <episode-num system="onscreen">E3</episode-num>
-    <rating system="MY">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20210626040000 +0000" stop="20210626043000 +0000" channel="Kplus">
-    <title lang="en">Nightmare High</title>
-    <desc lang="en">Nightmare High is about the mysterious things that happen in a school. The students fall into a sweet but mysterious seduction in which their dreams happen as soon as they dream it.</desc>
-    <credits>
-      <director>Hyun Moon Sub</director>
-      <actor>Uhm Ki Joon / Kim So Hyun</actor>
-    </credits>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000315X263731.jpg" />
-    <episode-num system="onscreen">E4</episode-num>
-    <rating system="MY">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20210626043000 +0000" stop="20210626054500 +0000" channel="Kplus">
-    <title lang="en">Live on</title>
-    <desc lang="en">Jae-yi has a hard time getting over Woo-jae. Eun-taek and Ho-rang grow closer amidst school festival preparations.</desc>
-    <credits>
-      <director>Kim Sang Woo</director>
-      <actor>Hwang Min Hyun / Jung Da Bin</actor>
-    </credits>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000315X497054.jpg" />
-    <episode-num system="onscreen">E4</episode-num>
-    <rating system="MY">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20210626054500 +0000" stop="20210626070000 +0000" channel="Kplus">
-    <title lang="en">Undercover</title>
-    <desc lang="en">Yeon-soo struggles to help the sick Jung-ho apply for a suspension of sentence, but things do not go as planned.</desc>
-    <credits>
-      <director>Song Hyun Wook</director>
-      <actor>Ji Jin Hee / Kim Hyun Joo</actor>
-    </credits>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000315X540922.jpg" />
-    <episode-num system="onscreen">E1</episode-num>
-    <rating system="MY">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20210626070000 +0000" stop="20210626081500 +0000" channel="Kplus">
-    <title lang="en">Undercover</title>
-    <desc lang="en">Jung-hyun is being threatened by someone who calls him by the name 'Lee Suk-kyu'.</desc>
-    <credits>
-      <director>Song Hyun Wook</director>
-      <actor>Ji Jin Hee / Kim Hyun Joo</actor>
-    </credits>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000315X540922.jpg" />
-    <episode-num system="onscreen">E2</episode-num>
-    <rating system="MY">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20210626081500 +0000" stop="20210626093000 +0000" channel="Kplus">
-    <title lang="en">Undercover</title>
-    <desc lang="en">Reporters swarm the house as Seung-gu's assault case in the past becomes publicised.</desc>
-    <credits>
-      <director>Song Hyun Wook</director>
-      <actor>Ji Jin Hee / Kim Hyun Joo</actor>
-    </credits>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000315X540922.jpg" />
-    <episode-num system="onscreen">E3</episode-num>
-    <rating system="MY">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20210626093000 +0000" stop="20210626104500 +0000" channel="Kplus">
-    <title lang="en">Undercover</title>
-    <desc lang="en">Jung-hyun recalls meeting Cha Min-ho during an operation. Seung-mi finds a potential witness through comments online.</desc>
-    <credits>
-      <director>Song Hyun Wook</director>
-      <actor>Ji Jin Hee / Kim Hyun Joo</actor>
-    </credits>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000315X540922.jpg" />
-    <episode-num system="onscreen">E4</episode-num>
-    <rating system="MY">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20210626104500 +0000" stop="20210626120000 +0000" channel="Kplus">
+  <programme start="20210627010000 +0000" stop="20210627021500 +0000" channel="Kplus">
     <title lang="en">Show Champion</title>
-    <desc lang="en">Hosted by various guest MCs, Show Champion featured the most popular hits in Korea and the upcoming super rookies in the K-Pop music scene.</desc>
+    <desc lang="en">Hosted by various guest MCs, Show Champion featured the most popular hits in Korea and the upcoming super rookies in the K-Pop music scene.(n)</desc>
     <credits>
       <director>N.a</director>
       <actor>Kang Min / Moon Bin / San Ha</actor>
@@ -7221,9 +7094,9 @@
       <value>P13</value>
     </rating>
   </programme>
-  <programme start="20210626120000 +0000" stop="20210626131500 +0000" channel="Kplus">
+  <programme start="20210627021500 +0000" stop="20210627033000 +0000" channel="Kplus">
     <title lang="en">Weekly Idol</title>
-    <desc lang="en">Weekly Idol is a program focused on the hottest idol groups in Korea.</desc>
+    <desc lang="en">Weekly Idol is a program focused on the hottest idol groups in Korea.(n)</desc>
     <credits>
       <director>Jang Jae Hyuk</director>
       <actor>Hwang Kwang Hee / Eunhyuk (super Ju</actor>
@@ -7236,24 +7109,9 @@
       <value>P13</value>
     </rating>
   </programme>
-  <programme start="20210626131500 +0000" stop="20210626143000 +0000" channel="Kplus">
-    <title lang="en">Best Chicken</title>
-    <desc lang="en">Andrew teaches Choi-go on how to better chicken making.</desc>
-    <credits>
-      <director>Lee Seung Hoon</director>
-      <actor>Park Sun Ho / Kim So Hye</actor>
-    </credits>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000315X324158.jpg" />
-    <episode-num system="onscreen">E5</episode-num>
-    <rating system="MY">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20210626143000 +0000" stop="20210626163000 +0000" channel="Kplus">
+  <programme start="20210627033000 +0000" stop="20210627053000 +0000" channel="Kplus">
     <title lang="en">Camping Vibes</title>
-    <desc lang="en">A variety show where stars get together to go on a conceptual camping trip.</desc>
+    <desc lang="en">A variety show where stars get together to go on a conceptual camping trip.(n)</desc>
     <credits>
       <director>Nara Lee</director>
       <actor>Park Na Rae / Park So Dam</actor>
@@ -7266,39 +7124,112 @@
       <value>P13</value>
     </rating>
   </programme>
-  <programme start="20210626163000 +0000" stop="20210626174500 +0000" channel="Kplus">
-    <title lang="en">Show Champion</title>
-    <desc lang="en">Hosted by various guest MCs, Show Champion featured the most popular hits in Korea and the upcoming super rookies in the K-Pop music scene.</desc>
+  <programme start="20210627053000 +0000" stop="20210627054500 +0000" channel="Kplus">
+    <title lang="en">Best of K-Pop</title>
+    <desc lang="en">Your top Korean entertainment channel for the trendiest K-Pop songs.(n)</desc>
     <credits>
       <director>N.a</director>
-      <actor>Kang Min / Moon Bin / San Ha</actor>
+      <actor>N.a</actor>
     </credits>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Others (Music)</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000315X127586.jpg" />
-    <episode-num system="onscreen">E398</episode-num>
+    <episode-num system="onscreen">E1</episode-num>
     <rating system="MY">
       <value>P13</value>
     </rating>
   </programme>
-  <programme start="20210626174500 +0000" stop="20210626190000 +0000" channel="Kplus">
-    <title lang="en">Best Chicken</title>
-    <desc lang="en">Andrew teaches Choi-go on how to better chicken making.</desc>
+  <programme start="20210627054500 +0000" stop="20210627070000 +0000" channel="Kplus">
+    <title lang="en">Undercover</title>
+    <desc lang="en">Young-geol threatens Jung-hyun with a CCTV footage. Yeon-soo faces scrutiny at the hearing.(n)</desc>
     <credits>
-      <director>Lee Seung Hoon</director>
-      <actor>Park Sun Ho / Kim So Hye</actor>
+      <director>Song Hyun Wook</director>
+      <actor>Ji Jin Hee / Kim Hyun Joo</actor>
     </credits>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000315X324158.jpg" />
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000315X540922.jpg" />
     <episode-num system="onscreen">E5</episode-num>
     <rating system="MY">
       <value>P13</value>
     </rating>
   </programme>
-  <programme start="20210626190000 +0000" stop="20210626201500 +0000" channel="Kplus">
+  <programme start="20210627070000 +0000" stop="20210627081500 +0000" channel="Kplus">
+    <title lang="en">Undercover</title>
+    <desc lang="en">Young-geol and his men abduct Ah-soon to prevent her from meeting Yeon-soo. A mysterious man in black rescues her.(n)</desc>
+    <credits>
+      <director>Song Hyun Wook</director>
+      <actor>Ji Jin Hee / Kim Hyun Joo</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000315X540922.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20210627081500 +0000" stop="20210627093000 +0000" channel="Kplus">
+    <title lang="en">Undercover</title>
+    <desc lang="en">A man who lives with a hidden identity gets entangled in a series of uncontrollable events.(n)</desc>
+    <credits>
+      <director>Song Hyun Wook</director>
+      <actor>Ji Jin Hee / Kim Hyun Joo</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000315X540922.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20210627093000 +0000" stop="20210627104500 +0000" channel="Kplus">
+    <title lang="en">Undercover</title>
+    <desc lang="en">A man who lives with a hidden identity gets entangled in a series of uncontrollable events.(n)</desc>
+    <credits>
+      <director>Song Hyun Wook</director>
+      <actor>Ji Jin Hee / Kim Hyun Joo</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000315X540922.jpg" />
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20210627104500 +0000" stop="20210627120000 +0000" channel="Kplus">
+    <title lang="en">18 Again</title>
+    <desc lang="en">A shocking video of Da-jung goes viral on the internet.(n)</desc>
+    <credits>
+      <director>Ha Byung Hoon</director>
+      <actor>Kim Ha Neul / Lee Do Hyun</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Drama</category>
+    <episode-num system="onscreen">E16</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20210627120000 +0000" stop="20210627131500 +0000" channel="Kplus">
+    <title lang="en">Weekly Idol</title>
+    <desc lang="en">Weekly Idol is a program focused on the hottest idol groups in Korea.(n)</desc>
+    <credits>
+      <director>Jang Jae Hyuk</director>
+      <actor>Hwang Kwang Hee / Eunhyuk (super Ju</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Reality Show</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000315X263772.jpg" />
+    <episode-num system="onscreen">E516</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20210627131500 +0000" stop="20210627143000 +0000" channel="Kplus">
     <title lang="en">Best Chicken</title>
-    <desc lang="en">Choi-go's first love visits his chicken restaurant.</desc>
+    <desc lang="en">Choi-go's first love visits his chicken restaurant.(n)</desc>
     <credits>
       <director>Lee Seung Hoon</director>
       <actor>Park Sun Ho / Kim So Hye</actor>
@@ -7311,61 +7242,120 @@
       <value>P13</value>
     </rating>
   </programme>
-  <programme start="20210626201500 +0000" stop="20210626221500 +0000" channel="Kplus">
-    <title lang="en">Camping Vibes</title>
-    <desc lang="en">A variety show where stars get together to go on a conceptual camping trip.</desc>
+  <programme start="20210627143000 +0000" stop="20210627160000 +0000" channel="Kplus">
+    <title lang="en">Knowing Bros</title>
+    <desc lang="en">A talk show where the cast members act like students in a classroom, and guests are invited as new transfer students.(n)</desc>
     <credits>
-      <director>Nara Lee</director>
-      <actor>Park Na Rae / Park So Dam</actor>
+      <director>Kim Soo Ah</director>
+      <actor>Kang Ho Dong / Lee Soo Geun</actor>
     </credits>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Reality Show</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000315X536108.jpg" />
-    <episode-num system="onscreen">E10</episode-num>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000315X549006.jpg" />
+    <episode-num system="onscreen">E214</episode-num>
     <rating system="MY">
       <value>P13</value>
     </rating>
   </programme>
-  <programme start="20210626221500 +0000" stop="20210626223000 +0000" channel="Kplus">
-    <title lang="en">Best of K-Pop</title>
-    <desc lang="en">Your top Korean entertainment channel for the trendiest K-Pop songs.</desc>
+  <programme start="20210627160000 +0000" stop="20210627171500 +0000" channel="Kplus">
+    <title lang="en">Show Champion</title>
+    <desc lang="en">Hosted by various guest MCs, Show Champion featured the most popular hits in Korea and the upcoming super rookies in the K-Pop music scene.(n)</desc>
     <credits>
       <director>N.a</director>
-      <actor>N.a</actor>
+      <actor>Kang Min / Moon Bin / San Ha</actor>
     </credits>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Others (Music)</category>
-    <episode-num system="onscreen">E1</episode-num>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000315X127586.jpg" />
+    <episode-num system="onscreen">E398</episode-num>
     <rating system="MY">
       <value>P13</value>
     </rating>
   </programme>
-  <programme start="20210626223000 +0000" stop="20210626234500 +0000" channel="Kplus">
-    <title lang="en">Live on</title>
-    <desc lang="en">Woo-jae and Jae-yi's date ends abruptly in a fight. Ho-rang receives an unexpected present.</desc>
+  <programme start="20210627171500 +0000" stop="20210627183000 +0000" channel="Kplus">
+    <title lang="en">18 Again</title>
+    <desc lang="en">Woo-young and Da-jung goes out on a date. Reality hits when Woo-young gets mistaken for Da-jung's son.(n)</desc>
     <credits>
-      <director>Kim Sang Woo</director>
-      <actor>Hwang Min Hyun / Jung Da Bin</actor>
+      <director>Ha Byung Hoon</director>
+      <actor>Kim Ha Neul / Lee Do Hyun</actor>
     </credits>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000315X497054.jpg" />
-    <episode-num system="onscreen">E3</episode-num>
+    <episode-num system="onscreen">E15</episode-num>
     <rating system="MY">
       <value>P13</value>
     </rating>
   </programme>
-  <programme start="20210626234500 +0000" stop="20210627010000 +0000" channel="Kplus">
-    <title lang="en">Live on</title>
-    <desc lang="en">Jae-yi has a hard time getting over Woo-jae. Eun-taek and Ho-rang grow closer amidst school festival preparations.</desc>
+  <programme start="20210627183000 +0000" stop="20210627194500 +0000" channel="Kplus">
+    <title lang="en">18 Again</title>
+    <desc lang="en">A shocking video of Da-jung goes viral on the internet.(n)</desc>
     <credits>
-      <director>Kim Sang Woo</director>
-      <actor>Hwang Min Hyun / Jung Da Bin</actor>
+      <director>Ha Byung Hoon</director>
+      <actor>Kim Ha Neul / Lee Do Hyun</actor>
     </credits>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000315X497054.jpg" />
-    <episode-num system="onscreen">E4</episode-num>
+    <episode-num system="onscreen">E16</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20210627194500 +0000" stop="20210627210000 +0000" channel="Kplus">
+    <title lang="en">Weekly Idol</title>
+    <desc lang="en">Weekly Idol is a program focused on the hottest idol groups in Korea.(n)</desc>
+    <credits>
+      <director>Jang Jae Hyuk</director>
+      <actor>Hwang Kwang Hee / Eunhyuk (super Ju</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Reality Show</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000315X263772.jpg" />
+    <episode-num system="onscreen">E516</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20210627210000 +0000" stop="20210627221500 +0000" channel="Kplus">
+    <title lang="en">Best Chicken</title>
+    <desc lang="en">Andrew teaches Choi-go on how to better chicken making.(n)</desc>
+    <credits>
+      <director>Lee Seung Hoon</director>
+      <actor>Park Sun Ho / Kim So Hye</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000315X324158.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20210627221500 +0000" stop="20210627233000 +0000" channel="Kplus">
+    <title lang="en">Best Chicken</title>
+    <desc lang="en">Choi-go's first love visits his chicken restaurant.(n)</desc>
+    <credits>
+      <director>Lee Seung Hoon</director>
+      <actor>Park Sun Ho / Kim So Hye</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000315X324158.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20210627233000 +0000" stop="20210628000000 +0000" channel="Kplus">
+    <title lang="en">Risky Romance</title>
+    <desc lang="en">Seung-joo follows In-a to the hotel.(n)</desc>
+    <credits>
+      <director>Lee Chang Han</director>
+      <actor>Ji Hyun Woo / Lee Si Young</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000315X286294.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
     <rating system="MY">
       <value>P13</value>
     </rating>
@@ -13367,7 +13357,7 @@
   </programme>
   <programme start="20210627030000 +0700" stop="20210627040000 +0700" channel="Al Jazeera">
     <title lang="id">Al Jazeera World - Chad's Football Dream</title>
-    <desc lang="id">Program dokumenter mingguan dari Al Jazeera Network.(c)</desc>
+    <desc lang="id">Program dokumenter mingguan dari Al Jazeera Network.</desc>
   </programme>
   <programme start="20210627040000 +0700" stop="20210627050000 +0700" channel="Al Jazeera">
     <title lang="id">Newshour</title>
@@ -13379,7 +13369,7 @@
   </programme>
   <programme start="20210627053000 +0700" stop="20210627060000 +0700" channel="Al Jazeera">
     <title lang="id">Football Rebels - Afonsinho</title>
-    <desc lang="id">Perjuangan dramatis dari pesepakbola Brazilia Afonsinho untuk meraih kebebasan yang lebih besar dengan pindah klub demi reformasi penting yang menguntungkan generasi pemain setelahnya.(c)</desc>
+    <desc lang="id">Perjuangan dramatis dari pesepakbola Brazilia Afonsinho untuk meraih kebebasan yang lebih besar dengan pindah klub demi reformasi penting yang menguntungkan generasi pemain setelahnya.</desc>
   </programme>
   <programme start="20210627060000 +0700" stop="20210627063000 +0700" channel="Al Jazeera">
     <title lang="id">News Live</title>
@@ -13458,7 +13448,7 @@
   </programme>
   <programme start="20210627153000 +0700" stop="20210627160000 +0700" channel="Al Jazeera">
     <title lang="id">Talk to Al Jazeera - Sliman Mansour</title>
-    <desc lang="id">Talk to Al Jazeera akan menampilkan gagasan, peristiwa, dan fakta yang terjadi saat ini bersama bintang tamu dari seluruh dunia.(c)</desc>
+    <desc lang="id">Talk to Al Jazeera akan menampilkan gagasan, peristiwa, dan fakta yang terjadi saat ini bersama bintang tamu dari seluruh dunia.</desc>
   </programme>
   <programme start="20210627160000 +0700" stop="20210627163000 +0700" channel="Al Jazeera">
     <title lang="id">News Live</title>
@@ -13466,7 +13456,7 @@
   </programme>
   <programme start="20210627163000 +0700" stop="20210627170000 +0700" channel="Al Jazeera">
     <title lang="id">Football Rebels - Afonsinho</title>
-    <desc lang="id">Perjuangan dramatis dari pesepakbola Brazilia Afonsinho untuk meraih kebebasan yang lebih besar dengan pindah klub demi reformasi penting yang menguntungkan generasi pemain setelahnya.(c)</desc>
+    <desc lang="id">Perjuangan dramatis dari pesepakbola Brazilia Afonsinho untuk meraih kebebasan yang lebih besar dengan pindah klub demi reformasi penting yang menguntungkan generasi pemain setelahnya.</desc>
   </programme>
   <programme start="20210627170000 +0700" stop="20210627180000 +0700" channel="Al Jazeera">
     <title lang="id">Newshour</title>
@@ -13482,7 +13472,7 @@
   </programme>
   <programme start="20210627190000 +0700" stop="20210627200000 +0700" channel="Al Jazeera">
     <title lang="id">Al Jazeera World - Chad's Football Dream</title>
-    <desc lang="id">Program dokumenter mingguan dari Al Jazeera Network.(c)</desc>
+    <desc lang="id">Program dokumenter mingguan dari Al Jazeera Network.</desc>
   </programme>
   <programme start="20210627200000 +0700" stop="20210627210000 +0700" channel="Al Jazeera">
     <title lang="id">Newshour</title>
@@ -15655,46 +15645,46 @@
   </programme>
   <programme start="20210627000000 +0700" stop="20210627003000 +0700" channel="Bloomberg">
     <title lang="id">The David Rubenstein Show</title>
-    <desc lang="id">Filantropis dan pemodal David Rubenstein mengungkap kisah-kisah di balik pemikir paling berpengaruh dalam dunia bisnis.(c)</desc>
+    <desc lang="id">Filantropis dan pemodal David Rubenstein mengungkap kisah-kisah di balik pemikir paling berpengaruh dalam dunia bisnis.</desc>
   </programme>
   <programme start="20210627003000 +0700" stop="20210627010000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg Green</title>
-    <desc lang="id">Perubahan iklim adalah kisah yang menentukan zaman kita. Bloomberg Green menghadirkan berita, sains, dan data untuk Anda pahami sepenuhnya. Dilayani oleh Annmarie Hordern.(c)</desc>
+    <desc lang="id">Perubahan iklim adalah kisah yang menentukan zaman kita. Bloomberg Green menghadirkan berita, sains, dan data untuk Anda pahami sepenuhnya. Dilayani oleh Annmarie Hordern.</desc>
   </programme>
   <programme start="20210627010000 +0700" stop="20210627013000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg Front Row</title>
   </programme>
   <programme start="20210627013000 +0700" stop="20210627020000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg Studio 1.0</title>
-    <desc lang="id">Fred Ehrsam meninggalkan posisinya sebagai pedagang Goldman Sachs untuk membantu mendirikan Coinbase, pertukaran mata uang kripto terbesar di AS. Dia berbagi keyakinannya bahwa crypto akan mengubah dunia.(c)</desc>
+    <desc lang="id">Fred Ehrsam meninggalkan posisinya sebagai pedagang Goldman Sachs untuk membantu mendirikan Coinbase, pertukaran mata uang kripto terbesar di AS. Dia berbagi keyakinannya bahwa crypto akan mengubah dunia.</desc>
   </programme>
   <programme start="20210627020000 +0700" stop="20210627023000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg Front Row</title>
-    <desc lang="id">Presiden Venezuela Nicolas Maduro berbicara secara eksklusif dengan Erik Schatzker dari Bloomberg tentang hubungan dengan AS dan prospek ekonomi dan politik Venezuela.(c)</desc>
+    <desc lang="id">Presiden Venezuela Nicolas Maduro berbicara secara eksklusif dengan Erik Schatzker dari Bloomberg tentang hubungan dengan AS dan prospek ekonomi dan politik Venezuela.</desc>
   </programme>
   <programme start="20210627023000 +0700" stop="20210627030000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg Front Row</title>
-    <desc lang="id">Sarah Ketterer. Bloomberg berbicara dengan Sarah Ketterer, CEO dari perusahaan manajemen investasi Causeway Capital Management.(c)</desc>
+    <desc lang="id">Sarah Ketterer. Bloomberg berbicara dengan Sarah Ketterer, CEO dari perusahaan manajemen investasi Causeway Capital Management.</desc>
   </programme>
   <programme start="20210627030000 +0700" stop="20210627033000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg Front Row</title>
-    <desc lang="id">Josh Friedman, Pendiri &amp; Co-CEO Canyon Partners. Bloomberg berbicara dengan Josh Friedman dari dana lindung nilai yang berbasis di Los Angeles, Canyon Partners.(c)</desc>
+    <desc lang="id">Josh Friedman, Pendiri &amp; Co-CEO Canyon Partners. Bloomberg berbicara dengan Josh Friedman dari dana lindung nilai yang berbasis di Los Angeles, Canyon Partners.</desc>
   </programme>
   <programme start="20210627033000 +0700" stop="20210627040000 +0700" channel="Bloomberg">
     <title lang="id">Red Lines</title>
     <sub-title lang="id">China and Big Tech</sub-title>
-    <desc lang="id">Laporan Khusus Bloomberg: Garis Merah: China dan Teknologi Besar.(c)</desc>
+    <desc lang="id">Laporan Khusus Bloomberg: Garis Merah: China dan Teknologi Besar.</desc>
   </programme>
   <programme start="20210627040000 +0700" stop="20210627050000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg Wall Street Week</title>
-    <desc lang="id">David Westin akan berbincang dengan tokoh-tokoh ternama dalam bidang keuangan tentang isu besar di Wall Street.(c)</desc>
+    <desc lang="id">David Westin akan berbincang dengan tokoh-tokoh ternama dalam bidang keuangan tentang isu besar di Wall Street.</desc>
   </programme>
   <programme start="20210627050000 +0700" stop="20210627053000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg Front Row</title>
   </programme>
   <programme start="20210627053000 +0700" stop="20210627060000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg Studio 1.0</title>
-    <desc lang="id">Fred Ehrsam meninggalkan posisinya sebagai pedagang Goldman Sachs untuk membantu mendirikan Coinbase, pertukaran mata uang kripto terbesar di AS. Dia berbagi keyakinannya bahwa crypto akan mengubah dunia.(c)</desc>
+    <desc lang="id">Fred Ehrsam meninggalkan posisinya sebagai pedagang Goldman Sachs untuk membantu mendirikan Coinbase, pertukaran mata uang kripto terbesar di AS. Dia berbagi keyakinannya bahwa crypto akan mengubah dunia.</desc>
   </programme>
   <programme start="20210627060000 +0700" stop="20210627070000 +0700" channel="Bloomberg">
     <title lang="id">Best of Bloomberg Daybreak</title>
@@ -15703,121 +15693,121 @@
   </programme>
   <programme start="20210627070000 +0700" stop="20210627073000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg Front Row</title>
-    <desc lang="id">Presiden Venezuela Nicolas Maduro berbicara secara eksklusif dengan Erik Schatzker dari Bloomberg tentang hubungan dengan AS dan prospek ekonomi dan politik Venezuela.(c)</desc>
+    <desc lang="id">Presiden Venezuela Nicolas Maduro berbicara secara eksklusif dengan Erik Schatzker dari Bloomberg tentang hubungan dengan AS dan prospek ekonomi dan politik Venezuela.</desc>
   </programme>
   <programme start="20210627073000 +0700" stop="20210627080000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg Front Row</title>
-    <desc lang="id">Sarah Ketterer. Bloomberg berbicara dengan Sarah Ketterer, CEO dari perusahaan manajemen investasi Causeway Capital Management.(c)</desc>
+    <desc lang="id">Sarah Ketterer. Bloomberg berbicara dengan Sarah Ketterer, CEO dari perusahaan manajemen investasi Causeway Capital Management.</desc>
   </programme>
   <programme start="20210627080000 +0700" stop="20210627083000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg Front Row</title>
-    <desc lang="id">Josh Friedman, Pendiri &amp; Co-CEO Canyon Partners. Bloomberg berbicara dengan Josh Friedman dari dana lindung nilai yang berbasis di Los Angeles, Canyon Partners.(c)</desc>
+    <desc lang="id">Josh Friedman, Pendiri &amp; Co-CEO Canyon Partners. Bloomberg berbicara dengan Josh Friedman dari dana lindung nilai yang berbasis di Los Angeles, Canyon Partners.</desc>
   </programme>
   <programme start="20210627083000 +0700" stop="20210627090000 +0700" channel="Bloomberg">
     <title lang="id">Red Lines</title>
     <sub-title lang="id">China and Big Tech</sub-title>
-    <desc lang="id">Laporan Khusus Bloomberg: Garis Merah: China dan Teknologi Besar.(c)</desc>
+    <desc lang="id">Laporan Khusus Bloomberg: Garis Merah: China dan Teknologi Besar.</desc>
   </programme>
   <programme start="20210627090000 +0700" stop="20210627093000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg Studio 1.0</title>
-    <desc lang="id">Lisa Su, CEO AMD. Emily Chang duduk bersama CEO AMD Lisa Su untuk membahas kisah kembalinya AMD yang mengesankan, peningkatan pangsa pasar dan harga saham perusahaan, dan jalan keluar dari kekurangan chip.(c)</desc>
+    <desc lang="id">Lisa Su, CEO AMD. Emily Chang duduk bersama CEO AMD Lisa Su untuk membahas kisah kembalinya AMD yang mengesankan, peningkatan pangsa pasar dan harga saham perusahaan, dan jalan keluar dari kekurangan chip.</desc>
   </programme>
   <programme start="20210627093000 +0700" stop="20210627100000 +0700" channel="Bloomberg">
     <title lang="id">Money and Equality</title>
     <sub-title lang="id">The Post-Pandemic Path Forward</sub-title>
-    <desc lang="id">Cari tahu tentang pandangan tentang dampak pandemi yang tidak setara terhadap perempuan dalam layanan keuangan, dan bagaimana bisnis dapat menciptakan lingkungan inklusif yang mempertahankan bakat.(c)</desc>
+    <desc lang="id">Cari tahu tentang pandangan tentang dampak pandemi yang tidak setara terhadap perempuan dalam layanan keuangan, dan bagaimana bisnis dapat menciptakan lingkungan inklusif yang mempertahankan bakat.</desc>
   </programme>
   <programme start="20210627100000 +0700" stop="20210627110000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg Wall Street Week</title>
-    <desc lang="id">David Westin akan berbincang dengan tokoh-tokoh ternama dalam bidang keuangan tentang isu besar di Wall Street.(c)</desc>
+    <desc lang="id">David Westin akan berbincang dengan tokoh-tokoh ternama dalam bidang keuangan tentang isu besar di Wall Street.</desc>
   </programme>
   <programme start="20210627110000 +0700" stop="20210627120000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg Daybreak</title>
     <sub-title lang="id">Middle East</sub-title>
-    <desc lang="id">Disiarkan langsung dari Dubai, acara ini menghubungkan bursa Asia dengan pembukaan bursa Eropa. Program ini fokus pada isu-isu makro global dengan konteks Timur Tengah.(c)</desc>
+    <desc lang="id">Disiarkan langsung dari Dubai, acara ini menghubungkan bursa Asia dengan pembukaan bursa Eropa. Program ini fokus pada isu-isu makro global dengan konteks Timur Tengah.</desc>
   </programme>
   <programme start="20210627120000 +0700" stop="20210627123000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg Front Row</title>
-    <desc lang="id">Presiden Venezuela Nicolas Maduro berbicara secara eksklusif dengan Erik Schatzker dari Bloomberg tentang hubungan dengan AS dan prospek ekonomi dan politik Venezuela.(c)</desc>
+    <desc lang="id">Presiden Venezuela Nicolas Maduro berbicara secara eksklusif dengan Erik Schatzker dari Bloomberg tentang hubungan dengan AS dan prospek ekonomi dan politik Venezuela.</desc>
   </programme>
   <programme start="20210627123000 +0700" stop="20210627130000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg Studio 1.0</title>
-    <desc lang="id">Fred Ehrsam meninggalkan posisinya sebagai pedagang Goldman Sachs untuk membantu mendirikan Coinbase, pertukaran mata uang kripto terbesar di AS. Dia berbagi keyakinannya bahwa crypto akan mengubah dunia.(c)</desc>
+    <desc lang="id">Fred Ehrsam meninggalkan posisinya sebagai pedagang Goldman Sachs untuk membantu mendirikan Coinbase, pertukaran mata uang kripto terbesar di AS. Dia berbagi keyakinannya bahwa crypto akan mengubah dunia.</desc>
   </programme>
   <programme start="20210627130000 +0700" stop="20210627133000 +0700" channel="Bloomberg">
     <title lang="id">Money and Equality</title>
     <sub-title lang="id">The Post-Pandemic Path Forward</sub-title>
-    <desc lang="id">Cari tahu tentang pandangan tentang dampak pandemi yang tidak setara terhadap perempuan dalam layanan keuangan, dan bagaimana bisnis dapat menciptakan lingkungan inklusif yang mempertahankan bakat.(c)</desc>
+    <desc lang="id">Cari tahu tentang pandangan tentang dampak pandemi yang tidak setara terhadap perempuan dalam layanan keuangan, dan bagaimana bisnis dapat menciptakan lingkungan inklusif yang mempertahankan bakat.</desc>
   </programme>
   <programme start="20210627133000 +0700" stop="20210627140000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg Front Row</title>
-    <desc lang="id">Sarah Ketterer. Bloomberg berbicara dengan Sarah Ketterer, CEO dari perusahaan manajemen investasi Causeway Capital Management.(c)</desc>
+    <desc lang="id">Sarah Ketterer. Bloomberg berbicara dengan Sarah Ketterer, CEO dari perusahaan manajemen investasi Causeway Capital Management.</desc>
   </programme>
   <programme start="20210627140000 +0700" stop="20210627143000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg Front Row</title>
-    <desc lang="id">Josh Friedman, Pendiri &amp; Co-CEO Canyon Partners. Bloomberg berbicara dengan Josh Friedman dari dana lindung nilai yang berbasis di Los Angeles, Canyon Partners.(c)</desc>
+    <desc lang="id">Josh Friedman, Pendiri &amp; Co-CEO Canyon Partners. Bloomberg berbicara dengan Josh Friedman dari dana lindung nilai yang berbasis di Los Angeles, Canyon Partners.</desc>
   </programme>
   <programme start="20210627143000 +0700" stop="20210627150000 +0700" channel="Bloomberg">
     <title lang="id">Red Lines</title>
     <sub-title lang="id">China and Big Tech</sub-title>
-    <desc lang="id">Laporan Khusus Bloomberg: Garis Merah: China dan Teknologi Besar.(c)</desc>
+    <desc lang="id">Laporan Khusus Bloomberg: Garis Merah: China dan Teknologi Besar.</desc>
   </programme>
   <programme start="20210627150000 +0700" stop="20210627160000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg Wall Street Week</title>
-    <desc lang="id">David Westin akan berbincang dengan tokoh-tokoh ternama dalam bidang keuangan tentang isu besar di Wall Street.(c)</desc>
+    <desc lang="id">David Westin akan berbincang dengan tokoh-tokoh ternama dalam bidang keuangan tentang isu besar di Wall Street.</desc>
   </programme>
   <programme start="20210627160000 +0700" stop="20210627163000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg Front Row</title>
   </programme>
   <programme start="20210627163000 +0700" stop="20210627170000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg Front Row</title>
-    <desc lang="id">Sarah Ketterer. Bloomberg berbicara dengan Sarah Ketterer, CEO dari perusahaan manajemen investasi Causeway Capital Management.(c)</desc>
+    <desc lang="id">Sarah Ketterer. Bloomberg berbicara dengan Sarah Ketterer, CEO dari perusahaan manajemen investasi Causeway Capital Management.</desc>
   </programme>
   <programme start="20210627170000 +0700" stop="20210627173000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg Green</title>
-    <desc lang="id">Perubahan iklim adalah kisah yang menentukan zaman kita. Bloomberg Green menghadirkan berita, sains, dan data untuk Anda pahami sepenuhnya. Dilayani oleh Annmarie Hordern.(c)</desc>
+    <desc lang="id">Perubahan iklim adalah kisah yang menentukan zaman kita. Bloomberg Green menghadirkan berita, sains, dan data untuk Anda pahami sepenuhnya. Dilayani oleh Annmarie Hordern.</desc>
   </programme>
   <programme start="20210627173000 +0700" stop="20210627180000 +0700" channel="Bloomberg">
     <title lang="id">Red Lines</title>
     <sub-title lang="id">China and Big Tech</sub-title>
-    <desc lang="id">Laporan Khusus Bloomberg: Garis Merah: China dan Teknologi Besar.(c)</desc>
+    <desc lang="id">Laporan Khusus Bloomberg: Garis Merah: China dan Teknologi Besar.</desc>
   </programme>
   <programme start="20210627180000 +0700" stop="20210627183000 +0700" channel="Bloomberg">
     <title lang="id">Money and Equality</title>
     <sub-title lang="id">The Post-Pandemic Path Forward</sub-title>
-    <desc lang="id">Cari tahu tentang pandangan tentang dampak pandemi yang tidak setara terhadap perempuan dalam layanan keuangan, dan bagaimana bisnis dapat menciptakan lingkungan inklusif yang mempertahankan bakat.(c)</desc>
+    <desc lang="id">Cari tahu tentang pandangan tentang dampak pandemi yang tidak setara terhadap perempuan dalam layanan keuangan, dan bagaimana bisnis dapat menciptakan lingkungan inklusif yang mempertahankan bakat.</desc>
   </programme>
   <programme start="20210627183000 +0700" stop="20210627190000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg Studio 1.0</title>
-    <desc lang="id">Fred Ehrsam meninggalkan posisinya sebagai pedagang Goldman Sachs untuk membantu mendirikan Coinbase, pertukaran mata uang kripto terbesar di AS. Dia berbagi keyakinannya bahwa crypto akan mengubah dunia.(c)</desc>
+    <desc lang="id">Fred Ehrsam meninggalkan posisinya sebagai pedagang Goldman Sachs untuk membantu mendirikan Coinbase, pertukaran mata uang kripto terbesar di AS. Dia berbagi keyakinannya bahwa crypto akan mengubah dunia.</desc>
   </programme>
   <programme start="20210627190000 +0700" stop="20210627193000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg Front Row</title>
-    <desc lang="id">Presiden Venezuela Nicolas Maduro berbicara secara eksklusif dengan Erik Schatzker dari Bloomberg tentang hubungan dengan AS dan prospek ekonomi dan politik Venezuela.(c)</desc>
+    <desc lang="id">Presiden Venezuela Nicolas Maduro berbicara secara eksklusif dengan Erik Schatzker dari Bloomberg tentang hubungan dengan AS dan prospek ekonomi dan politik Venezuela.</desc>
   </programme>
   <programme start="20210627193000 +0700" stop="20210627200000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg Front Row</title>
-    <desc lang="id">Josh Friedman, Pendiri &amp; Co-CEO Canyon Partners. Bloomberg berbicara dengan Josh Friedman dari dana lindung nilai yang berbasis di Los Angeles, Canyon Partners.(c)</desc>
+    <desc lang="id">Josh Friedman, Pendiri &amp; Co-CEO Canyon Partners. Bloomberg berbicara dengan Josh Friedman dari dana lindung nilai yang berbasis di Los Angeles, Canyon Partners.</desc>
   </programme>
   <programme start="20210627200000 +0700" stop="20210627210000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg Wall Street Week</title>
-    <desc lang="id">David Westin akan berbincang dengan tokoh-tokoh ternama dalam bidang keuangan tentang isu besar di Wall Street.(c)</desc>
+    <desc lang="id">David Westin akan berbincang dengan tokoh-tokoh ternama dalam bidang keuangan tentang isu besar di Wall Street.</desc>
   </programme>
   <programme start="20210627210000 +0700" stop="20210627213000 +0700" channel="Bloomberg">
     <title lang="id">The David Rubenstein Show</title>
-    <desc lang="id">Filantropis dan pemodal David Rubenstein mengungkap kisah-kisah di balik pemikir paling berpengaruh dalam dunia bisnis.(c)</desc>
+    <desc lang="id">Filantropis dan pemodal David Rubenstein mengungkap kisah-kisah di balik pemikir paling berpengaruh dalam dunia bisnis.</desc>
   </programme>
   <programme start="20210627213000 +0700" stop="20210627220000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg Green</title>
-    <desc lang="id">Perubahan iklim adalah kisah yang menentukan zaman kita. Bloomberg Green menghadirkan berita, sains, dan data untuk Anda pahami sepenuhnya. Dilayani oleh Annmarie Hordern.(c)</desc>
+    <desc lang="id">Perubahan iklim adalah kisah yang menentukan zaman kita. Bloomberg Green menghadirkan berita, sains, dan data untuk Anda pahami sepenuhnya. Dilayani oleh Annmarie Hordern.</desc>
   </programme>
   <programme start="20210627220000 +0700" stop="20210627223000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg Studio 1.0</title>
-    <desc lang="id">Lisa Su, CEO AMD. Emily Chang duduk bersama CEO AMD Lisa Su untuk membahas kisah kembalinya AMD yang mengesankan, peningkatan pangsa pasar dan harga saham perusahaan, dan jalan keluar dari kekurangan chip.(c)</desc>
+    <desc lang="id">Lisa Su, CEO AMD. Emily Chang duduk bersama CEO AMD Lisa Su untuk membahas kisah kembalinya AMD yang mengesankan, peningkatan pangsa pasar dan harga saham perusahaan, dan jalan keluar dari kekurangan chip.</desc>
   </programme>
   <programme start="20210627223000 +0700" stop="20210627230000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg Studio 1.0</title>
-    <desc lang="id">Fred Ehrsam meninggalkan posisinya sebagai pedagang Goldman Sachs untuk membantu mendirikan Coinbase, pertukaran mata uang kripto terbesar di AS. Dia berbagi keyakinannya bahwa crypto akan mengubah dunia.(c)</desc>
+    <desc lang="id">Fred Ehrsam meninggalkan posisinya sebagai pedagang Goldman Sachs untuk membantu mendirikan Coinbase, pertukaran mata uang kripto terbesar di AS. Dia berbagi keyakinannya bahwa crypto akan mengubah dunia.</desc>
   </programme>
   <programme start="20210627230000 +0700" stop="20210627233000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg Commodities Edge</title>
@@ -16150,77 +16140,77 @@
   <programme start="20210627233000 +0700" stop="20210628000000 +0700" channel="IDX">
     <title lang="id">Market Headlines</title>
   </programme>
-  <programme start="20210626014300 +0000" stop="20210626095700 +0000" channel="English - Zhejiang Satellite TV">
+  <programme start="20210627014300 +0000" stop="20210627095700 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">重播精選綜藝</title>
-    <desc lang="en" />
+    <desc lang="en">(n)</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Variety</category>
     <country lang="en">CN</country>
   </programme>
-  <programme start="20210626095700 +0000" stop="20210626100000 +0000" channel="English - Zhejiang Satellite TV">
+  <programme start="20210627095700 +0000" stop="20210627100000 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">氣象預報</title>
-    <desc lang="en" />
+    <desc lang="en">(n)</desc>
     <category lang="en">News</category>
     <category lang="en">Weather</category>
     <country lang="en">CN</country>
   </programme>
-  <programme start="20210626100000 +0000" stop="20210626103000 +0000" channel="English - Zhejiang Satellite TV">
+  <programme start="20210627100000 +0000" stop="20210627103000 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">新聞深一度</title>
-    <desc lang="en" />
+    <desc lang="en">(n)</desc>
     <category lang="en">News</category>
     <category lang="en">Features</category>
     <country lang="en">CN</country>
   </programme>
-  <programme start="20210626103000 +0000" stop="20210626105100 +0000" channel="English - Zhejiang Satellite TV">
+  <programme start="20210627103000 +0000" stop="20210627105100 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">浙江新聞聯播</title>
-    <desc lang="en" />
+    <desc lang="en">(n)</desc>
     <category lang="en">News</category>
     <country lang="en">CN</country>
   </programme>
-  <programme start="20210626105100 +0000" stop="20210626105300 +0000" channel="English - Zhejiang Satellite TV">
+  <programme start="20210627105100 +0000" stop="20210627105300 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">天氣預報</title>
-    <desc lang="en" />
+    <desc lang="en">(n)</desc>
     <category lang="en">News</category>
     <category lang="en">Weather</category>
     <country lang="en">CN</country>
   </programme>
-  <programme start="20210626105300 +0000" stop="20210626110000 +0000" channel="English - Zhejiang Satellite TV">
+  <programme start="20210627105300 +0000" stop="20210627110000 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">今日聚焦</title>
-    <desc lang="en" />
+    <desc lang="en">(n)</desc>
     <category lang="en">News</category>
     <category lang="en">Talkshow</category>
     <country lang="en">CN</country>
   </programme>
-  <programme start="20210626110000 +0000" stop="20210626113300 +0000" channel="English - Zhejiang Satellite TV">
+  <programme start="20210627110000 +0000" stop="20210627113300 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">轉播中央電視台新聞聯播</title>
-    <desc lang="en" />
+    <desc lang="en">(n)</desc>
     <category lang="en">News</category>
     <country lang="en">CN</country>
   </programme>
-  <programme start="20210626113300 +0000" stop="20210626133000 +0000" channel="English - Zhejiang Satellite TV">
+  <programme start="20210627113300 +0000" stop="20210627133000 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">中國藍劇場</title>
-    <desc lang="en" />
+    <desc lang="en">(n)</desc>
     <category lang="en">Series</category>
     <category lang="en">Chinese</category>
     <country lang="en">CN</country>
   </programme>
-  <programme start="20210626133000 +0000" stop="20210626134000 +0000" channel="English - Zhejiang Satellite TV">
+  <programme start="20210627133000 +0000" stop="20210627134000 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">今日評說</title>
-    <desc lang="en" />
+    <desc lang="en">(n)</desc>
     <category lang="en">News</category>
     <category lang="en">Talkshow</category>
     <country lang="en">CN</country>
   </programme>
-  <programme start="20210626134000 +0000" stop="20210626135800 +0000" channel="English - Zhejiang Satellite TV">
+  <programme start="20210627134000 +0000" stop="20210627135800 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">中國藍速遞</title>
-    <desc lang="en" />
+    <desc lang="en">(n)</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Variety</category>
     <country lang="en">CN</country>
   </programme>
-  <programme start="20210626135800 +0000" stop="20210626160200 +0000" channel="English - Zhejiang Satellite TV">
+  <programme start="20210627135800 +0000" stop="20210627160200 +0000" channel="English - Zhejiang Satellite TV">
     <title lang="en">重播精選綜藝</title>
-    <desc lang="en" />
+    <desc lang="en">(n)</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Variety</category>
     <country lang="en">CN</country>
@@ -16696,69 +16686,75 @@
     <title lang="id">Lady Commander Plus</title>
     <desc lang="id">Lady Commander Plus menyuguhkan berbagai isu menarik seputar pria dan wanita. Program ini mengangkat tema-tema terkini dengan bintang tamu yang menarik, mulai dari tokoh populer hingga pakar di bidang hubungan asmara.</desc>
   </programme>
-  <programme start="20210626001000 +0000" stop="20210626031500 +0000" channel="English - Shenzhen TV">
+  <programme start="20210627001000 +0000" stop="20210627031500 +0000" channel="English - Shenzhen TV">
     <title lang="en">TV Theatre</title>
-    <desc lang="en">Excellent TV Series.</desc>
+    <desc lang="en">Excellent TV Series.(n)</desc>
     <category lang="en">Entertainment</category>
     <country lang="en">CN</country>
   </programme>
-  <programme start="20210626031500 +0000" stop="20210626040000 +0000" channel="English - Shenzhen TV">
+  <programme start="20210627031500 +0000" stop="20210627040000 +0000" channel="English - Shenzhen TV">
     <title lang="en">Direct Broadcasting Of HK,Macou And Taiwan</title>
-    <desc lang="en">Report the up to day news of Hongkong、Macou and Taiwan. Invite the top news analyst to anatomy the events.</desc>
+    <desc lang="en">Report the up to day news of Hongkong、Macou and Taiwan. Invite the top news analyst to anatomy the events.(n)</desc>
     <category lang="en">Entertainment</category>
     <country lang="en">CN</country>
   </programme>
-  <programme start="20210626040000 +0000" stop="20210626045500 +0000" channel="English - Shenzhen TV">
-    <title lang="en">Witness China With Photos</title>
-    <desc lang="en">A Show witnesses the development and great changes of the 40 years of reform and opening-up of China with photographs comparison. With photographs as the medium, through the time witness's display of the photograph and the story behind the photograph, people can truly compare and witness the great changes.</desc>
+  <programme start="20210627040000 +0000" stop="20210627045500 +0000" channel="English - Shenzhen TV">
+    <title lang="en">Fantastic Folk Dwellings Season 2</title>
+    <desc lang="en">Fantastic Folk Dwellings takes characteristic dwellings as the carrier, tells the stories of people living there, and explores the cultural connotation, ingenuity and the great changes of local residents.(n)</desc>
     <category lang="en">Entertainment</category>
     <country lang="en">CN</country>
   </programme>
-  <programme start="20210626045500 +0000" stop="20210626092000 +0000" channel="English - Shenzhen TV">
+  <programme start="20210627045500 +0000" stop="20210627092000 +0000" channel="English - Shenzhen TV">
     <title lang="en">TV Theatre</title>
-    <desc lang="en">Excellent TV Series.</desc>
+    <desc lang="en">Excellent TV Series.(n)</desc>
     <category lang="en">Entertainment</category>
     <country lang="en">CN</country>
   </programme>
-  <programme start="20210626092000 +0000" stop="20210626100500 +0000" channel="English - Shenzhen TV">
-    <title lang="en">The Chaoshan Craftsman</title>
-    <desc lang="en">The Chaoshan Craftsman focus on the folk craftsmanship from Chaoshan, showcase the integration of traditional Chinese culture and modern aesthetic. The new craftsman's spirit brings openness, innovation and multiculturalism into Chaoshan's traditional crafting inspiration.</desc>
+  <programme start="20210627092000 +0000" stop="20210627100500 +0000" channel="English - Shenzhen TV">
+    <title lang="en">Taste With Cantonese Chef</title>
+    <desc lang="en">A television documentary on Cantonese cuisine. Besides the eye-popping cooking techniques and mouthwatering food, the program also shows Cantonese culture and traditional lifestyle of Cantonese.(n)</desc>
     <category lang="en">Entertainment</category>
     <country lang="en">CN</country>
   </programme>
-  <programme start="20210626100500 +0000" stop="20210626110000 +0000" channel="English - Shenzhen TV">
+  <programme start="20210627100500 +0000" stop="20210627110000 +0000" channel="English - Shenzhen TV">
     <title lang="en">Direct Broadcasting Of HK,Macou And Taiwan</title>
-    <desc lang="en">Report the up to day news of Hongkong、Macou and Taiwan. Invite the top news analyst to anatomy the events.</desc>
+    <desc lang="en">Report the up to day news of Hongkong、Macou and Taiwan. Invite the top news analyst to anatomy the events.(n)</desc>
     <category lang="en">Entertainment</category>
     <country lang="en">CN</country>
   </programme>
-  <programme start="20210626110000 +0000" stop="20210626113000 +0000" channel="English - Shenzhen TV">
+  <programme start="20210627110000 +0000" stop="20210627113000 +0000" channel="English - Shenzhen TV">
     <title lang="en">News Broadcasting</title>
-    <desc lang="en">Broadcasting the current affairs of China and all over the world.</desc>
+    <desc lang="en">Broadcasting the current affairs of China and all over the world.(n)</desc>
     <category lang="en">Entertainment</category>
     <country lang="en">CN</country>
   </programme>
-  <programme start="20210626113000 +0000" stop="20210626141500 +0000" channel="English - Shenzhen TV">
+  <programme start="20210627113000 +0000" stop="20210627140500 +0000" channel="English - Shenzhen TV">
     <title lang="en">TV Theatre</title>
-    <desc lang="en">Excellent TV Series.</desc>
+    <desc lang="en">Excellent TV Series.(n)</desc>
     <category lang="en">Entertainment</category>
     <country lang="en">CN</country>
   </programme>
-  <programme start="20210626141500 +0000" stop="20210626142500 +0000" channel="English - Shenzhen TV">
+  <programme start="20210627140500 +0000" stop="20210627141500 +0000" channel="English - Shenzhen TV">
     <title lang="en">Nightly News</title>
-    <desc lang="en">Shenzhen evening news report.</desc>
+    <desc lang="en">Shenzhen evening news report.(n)</desc>
     <category lang="en">Entertainment</category>
     <country lang="en">CN</country>
   </programme>
-  <programme start="20210626142500 +0000" stop="20210626152500 +0000" channel="English - Shenzhen TV">
+  <programme start="20210627141500 +0000" stop="20210627151500 +0000" channel="English - Shenzhen TV">
     <title lang="en">Direct Broadcasting Of HK,Macou And Taiwan</title>
-    <desc lang="en">Report the up to day news of Hongkong、Macou and Taiwan. Invite the top news analyst to anatomy the events.</desc>
+    <desc lang="en">Report the up to day news of Hongkong、Macou and Taiwan. Invite the top news analyst to anatomy the events.(n)</desc>
     <category lang="en">Entertainment</category>
     <country lang="en">CN</country>
   </programme>
-  <programme start="20210626152500 +0000" stop="20210626161500 +0000" channel="English - Shenzhen TV">
-    <title lang="en">Witness China With Photos</title>
-    <desc lang="en">A Show witnesses the development and great changes of the 40 years of reform and opening-up of China with photographs comparison. With photographs as the medium, through the time witness's display of the photograph and the story behind the photograph, people can truly compare and witness the great changes.</desc>
+  <programme start="20210627151500 +0000" stop="20210627154500 +0000" channel="English - Shenzhen TV">
+    <title lang="en">Fantastic Folk Dwellings Season 1</title>
+    <desc lang="en">Fantastic Folk Dwellings takes characteristic dwellings as the carrier, tells the stories of people living there, and explores the cultural connotation, ingenuity and the great changes of local residents.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <country lang="en">CN</country>
+  </programme>
+  <programme start="20210627154500 +0000" stop="20210627161000 +0000" channel="English - Shenzhen TV">
+    <title lang="en">News Of Shenzhen</title>
+    <desc lang="en">The cutting edge news of SZ. First reporting the news of political ,financial condition and the people's livelihood.(n)</desc>
     <category lang="en">Entertainment</category>
     <country lang="en">CN</country>
   </programme>
@@ -17529,325 +17525,335 @@
   <programme start="20210627230000 +0700" stop="20210628000000 +0700" channel="MUI TV">
     <title lang="id">Sign Off</title>
   </programme>
-  <programme start="20210626000000 +0000" stop="20210626003500 +0000" channel="HopeChannel">
-    <title lang="en">New Perceptions</title>
-    <desc lang="en">The Last Letter - Reading Between the Lines: Dwight Nelson in this episode 'Reading between the Lines' reflects on the message in the last letter written to the church of Laodicea, and what it means for us today.</desc>
+  <programme start="20210627000000 +0000" stop="20210627003000 +0000" channel="HopeChannel">
+    <title lang="en">The Incredible Journey</title>
+    <desc lang="en">The Killer Comes to Dinner: In this episode, Gary Kent interviews Dr Hans Diehl, the founding father of Lifestyle Medicine Institute at Loma Linda University in California.(n)</desc>
     <category lang="en">Religion</category>
     <rating>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20210626003500 +0000" stop="20210626010500 +0000" channel="HopeChannel">
-    <title lang="en">Scenic Praise</title>
-    <desc lang="en">Ocean Ledges: Renown videographer Gary Hanson brings you some of the most fantastic and inspirational visuals that creation can provide, set to some of your favourite hymns and worship music.</desc>
-    <category lang="en">Music</category>
+  <programme start="20210627003000 +0000" stop="20210627012500 +0000" channel="HopeChannel">
+    <title lang="en">Classical Composers</title>
+    <desc lang="en">Greig: Edward Grieg's music breathes the air of Norway, illustrating the northern nation's landscape, climate, and folklore. Norway's extraordinary Fjords and landscapes are highlights in this episode.(n)</desc>
+    <category lang="en">Biography</category>
     <rating>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20210626010500 +0000" stop="20210626020000 +0000" channel="HopeChannel">
-    <title lang="en">Table Talk - Revelation</title>
-    <desc lang="en">All Things New: The team at Lightbearers continue into season 4 of answering hard questions about God, the Bible, and the book of Revelation.</desc>
-    <category lang="en">Religion</category>
+  <programme start="20210627012500 +0000" stop="20210627015000 +0000" channel="HopeChannel">
+    <title lang="en">Tell The World</title>
+    <desc lang="en">Tell the World: Ellen struggles with another loss, James' poor health, and new visions about health and education. Faced with profound limitations the leaders of this new movement have to decide how large their vis.(n)</desc>
+    <category lang="en">Drama</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20210627015000 +0000" stop="20210627021500 +0000" channel="HopeChannel">
+    <title lang="en">Garden Pantry</title>
+    <desc lang="en">Preserving Lemons, and Growing Veggies For the Extended Family: Be self-sustainable from your own backyard. Grow and harvest fruit and veggies; cook, preserve and freeze produce for winter; get back to the basics of healthy eating and grow and process you.(n)</desc>
+    <category lang="en">Home</category>
+    <category lang="en">Gardening</category>
     <rating>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20210626020000 +0000" stop="20210626030000 +0000" channel="HopeChannel">
-    <title lang="en">Islands on the Edge</title>
-    <desc lang="en">The Island Residents: On the Edge of the Atlantic lies a world of rock and water, full of grace and beauty. Exposed to Europe's wildest weather, the animals face many challenges, in this unpredictable yet magical place.</desc>
+  <programme start="20210627021500 +0000" stop="20210627031000 +0000" channel="HopeChannel">
+    <title lang="en">Go Healthy For Good</title>
+    <desc lang="en">Emotional Intelligence: In days gone by, IQ test results were often used to predict future success in life. But now, other factors are recognised as important in determining that success. But can those factors be learned?(n)</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210627031000 +0000" stop="20210627033500 +0000" channel="HopeChannel">
+    <title lang="en">Wild Britain</title>
+    <desc lang="en">Lowland River, Norfolk: In this series, Ray Mears explores some of Britain's most beautiful areas of natural beauty, to uncover the fascinating wild life that lives there. This week he explores a Lowland River in Norfolk.(n)</desc>
     <category lang="en">Nature Documentary</category>
     <rating>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20210626030000 +0000" stop="20210626033000 +0000" channel="HopeChannel">
+  <programme start="20210627033500 +0000" stop="20210627040500 +0000" channel="HopeChannel">
+    <title lang="en">Radical Protection</title>
+    <desc lang="en">Contending with Cosmic Forces: We are in the midst of a great cosmic conflict. We will have to contend in fierce hand-to-hand combat with cosmic forces who are in opposition to God. In this battle, our strength is found in the Lo.(n)</desc>
+    <category lang="en">Religion</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210627040500 +0000" stop="20210627043500 +0000" channel="HopeChannel">
+    <title lang="en">Mums At The Table</title>
+    <desc lang="en">Gifts You Don't Want Your Child to Have: Gifts You Don't Want Your Child to Have.(n)</desc>
+    <category lang="en">News Magazine</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210627043500 +0000" stop="20210627053000 +0000" channel="HopeChannel">
+    <title lang="en">The First Silent Night</title>
+    <desc lang="en">The First Silent Night: Simon Callow journeys to the Austrian village of Oberndorf as well as the city of Salzburg, where the story of the world's favourite carol has its origins.(n)</desc>
+    <category lang="en">Historical Documentary</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20210627053000 +0000" stop="20210627055500 +0000" channel="HopeChannel">
     <title lang="en">Missions Today</title>
-    <desc lang="en">Ethiopia: Join a team of volunteers in Ethiopia, a land of immense beauty and rich resources, which is the second most populous country in Africa, with more than 80 different dialects or languages.</desc>
+    <desc lang="en">Ethiopia: Join a team of volunteers in Ethiopia, a land of immense beauty and rich resources, which is the second most populous country in Africa, with more than 80 different dialects or languages.(n)</desc>
     <category lang="en">Foreign</category>
     <category lang="en">Expeditions</category>
     <rating>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20210626033000 +0000" stop="20210626040000 +0000" channel="HopeChannel">
-    <title lang="en">Cliff!</title>
-    <desc lang="en">Law and Freedom: What is Freedom? What does it mean to be free? Cliff makes a rather startling proposition, that true freedom, moral freedom is the concept of law!</desc>
-    <category lang="en">Lifestyle</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20210626040000 +0000" stop="20210626043000 +0000" channel="HopeChannel">
-    <title lang="en">The 5th Gospel</title>
-    <desc lang="en">The Alpha and the Omega: Revelation can be summed up in two words; Jesus Wins! Join us for this informative series as we look in depth at Jesus in the book of Revelation.</desc>
-    <category lang="en">Religion</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20210626043000 +0000" stop="20210626050000 +0000" channel="HopeChannel">
-    <title lang="en">Faith Against the Odds</title>
-    <desc lang="en">A Dance with Death: During the Middle Ages, many believers found themselves bound to a grim dance with death by a system of penance. They tried to decrease their time in purgatory by engaging in fasts and pilgrimages.</desc>
-    <category lang="en">Historical Documentary</category>
-    <rating>
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20210626050000 +0000" stop="20210626060000 +0000" channel="HopeChannel">
-    <title lang="en">God?</title>
-    <desc lang="en">What Happens After Death?: Journey with David Asscherick as he unravels some of the mystery about God and answers some very tough questions about life  - such as 'What Happens When I Die?'.</desc>
-    <category lang="en">Religion</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20210626060000 +0000" stop="20210626063000 +0000" channel="HopeChannel">
-    <title lang="en">Real Family Talk</title>
-    <desc lang="en">Pastoral Depression: The news of a pastor taking his own life has left a community devasted. Pr Chad Stuart and Ps Shawn Paris discuss how they managed and coped using their own experiences and insights.</desc>
-    <category lang="en">Lifestyle</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20210626063000 +0000" stop="20210626070000 +0000" channel="HopeChannel">
-    <title lang="en">Made In His Image</title>
-    <desc lang="en">The Miracle of Birth: The human body is compelling evidence of intentional design. This episode looks at the amazing changes that happen in the womb and at birth to allow the baby to survive in the outside world.</desc>
-    <category lang="en">Science</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20210626070000 +0000" stop="20210626073000 +0000" channel="HopeChannel">
-    <title lang="en">Zoo Days</title>
-    <desc lang="en">Mongooses, Wolf Cubs,Rhinos, and Ostriches: Today the meerkats start the day with boiled eggs for breakfast and the keepers join Babyface the harbour Seal in his pool when an underwater filter becomes blocked.</desc>
-    <category lang="en">Nature Documentary</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20210626073000 +0000" stop="20210626080000 +0000" channel="HopeChannel">
-    <title lang="en">The Incredible Journey</title>
-    <desc lang="en">Blessed Are The Persecuted: In this episode, we will look at what Jesus meant when he taught, \"Blessed are those who are persecuted.\" The life of Dietrich Bonhoeffer who was persecuted by the Nazi regime is illustrated here.</desc>
-    <category lang="en">Religion</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20210626080000 +0000" stop="20210626093500 +0000" channel="HopeChannel">
-    <title lang="en">Miles Between Us - Movie</title>
-    <desc lang="en">Miles Between Us: A father and daughter who have been estranged by divorce for twelve years find themselves on a trip across the country that becomes a more complicated journey than they imagined.</desc>
-    <category lang="en">Adult</category>
-    <rating>
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20210626093500 +0000" stop="20210626100500 +0000" channel="HopeChannel">
-    <title lang="en">Masterstroke</title>
-    <desc lang="en">Weighed in the Balance: What happens after death? The painting 'Belshazzar's Feast' by Rembrandt shows the very moment  a powerful king discovered his fate. Discover the answer to one of life's most important questions.</desc>
-    <category lang="en">Fine Arts</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20210626100500 +0000" stop="20210626103000 +0000" channel="HopeChannel">
-    <title lang="en">7th Street Theatre</title>
-    <desc lang="en">The Almighty: Gates writes a script for Travis to play the part of the richest man in the world, and Travis realises a few truths about what money really can and can't buy.</desc>
-    <category lang="en">Drama</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20210626103000 +0000" stop="20210626110000 +0000" channel="HopeChannel">
-    <title lang="en">Poverty Cure</title>
-    <desc lang="en">Circles of Exchange: It's not enough to 'teach a man to fish'; he must also have access to the pond. Many barriers prevent the poor from participating in the same circles of exchange that bring prosperity to the well-off.</desc>
-    <category lang="en">Cultural Documentary</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20210626110000 +0000" stop="20210626113000 +0000" channel="HopeChannel">
-    <title lang="en">Wild Britain</title>
-    <desc lang="en">Flow Country: Caithness and Sutherland, Scotland: In this series, Ray Mears explores some of Britain's most beautiful areas of natural beauty, to uncover the fascinating wild life that lives there. This week he explores Flow Country, Scotland.</desc>
-    <category lang="en">Nature Documentary</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20210626113000 +0000" stop="20210626120000 +0000" channel="HopeChannel">
-    <title lang="en">The Nutters' Club</title>
-    <desc lang="en">Grief After Suicide: Carole Williams tells her story of survival through the darkest days of grief after she tragically lost her 21 year old son to suicide.</desc>
-    <category lang="en">Talk Show</category>
-    <rating>
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20210626120000 +0000" stop="20210626123000 +0000" channel="HopeChannel">
-    <title lang="en">The Search</title>
-    <desc lang="en">Truth: Everyone is looking for the truth and asking what is truth? Geoff Youlden researches to find truth you can believe in.</desc>
-    <category lang="en">Religion</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20210626123000 +0000" stop="20210626130000 +0000" channel="HopeChannel">
+  <programme start="20210627055500 +0000" stop="20210627062500 +0000" channel="HopeChannel">
     <title lang="en">Family Reunion Concert</title>
-    <desc lang="en">The Promise 01: Join The Voice Of Prophecy Family Reunion musicians in part 1 as they unite in spirit and song by lifting our hearts to heaven through music and praise to God.</desc>
+    <desc lang="en">The Promise 02: Join The Voice Of Prophecy Family Reunion musicians in part 2 as they unite in spirit and song by lifting our hearts to heaven through music and praise to God.(n)</desc>
     <category lang="en">Traditional Music</category>
     <rating>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20210626130000 +0000" stop="20210626140000 +0000" channel="HopeChannel">
-    <title lang="en">Table Talk - Revelation</title>
-    <desc lang="en">All Things New: The team at Lightbearers continue into season 4 of answering hard questions about God, the Bible, and the book of Revelation.</desc>
+  <programme start="20210627062500 +0000" stop="20210627070000 +0000" channel="HopeChannel">
+    <title lang="en">New Perceptions</title>
+    <desc lang="en">The Last Letter - Home Alone: Dwight Nelson in this episode 'Home Alone' reflects on the message in the last letter written to the church of Laodicea, and what it means for us today.(n)</desc>
     <category lang="en">Religion</category>
     <rating>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20210626140000 +0000" stop="20210626150000 +0000" channel="HopeChannel">
+  <programme start="20210627070000 +0000" stop="20210627075500 +0000" channel="HopeChannel">
+    <title lang="en">Disclosure</title>
+    <desc lang="en">Daniel - In the Lions' Den: Daniel is thrown to the lions, and God saves Daniel.  It's that simple...or is it?(n)</desc>
+    <category lang="en">Religion</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210627075500 +0000" stop="20210627082500 +0000" channel="HopeChannel">
+    <title lang="en">It Is Written</title>
+    <desc lang="en">Danger on the Doorstep: In June of 2018, hundreds of lives were lost following a volcanic eruption in Guatemala. The majority of those who perished could have survived if simple steps had been taken.(n)</desc>
+    <category lang="en">Religion</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20210627082500 +0000" stop="20210627092000 +0000" channel="HopeChannel">
+    <title lang="en">Classical Composers</title>
+    <desc lang="en">Greig: Edward Grieg's music breathes the air of Norway, illustrating the northern nation's landscape, climate, and folklore. Norway's extraordinary Fjords and landscapes are highlights in this episode.(n)</desc>
+    <category lang="en">Biography</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210627092000 +0000" stop="20210627102000 +0000" channel="HopeChannel">
     <title lang="en">Celebrating Life In Recovery</title>
-    <desc lang="en">Walking Dead: Join Cheri Peters and her guest as they talk about being depressed, emotionally beaten up and just wanting to be accepted.</desc>
+    <desc lang="en">Food vs God - Who Wins?: This season Cheri Peters and her guests discuss lifestyle habits which can hijack us and lead to serious addictions. Today they look at food addiction and healthy food choices.(n)</desc>
     <category lang="en">Talk Show</category>
     <rating>
       <value>M</value>
     </rating>
   </programme>
-  <programme start="20210626150000 +0000" stop="20210626153000 +0000" channel="HopeChannel">
-    <title lang="en">Secrets from the Sky</title>
-    <desc lang="en">Sutton Hoo: Bettany and Ben visit Sutton Hoo in Suffolk to find evidence that it is Britain's Valley of the Kings, and work out how it went undiscovered until for so many years.</desc>
-    <category lang="en">Historical Documentary</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20210626153000 +0000" stop="20210626160000 +0000" channel="HopeChannel">
-    <title lang="en">The Incredible Journey</title>
-    <desc lang="en">Blessed Are The Persecuted: In this episode, we will look at what Jesus meant when he taught, \"Blessed are those who are persecuted.\" The life of Dietrich Bonhoeffer who was persecuted by the Nazi regime is illustrated here.</desc>
-    <category lang="en">Religion</category>
+  <programme start="20210627102000 +0000" stop="20210627104500 +0000" channel="HopeChannel">
+    <title lang="en">Made In His Image</title>
+    <desc lang="en">The Marvel of Eyes: Eyes are captivating. They are the windows of the soul, and they also reveal God's incredible wisdom in the way he packed so much functionality into something so beautiful.(n)</desc>
+    <category lang="en">Science</category>
     <rating>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20210626160000 +0000" stop="20210626170000 +0000" channel="HopeChannel">
+  <programme start="20210627104500 +0000" stop="20210627111000 +0000" channel="HopeChannel">
+    <title lang="en">Live at Psalter Studio</title>
+    <desc lang="en">Bucket: Vintage Season interview and performance of 'Bucket' and 'Hide' as part of a special livestream event in conjunction with Easterfest. Vocal group - The Promise, also perform.(n)</desc>
+    <category lang="en">Classical Music</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210627111000 +0000" stop="20210627120500 +0000" channel="HopeChannel">
     <title lang="en">Answers Creation Hour</title>
-    <desc lang="en">Archaeological Evidence for the Bible: In this presentation, Brian Edwards introduces the people and events that Bible critics once thought never existed.</desc>
+    <desc lang="en">Archaeological Evidence for the Bible: In this presentation, Brian Edwards introduces the people and events that Bible critics once thought never existed.(n)</desc>
     <category lang="en">Documentary</category>
     <rating>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20210626170000 +0000" stop="20210626173000 +0000" channel="HopeChannel">
-    <title lang="en">My Story, My Song</title>
-    <desc lang="en">Alison Brook: Join your host Kandus Thorp to hear powerful stories of how God has used music to bless both listeners and performers alike. Today's guest is Alison Brook.</desc>
+  <programme start="20210627120500 +0000" stop="20210627123500 +0000" channel="HopeChannel">
+    <title lang="en">The 5th Gospel</title>
+    <desc lang="en">Walking Among the Seven Candlesticks: Celebrate the resurrected and victorious Jesus of Revelation. If you are struggling with tragedy, fear, or disappointment, this picture of Jesus will give you courage and hope.(n)</desc>
+    <category lang="en">Religion</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210627123500 +0000" stop="20210627130000 +0000" channel="HopeChannel">
+    <title lang="en">Put Some Colour In Your Life</title>
+    <desc lang="en">Nick Eggleston - Tauranga: Put Some Colour in Your Life showcases different New Zealand artists and their unique works. In this episode, presenter Graeme Stevenson visits Nick Eggleston in Taraunga.(n)</desc>
+    <category lang="en">Fine Arts</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210627130000 +0000" stop="20210627133500 +0000" channel="HopeChannel">
+    <title lang="en">Imperfect Believers</title>
+    <desc lang="en">The Sisters: Stew Hardy speaks on characters in bible who were Imperfect Believers. Todays topic is \"The Sisters\".(n)</desc>
+    <category lang="en">Religion</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210627133500 +0000" stop="20210627140500 +0000" channel="HopeChannel">
+    <title lang="en">Scenic Praise</title>
+    <desc lang="en">Cathedral of the Pines: Renown videographer Gary Hanson brings you some of the most fantastic and inspirational visuals that creation can provide, set to some of your favourite hymns and worship music.(n)</desc>
     <category lang="en">Music</category>
     <rating>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20210626173000 +0000" stop="20210626180000 +0000" channel="HopeChannel">
-    <title lang="en">Faith Against the Odds</title>
-    <desc lang="en">A Mediator we Can't Manipulate: In 1686, the mountains of Italy witnessed one of history's most tragic acts of religious persecution. King Louis XIV ordered the slaughter of the Waldenses. What lessons can we learn from history?</desc>
-    <category lang="en">Historical Documentary</category>
+  <programme start="20210627140500 +0000" stop="20210627150000 +0000" channel="HopeChannel">
+    <title lang="en">Go Healthy For Good</title>
+    <desc lang="en">Emotional Intelligence: In days gone by, IQ test results were often used to predict future success in life. But now, other factors are recognised as important in determining that success. But can those factors be learned?(n)</desc>
+    <category lang="en">Health &amp; Fitness</category>
     <rating>
-      <value>M</value>
+      <value>G</value>
     </rating>
   </programme>
-  <programme start="20210626180000 +0000" stop="20210626183000 +0000" channel="HopeChannel">
-    <title lang="en">Real Family Talk</title>
-    <desc lang="en">The Wedding Anniversary: Real Family Talk hosts Willie &amp; Elaine Oliver are joined by newly weds Brandi &amp; Justin Martin as they recap on their journey leading up to the first year of marriage.</desc>
+  <programme start="20210627150000 +0000" stop="20210627153000 +0000" channel="HopeChannel">
+    <title lang="en">Creation Magazine Live</title>
+    <desc lang="en">What Would We Know About Creation if We Only Had the New Testament: Is Genesis just a side issue? Should modern Christians just focus on New Testament teachings?(n)</desc>
+    <category lang="en">News Magazine</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210627153000 +0000" stop="20210627160000 +0000" channel="HopeChannel">
+    <title lang="en">It Is Written</title>
+    <desc lang="en">Danger on the Doorstep: In June of 2018, hundreds of lives were lost following a volcanic eruption in Guatemala. The majority of those who perished could have survived if simple steps had been taken.(n)</desc>
+    <category lang="en">Religion</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20210627160000 +0000" stop="20210627163500 +0000" channel="HopeChannel">
+    <title lang="en">New Perceptions</title>
+    <desc lang="en">The Last Letter - Home Alone: Dwight Nelson in this episode 'Home Alone' reflects on the message in the last letter written to the church of Laodicea, and what it means for us today.(n)</desc>
+    <category lang="en">Religion</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210627163500 +0000" stop="20210627170000 +0000" channel="HopeChannel">
+    <title lang="en">Wild Britain</title>
+    <desc lang="en">Lowland River, Norfolk: In this series, Ray Mears explores some of Britain's most beautiful areas of natural beauty, to uncover the fascinating wild life that lives there. This week he explores a Lowland River in Norfolk.(n)</desc>
+    <category lang="en">Nature Documentary</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210627170000 +0000" stop="20210627173000 +0000" channel="HopeChannel">
+    <title lang="en">Cliff!</title>
+    <desc lang="en">What Aristotle Got Wrong: In the ongoing creation-evolution debate, Cliff looks at some very startling implications of the common view that evolutionists are the Gallileoes of today and the creationists are narrow minded.(n)</desc>
     <category lang="en">Lifestyle</category>
     <rating>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20210626183000 +0000" stop="20210626190000 +0000" channel="HopeChannel">
-    <title lang="en">Radical Protection</title>
-    <desc lang="en">Contending with Cosmic Forces: We are in the midst of a great cosmic conflict. We will have to contend in fierce hand-to-hand combat with cosmic forces who are in opposition to God. In this battle, our strength is found in the Lo.</desc>
+  <programme start="20210627173000 +0000" stop="20210627180000 +0000" channel="HopeChannel">
+    <title lang="en">7th Street Theatre</title>
+    <desc lang="en">The Man of My Dreams: Travis and Rudy have a difficult time working out how they can get 4 different sets on the same stage at the same time. And Gates wonders why Chad and Lisa have such big roles.(n)</desc>
+    <category lang="en">Drama</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210627180000 +0000" stop="20210627190000 +0000" channel="HopeChannel">
+    <title lang="en">Disclosure</title>
+    <desc lang="en">Daniel - In the Lions' Den: Daniel is thrown to the lions, and God saves Daniel.  It's that simple...or is it?(n)</desc>
     <category lang="en">Religion</category>
     <rating>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20210626190000 +0000" stop="20210626200000 +0000" channel="HopeChannel">
-    <title lang="en">Hope Sabbath School</title>
-    <desc lang="en">Rest In Christ - Living in a 24/7 Society: Rest In Christ - Discover new treasures in Gods word when the Hope Sabbath School team study this weeks topic called: Living in a 24/7 Society.</desc>
-    <category lang="en">Religion</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20210626200000 +0000" stop="20210626201000 +0000" channel="HopeChannel">
-    <title lang="en">The Tuis</title>
-    <desc lang="en">Camping: In todays episode, The Tuis family finds out camping can be a little more 'hairer' than usual.</desc>
+  <programme start="20210627190000 +0000" stop="20210627193000 +0000" channel="HopeChannel">
+    <title lang="en">Nest Family Heroes</title>
+    <desc lang="en">Alexander graham Bell: Alexander Graham Bell and Thomas Watson turn a project to improve the telegraph system into the dream of the telephone. Speech lessons with deaf children give Bell the passion to pursue his discovery.(n)</desc>
     <category lang="en">Cartoons</category>
     <category lang="en">Puppets</category>
     <rating>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20210626201000 +0000" stop="20210626202500 +0000" channel="HopeChannel">
-    <title lang="en">Kids' Camp Sing-Along</title>
-    <desc lang="en">God Watches Over Me: Singing can bring real joy and build your trust in God so, come join the Kids at Camp as they sing along to some well-known songs.</desc>
-    <category lang="en">Kids</category>
-    <category lang="en">Family</category>
+  <programme start="20210627193000 +0000" stop="20210627200000 +0000" channel="HopeChannel">
+    <title lang="en">Arnie's Shack</title>
+    <desc lang="en">A Solid Foundation: Arnie and his friends are still having an adventure in the Andes region in Peru. They enjoy all the wonderful things to see and meet new people too.(n)</desc>
+    <category lang="en">Cartoons</category>
+    <category lang="en">Puppets</category>
     <rating>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20210626202500 +0000" stop="20210626210000 +0000" channel="HopeChannel">
-    <title lang="en">The Nature of God</title>
-    <desc lang="en">Whales, Waves and Ocean Wonders: Explore the wonder of God's creation with host Peter Schriemer, as he searches out intriguing creatures like the biggest mammal, the whale, a green sea turtle and a slithery octopus.</desc>
-    <category lang="en">Nature Documentary</category>
+  <programme start="20210627200000 +0000" stop="20210627202500 +0000" channel="HopeChannel">
+    <title lang="en">Mad About Marriage</title>
+    <desc lang="en">Finding The Perfect Partner: Finding the perfect lifetime partner might seem like an impossible task, but guest Scott Stanley, author of The Power of Commitment, offers some tips to help you in your search.(n)</desc>
+    <category lang="en">Lifestyle</category>
+    <rating>
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20210627202500 +0000" stop="20210627204500 +0000" channel="HopeChannel">
+    <title lang="en">Garden Pantry</title>
+    <desc lang="en">Preserving Lemons, and Growing Veggies For the Extended Family: Be self-sustainable from your own backyard. Grow and harvest fruit and veggies; cook, preserve and freeze produce for winter; get back to the basics of healthy eating and grow and process you.(n)</desc>
+    <category lang="en">Home</category>
+    <category lang="en">Gardening</category>
     <rating>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20210626210000 +0000" stop="20210626213000 +0000" channel="HopeChannel">
-    <title lang="en">Hope Church</title>
-    <desc lang="en">Boarding Call 06 - Safety Information: No one wants things to go wrong, but if they do, how do we respond? Ben Martin explores what can go wrong in our faith, and how to ensure we don't make the same mistakes others have made.</desc>
+  <programme start="20210627204500 +0000" stop="20210627211500 +0000" channel="HopeChannel">
+    <title lang="en">Faith Against the Odds</title>
+    <desc lang="en">A Mediator we Can't Manipulate: In 1686, the mountains of Italy witnessed one of history's most tragic acts of religious persecution. King Louis XIV ordered the slaughter of the Waldenses. What lessons can we learn from history?(n)</desc>
+    <category lang="en">Historical Documentary</category>
+    <rating>
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20210627211500 +0000" stop="20210627214500 +0000" channel="HopeChannel">
+    <title lang="en">Faith and Finance</title>
+    <desc lang="en">Money and Marriage, Money and Singles: In this episode \"Money and Marriage, Money and Singles\"  Edward Reid uses biblical principles and shares practical lessons of life about money management.(n)</desc>
+    <category lang="en">Lifestyle</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210627214500 +0000" stop="20210627221000 +0000" channel="HopeChannel">
+    <title lang="en">Secrets from the Sky</title>
+    <desc lang="en">Antonine Wall: Bettany and Ben visit the Antonine Wall in Scotland to find evidence of how the Romans built the 40 mile wall, and why 20 years later it was abandoned.(n)</desc>
+    <category lang="en">Historical Documentary</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20210627221000 +0000" stop="20210627223500 +0000" channel="HopeChannel">
+    <title lang="en">Poverty Cure</title>
+    <desc lang="en">The Power of the Gospel: Viewer discretion is advised. Poverty - To bring about meaningful change, we must look at the systemic issues, and also the habits of the heart, and consider the only solution to human nature.(n)</desc>
+    <category lang="en">Cultural Documentary</category>
+    <rating>
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20210627223500 +0000" stop="20210627233000 +0000" channel="HopeChannel">
+    <title lang="en">Cross Connection - Luke</title>
+    <desc lang="en">Closer to Jesus: Christians say that your life changes when you encounter Jesus. Is that really true?(n)</desc>
     <category lang="en">Religion</category>
     <rating>
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20210626213000 +0000" stop="20210626220000 +0000" channel="HopeChannel">
-    <title lang="en">The 5th Gospel</title>
-    <desc lang="en">Walking Among the Seven Candlesticks: Celebrate the resurrected and victorious Jesus of Revelation. If you are struggling with tragedy, fear, or disappointment, this picture of Jesus will give you courage and hope.</desc>
-    <category lang="en">Religion</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20210626220000 +0000" stop="20210626223000 +0000" channel="HopeChannel">
-    <title lang="en">Creation Magazine Live</title>
-    <desc lang="en">What Would We Know About Creation if We Only Had the New Testament: Is Genesis just a side issue? Should modern Christians just focus on New Testament teachings?</desc>
-    <category lang="en">News Magazine</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20210626223000 +0000" stop="20210626230000 +0000" channel="HopeChannel">
-    <title lang="en">Live at Psalter Studio</title>
-    <desc lang="en">Bucket: Vintage Season interview and performance of 'Bucket' and 'Hide' as part of a special livestream event in conjunction with Easterfest. Vocal group - The Promise, also perform.</desc>
-    <category lang="en">Classical Music</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20210626230000 +0000" stop="20210626233500 +0000" channel="HopeChannel">
-    <title lang="en">Imperfect Believers</title>
-    <desc lang="en">The Sisters: Stew Hardy speaks on characters in bible who were Imperfect Believers. Todays topic is \"The Sisters\".</desc>
-    <category lang="en">Religion</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20210626233500 +0000" stop="20210627000000 +0000" channel="HopeChannel">
-    <title lang="en">Made In His Image</title>
-    <desc lang="en">The Marvel of Eyes: Eyes are captivating. They are the windows of the soul, and they also reveal God's incredible wisdom in the way he packed so much functionality into something so beautiful.</desc>
-    <category lang="en">Science</category>
+  <programme start="20210627233000 +0000" stop="20210628000000 +0000" channel="HopeChannel">
+    <title lang="en">Britain's Brightest Family</title>
+    <desc lang="en">Pearson vs Lee: Anne Hergerty, the Governess, hosts a new series of the gameshow where families compete for the title of Britain's Brightest Family. This week it's the Pearson family vs the Lee family.(n)</desc>
+    <category lang="en">Game Show</category>
     <rating>
       <value>G</value>
     </rating>
