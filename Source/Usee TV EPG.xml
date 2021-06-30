@@ -413,6 +413,7 @@
   </channel>
   <channel id="Baby First">
     <display-name lang="en">Baby First</display-name>
+    <icon src="https://www.firstmedia.com/files/images/bfirst.png" />
     <url>http://www.firstmedia.com</url>
   </channel>
   <channel id="Dunia Anak">
@@ -2264,7 +2265,7 @@
   </programme>
   <programme start="20210630163000 +0000" stop="20210630173000 +0000" channel="egg network">
     <title lang="en">Telur Mata Cup: Group Stage Day 2</title>
-    <desc lang="en">An officially supported PUBG Mobile tournament with a RM30,000 prize pool but more importantly - a direct invitation to the PUBG Mobile National Championship Malaysia 2021 Group Stage!(c)</desc>
+    <desc lang="en">An officially supported PUBG Mobile tournament with a RM30,000 prize pool but more importantly - a direct invitation to the PUBG Mobile National Championship Malaysia 2021 Group Stage!</desc>
     <category lang="en">Sports</category>
     <category lang="en">Others (Sports)</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGZN.jpg" />
@@ -2489,344 +2490,344 @@
   </programme>
   <programme start="20210701002500 +0700" stop="20210701011500 +0700" channel="Discovery Channel">
     <title lang="id">Gold Rush S3: Territory</title>
-    <desc lang="id">Parker mengungkap sejumlah detail dan wawasan baru tentang ekspedisi penambangan emasnya nan epik di Papua Nugini, termasuk sebuah momen yang nyaris merenggut nyawanya.(n)</desc>
+    <desc lang="id">Parker mengungkap sejumlah detail dan wawasan baru tentang ekspedisi penambangan emasnya nan epik di Papua Nugini, termasuk sebuah momen yang nyaris merenggut nyawanya.</desc>
   </programme>
   <programme start="20210701011500 +0700" stop="20210701020500 +0700" channel="Discovery Channel">
     <title lang="id">Alaskan Bush... S4: Our Land</title>
-    <desc lang="id">Lewat wawasan nan eksklusif serta rekaman yang belum pernah ditayangkan sebelumnya, keluarga Brown mengungkap bagaimana mereka berjuang dan bertahan selama musim semi pertama di pegunungan.(n)</desc>
+    <desc lang="id">Lewat wawasan nan eksklusif serta rekaman yang belum pernah ditayangkan sebelumnya, keluarga Brown mengungkap bagaimana mereka berjuang dan bertahan selama musim semi pertama di pegunungan.</desc>
   </programme>
   <programme start="20210701020500 +0700" stop="20210701023000 +0700" channel="Discovery Channel">
     <title lang="id">How Do They Do It?</title>
-    <desc lang="id">Temukan sejumlah rahasia penyediaan air minum segar di gurun, layar TV LED yang besar, serta mobil-mobil sport merk Ferrari.(n)</desc>
+    <desc lang="id">Temukan sejumlah rahasia penyediaan air minum segar di gurun, layar TV LED yang besar, serta mobil-mobil sport merk Ferrari.</desc>
     <episode-num system="onscreen">S5 E4</episode-num>
   </programme>
   <programme start="20210701023000 +0700" stop="20210701025500 +0700" channel="Discovery Channel">
     <title lang="id">How It's Made S16: Clay Targets</title>
-    <desc lang="id">Saksikan bagaimana cara sadel sepatu, sasaran tembak, kandang binatang, dan baling-baling kapal dibuat.(n)</desc>
+    <desc lang="id">Saksikan bagaimana cara sadel sepatu, sasaran tembak, kandang binatang, dan baling-baling kapal dibuat.</desc>
   </programme>
   <programme start="20210701025500 +0700" stop="20210701034500 +0700" channel="Discovery Channel">
     <title lang="id">Mysteries Of Deep: Treasure</title>
-    <desc lang="id">Jeremy Wade menyelidiki keberadaan peninggalan Zaman Luar Angkasa yang hilang dan menodai reputasi para astronot pertama NASA.(n)</desc>
+    <desc lang="id">Jeremy Wade menyelidiki keberadaan peninggalan Zaman Luar Angkasa yang hilang dan menodai reputasi para astronot pertama NASA.</desc>
   </programme>
   <programme start="20210701034500 +0700" stop="20210701043500 +0700" channel="Discovery Channel">
     <title lang="id">Bering Sea... S9: Sweet Child</title>
-    <desc lang="id">Shawn untuk pertama kalinya merasakan dasar laut yang bergeser. Sementara itu, Ken mencoba perspektif baru demi menemukan tempat baru.(n)</desc>
+    <desc lang="id">Shawn untuk pertama kalinya merasakan dasar laut yang bergeser. Sementara itu, Ken mencoba perspektif baru demi menemukan tempat baru.</desc>
   </programme>
   <programme start="20210701043500 +0700" stop="20210701053500 +0700" channel="Discovery Channel">
     <title lang="id">Gold Rush S3: Territory</title>
-    <desc lang="id">Parker mengungkap sejumlah detail dan wawasan baru tentang ekspedisi penambangan emasnya nan epik di Papua Nugini, termasuk sebuah momen yang nyaris merenggut nyawanya.(n)</desc>
+    <desc lang="id">Parker mengungkap sejumlah detail dan wawasan baru tentang ekspedisi penambangan emasnya nan epik di Papua Nugini, termasuk sebuah momen yang nyaris merenggut nyawanya.</desc>
   </programme>
   <programme start="20210701053500 +0700" stop="20210701060000 +0700" channel="Discovery Channel">
     <title lang="id">How Do They Do It?</title>
-    <desc lang="id">Temukan rahasia bagaimana sejumlah paket dikirimkan ke seluruh dunia dalam waktu kurang dari 24 jam, serta cara menambang batu bara.(n)</desc>
+    <desc lang="id">Temukan rahasia bagaimana sejumlah paket dikirimkan ke seluruh dunia dalam waktu kurang dari 24 jam, serta cara menambang batu bara.</desc>
     <episode-num system="onscreen">S5 E5</episode-num>
   </programme>
   <programme start="20210701060000 +0700" stop="20210701062500 +0700" channel="Discovery Channel">
     <title lang="id">How It's Made S16: Orange Juice</title>
-    <desc lang="id">Saksikan bagaimana cara retainer ortodontik, jus jeruk, sauna portabel, dan pisau gergaji dibuat.(n)</desc>
+    <desc lang="id">Saksikan bagaimana cara retainer ortodontik, jus jeruk, sauna portabel, dan pisau gergaji dibuat.</desc>
   </programme>
   <programme start="20210701062500 +0700" stop="20210701071500 +0700" channel="Discovery Channel">
     <title lang="id">Mysteries Of Deep: Treasure</title>
-    <desc lang="id">Jeremy Wade menyelidiki keberadaan peninggalan Zaman Luar Angkasa yang hilang dan menodai reputasi para astronot pertama NASA.(n)</desc>
+    <desc lang="id">Jeremy Wade menyelidiki keberadaan peninggalan Zaman Luar Angkasa yang hilang dan menodai reputasi para astronot pertama NASA.</desc>
   </programme>
   <programme start="20210701071500 +0700" stop="20210701080500 +0700" channel="Discovery Channel">
     <title lang="id">Street Outlaws S2: Black Sheep</title>
-    <desc lang="id">Babak Wildcard yang sengit antara Black Sheep Mafia dan Tim Virginia terus berlanjut! Sementara itu, Axman berhenti demi timnya dengan cara yang menakjubkan.(n)</desc>
+    <desc lang="id">Babak Wildcard yang sengit antara Black Sheep Mafia dan Tim Virginia terus berlanjut! Sementara itu, Axman berhenti demi timnya dengan cara yang menakjubkan.</desc>
   </programme>
   <programme start="20210701080500 +0700" stop="20210701085500 +0700" channel="Discovery Channel">
     <title lang="id">Kindig Customs S7: Once In...</title>
-    <desc lang="id">Sejak kecil, Dave Kindig selalu mempreteli bagian mobil hot wheel, mengganti serta mencocokkan setiap bagian guna membuat mobil ciptaannya sendiri.(n)</desc>
+    <desc lang="id">Sejak kecil, Dave Kindig selalu mempreteli bagian mobil hot wheel, mengganti serta mencocokkan setiap bagian guna membuat mobil ciptaannya sendiri.</desc>
   </programme>
   <programme start="20210701085500 +0700" stop="20210701092000 +0700" channel="Discovery Channel">
     <title lang="id">How Do They Do It?</title>
-    <desc lang="id">Temukan rahasia bagaimana sejumlah paket dikirimkan ke seluruh dunia dalam waktu kurang dari 24 jam, serta cara menambang batu bara.(n)</desc>
+    <desc lang="id">Temukan rahasia bagaimana sejumlah paket dikirimkan ke seluruh dunia dalam waktu kurang dari 24 jam, serta cara menambang batu bara.</desc>
     <episode-num system="onscreen">S5 E5</episode-num>
   </programme>
   <programme start="20210701092000 +0700" stop="20210701094500 +0700" channel="Discovery Channel">
     <title lang="id">How It's Made S16: Orange Juice</title>
-    <desc lang="id">Saksikan bagaimana cara retainer ortodontik, jus jeruk, sauna portabel, dan pisau gergaji dibuat.(n)</desc>
+    <desc lang="id">Saksikan bagaimana cara retainer ortodontik, jus jeruk, sauna portabel, dan pisau gergaji dibuat.</desc>
   </programme>
   <programme start="20210701094500 +0700" stop="20210701103500 +0700" channel="Discovery Channel">
     <title lang="id">Expedition... S6: Mountain</title>
-    <desc lang="id">Menerjang kondisi di bawah nol derajat di Siberia, Josh Gates menyelidiki salah satu kasus paling aneh dan paling brutal di daerah dingin ini.(n)</desc>
+    <desc lang="id">Menerjang kondisi di bawah nol derajat di Siberia, Josh Gates menyelidiki salah satu kasus paling aneh dan paling brutal di daerah dingin ini.</desc>
   </programme>
   <programme start="20210701103500 +0700" stop="20210701112500 +0700" channel="Discovery Channel">
     <title lang="id">Street Outlaws S2: Black Sheep</title>
-    <desc lang="id">Babak Wildcard yang sengit antara Black Sheep Mafia dan Tim Virginia terus berlanjut! Sementara itu, Axman berhenti demi timnya dengan cara yang menakjubkan.(n)</desc>
+    <desc lang="id">Babak Wildcard yang sengit antara Black Sheep Mafia dan Tim Virginia terus berlanjut! Sementara itu, Axman berhenti demi timnya dengan cara yang menakjubkan.</desc>
   </programme>
   <programme start="20210701112500 +0700" stop="20210701121500 +0700" channel="Discovery Channel">
     <title lang="id">Kindig Customs S7: Once In...</title>
-    <desc lang="id">Sejak kecil, Dave Kindig selalu mempreteli bagian mobil hot wheel, mengganti serta mencocokkan setiap bagian guna membuat mobil ciptaannya sendiri.(n)</desc>
+    <desc lang="id">Sejak kecil, Dave Kindig selalu mempreteli bagian mobil hot wheel, mengganti serta mencocokkan setiap bagian guna membuat mobil ciptaannya sendiri.</desc>
   </programme>
   <programme start="20210701121500 +0700" stop="20210701130500 +0700" channel="Discovery Channel">
     <title lang="id">Undercover... S1: Knocked Down</title>
-    <desc lang="id">Glenn bekerja sama dengan penemu Tae Bo bernama Billy Blanks untuk mengubah sebuah studio karate yang tengah kesulitan menjadi sebuah pusat kebugaran berfasilitas lengkap.(n)</desc>
+    <desc lang="id">Glenn bekerja sama dengan penemu Tae Bo bernama Billy Blanks untuk mengubah sebuah studio karate yang tengah kesulitan menjadi sebuah pusat kebugaran berfasilitas lengkap.</desc>
   </programme>
   <programme start="20210701130500 +0700" stop="20210701135500 +0700" channel="Discovery Channel">
     <title lang="id">Gold Rush S3: Territory</title>
-    <desc lang="id">Parker mengungkap sejumlah detail dan wawasan baru tentang ekspedisi penambangan emasnya nan epik di Papua Nugini, termasuk sebuah momen yang nyaris merenggut nyawanya.(n)</desc>
+    <desc lang="id">Parker mengungkap sejumlah detail dan wawasan baru tentang ekspedisi penambangan emasnya nan epik di Papua Nugini, termasuk sebuah momen yang nyaris merenggut nyawanya.</desc>
   </programme>
   <programme start="20210701135500 +0700" stop="20210701144500 +0700" channel="Discovery Channel">
     <title lang="id">Alaskan Bush... S4: Our Land</title>
-    <desc lang="id">Lewat wawasan nan eksklusif serta rekaman yang belum pernah ditayangkan sebelumnya, keluarga Brown mengungkap bagaimana mereka berjuang dan bertahan selama musim semi pertama di pegunungan.(n)</desc>
+    <desc lang="id">Lewat wawasan nan eksklusif serta rekaman yang belum pernah ditayangkan sebelumnya, keluarga Brown mengungkap bagaimana mereka berjuang dan bertahan selama musim semi pertama di pegunungan.</desc>
   </programme>
   <programme start="20210701144500 +0700" stop="20210701153500 +0700" channel="Discovery Channel">
     <title lang="id">Silicon Valley: Lucky Accidents</title>
-    <desc lang="id">Kisah sukses terbesar mengenai Silicon Valley sebagian besar merupakan keberuntungan, dan hal ini membuktikan bahwa banyak hal tak terduga dapat terjadi di tempat paling mutakhir sekalipun.(n)</desc>
+    <desc lang="id">Kisah sukses terbesar mengenai Silicon Valley sebagian besar merupakan keberuntungan, dan hal ini membuktikan bahwa banyak hal tak terduga dapat terjadi di tempat paling mutakhir sekalipun.</desc>
   </programme>
   <programme start="20210701153500 +0700" stop="20210701162500 +0700" channel="Discovery Channel">
     <title lang="id">Savage Builds: Deadliest Weapon</title>
-    <desc lang="id">Adam Savage bekerjasama dengan aktor pemenang Oscar, Gary Oldman, untuk merakit salah satu senjata paling mematikan di Hollywood, yaitu ZF1 Multi-Artillery Gun.(n)</desc>
+    <desc lang="id">Adam Savage bekerjasama dengan aktor pemenang Oscar, Gary Oldman, untuk merakit salah satu senjata paling mematikan di Hollywood, yaitu ZF1 Multi-Artillery Gun.</desc>
   </programme>
   <programme start="20210701162500 +0700" stop="20210701171500 +0700" channel="Discovery Channel">
     <title lang="id">Codes And... S2: Las Vegas</title>
-    <desc lang="id">Tayangan ini mengungkap sisi kelam Las Vegas saat para mafia berkuasa. Pada masa itu, kasino-kasino membuat para pemainnya terjebak dalam lingkaran setan perjudian.(n)</desc>
+    <desc lang="id">Tayangan ini mengungkap sisi kelam Las Vegas saat para mafia berkuasa. Pada masa itu, kasino-kasino membuat para pemainnya terjebak dalam lingkaran setan perjudian.</desc>
   </programme>
   <programme start="20210701171500 +0700" stop="20210701181000 +0700" channel="Discovery Channel">
     <title lang="id">Street Outlaws S2: Black Sheep</title>
-    <desc lang="id">Para penonton menunggu di jalanan untuk menyaksikan balapan nan berisiko tinggi yang dipenuhi oleh para pembalap besar di kota.(n)</desc>
+    <desc lang="id">Para penonton menunggu di jalanan untuk menyaksikan balapan nan berisiko tinggi yang dipenuhi oleh para pembalap besar di kota.</desc>
   </programme>
   <programme start="20210701181000 +0700" stop="20210701190500 +0700" channel="Discovery Channel">
     <title lang="id">Kindig Customs S7: Once In...</title>
-    <desc lang="id">Sejak kecil, Dave Kindig selalu mempreteli bagian mobil hot wheel, mengganti serta mencocokkan setiap bagian guna membuat mobil ciptaannya sendiri.(n)</desc>
+    <desc lang="id">Sejak kecil, Dave Kindig selalu mempreteli bagian mobil hot wheel, mengganti serta mencocokkan setiap bagian guna membuat mobil ciptaannya sendiri.</desc>
   </programme>
   <programme start="20210701190500 +0700" stop="20210701200000 +0700" channel="Discovery Channel">
     <title lang="id">Man Vs Bear S1: Basic Instinct</title>
-    <desc lang="id">Seorang veteran Angkatan Darat, seorang pelari maraton hebat, dan seorang atlet angkat berat peraih rekor dunia menghadapi pertempuran terbesar dalam hidup mereka.(n)</desc>
+    <desc lang="id">Seorang veteran Angkatan Darat, seorang pelari maraton hebat, dan seorang atlet angkat berat peraih rekor dunia menghadapi pertempuran terbesar dalam hidup mereka.</desc>
   </programme>
   <programme start="20210701200000 +0700" stop="20210701205500 +0700" channel="Discovery Channel">
     <title lang="id">Wheeler... S16: Jeepin' It Real</title>
-    <desc lang="id">Mike dan Ant menyambut mobil Jeep CJ-7 Renegade tahun 1979 di bengkel mereka. Mobil ini bisa melakukan banyak hal hebat jika saja setengahnya tidak berkarat.(n)</desc>
+    <desc lang="id">Mike dan Ant menyambut mobil Jeep CJ-7 Renegade tahun 1979 di bengkel mereka. Mobil ini bisa melakukan banyak hal hebat jika saja setengahnya tidak berkarat.</desc>
   </programme>
   <programme start="20210701205500 +0700" stop="20210701215000 +0700" channel="Discovery Channel">
     <title lang="id">Street Outlaws S6: Turn It Up</title>
-    <desc lang="id">Sebuah kecelakaan nan mengerikan menyebabkan seorang pembalap meratapi hari-hari balapannya yang mungkin segera berakhir.(n)</desc>
+    <desc lang="id">Sebuah kecelakaan nan mengerikan menyebabkan seorang pembalap meratapi hari-hari balapannya yang mungkin segera berakhir.</desc>
   </programme>
   <programme start="20210701215000 +0700" stop="20210701224500 +0700" channel="Discovery Channel">
     <title lang="id">Garage Rehab: Auto Repair</title>
-    <desc lang="id">Richard dan timnya menghadapi tantangan besar ketika memperbaiki sebuah bengkel nan berantakan namun juga harus menyemangati sang pemilik yang kehilangan rasa percaya diri terhadap bisnisnya dan dirinya sendiri.(n)</desc>
+    <desc lang="id">Richard dan timnya menghadapi tantangan besar ketika memperbaiki sebuah bengkel nan berantakan namun juga harus menyemangati sang pemilik yang kehilangan rasa percaya diri terhadap bisnisnya dan dirinya sendiri.</desc>
   </programme>
   <programme start="20210701224500 +0700" stop="20210701233500 +0700" channel="Discovery Channel">
     <title lang="id">Kindig Customs S7: Once In...</title>
-    <desc lang="id">Sejak kecil, Dave Kindig selalu mempreteli bagian mobil hot wheel, mengganti serta mencocokkan setiap bagian guna membuat mobil ciptaannya sendiri.(n)</desc>
+    <desc lang="id">Sejak kecil, Dave Kindig selalu mempreteli bagian mobil hot wheel, mengganti serta mencocokkan setiap bagian guna membuat mobil ciptaannya sendiri.</desc>
   </programme>
   <programme start="20210701233500 +0700" stop="20210702002500 +0700" channel="Discovery Channel">
     <title lang="id">Wheeler... S16: Jeepin' It Real</title>
-    <desc lang="id">Mike dan Ant menyambut mobil Jeep CJ-7 Renegade tahun 1979 di bengkel mereka. Mobil ini bisa melakukan banyak hal hebat jika saja setengahnya tidak berkarat.(n)</desc>
+    <desc lang="id">Mike dan Ant menyambut mobil Jeep CJ-7 Renegade tahun 1979 di bengkel mereka. Mobil ini bisa melakukan banyak hal hebat jika saja setengahnya tidak berkarat.</desc>
   </programme>
   <programme start="20210701002000 +0700" stop="20210701011000 +0700" channel="HGTV">
     <title lang="id">Brother Vs Brother</title>
-    <desc lang="id">Saksikan di balik layar proses renovasi ruangan outdoor Drew, yang menampilkan cuplikan dan wawancara yang belum pernah dilihat sebelumnya.(n)</desc>
+    <desc lang="id">Saksikan di balik layar proses renovasi ruangan outdoor Drew, yang menampilkan cuplikan dan wawancara yang belum pernah dilihat sebelumnya.</desc>
     <episode-num system="onscreen">S7 E2</episode-num>
   </programme>
   <programme start="20210701011000 +0700" stop="20210701020000 +0700" channel="HGTV">
     <title lang="id">Self-Made Mansions</title>
-    <desc lang="id">Clinton Kelly membantu para pengusaha di balik Extreme Plates dan Fresh Clean Tees menemukan rumah impian mereka.(n)</desc>
+    <desc lang="id">Clinton Kelly membantu para pengusaha di balik Extreme Plates dan Fresh Clean Tees menemukan rumah impian mereka.</desc>
     <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
   <programme start="20210701020000 +0700" stop="20210701022500 +0700" channel="HGTV">
     <title lang="id">Bahamas Life</title>
-    <desc lang="id">Seorang wanita kelahiran London mencari tempat bersantai untuk melupakan sejenak kehidupannya yang sibuk di Los Angeles.(n)</desc>
+    <desc lang="id">Seorang wanita kelahiran London mencari tempat bersantai untuk melupakan sejenak kehidupannya yang sibuk di Los Angeles.</desc>
     <episode-num system="onscreen">S1 E11</episode-num>
   </programme>
   <programme start="20210701022500 +0700" stop="20210701025000 +0700" channel="HGTV">
     <title lang="id">Bahamas Life</title>
-    <desc lang="id">Sepasang suami istri merayakan ulang tahun pernikahan mereka yang ke-25 dengan liburan keluarga di pulau Exuma.(n)</desc>
+    <desc lang="id">Sepasang suami istri merayakan ulang tahun pernikahan mereka yang ke-25 dengan liburan keluarga di pulau Exuma.</desc>
     <episode-num system="onscreen">S1 E12</episode-num>
   </programme>
   <programme start="20210701025000 +0700" stop="20210701031500 +0700" channel="HGTV">
     <title lang="id">Bahamas Life</title>
-    <desc lang="id">Suatu pasangan yang gemar berpetualang ingin menukar rumah mereka di Colorado yang bersalju dengan perairan biru Exuma yang indah.(n)</desc>
+    <desc lang="id">Suatu pasangan yang gemar berpetualang ingin menukar rumah mereka di Colorado yang bersalju dengan perairan biru Exuma yang indah.</desc>
     <episode-num system="onscreen">S1 E13</episode-num>
   </programme>
   <programme start="20210701031500 +0700" stop="20210701034000 +0700" channel="HGTV">
     <title lang="id">Bahamas Life</title>
-    <desc lang="id">Seorang seniman asal Kanada ingin mencari sebuah rumah permanen di Nassau, Bahama.(n)</desc>
+    <desc lang="id">Seorang seniman asal Kanada ingin mencari sebuah rumah permanen di Nassau, Bahama.</desc>
     <episode-num system="onscreen">S1 E14</episode-num>
   </programme>
   <programme start="20210701034000 +0700" stop="20210701043000 +0700" channel="HGTV">
     <title lang="id">Property...: Home</title>
-    <desc lang="id">Jonathan dan Drew melakukan renovasi besar-besaran untuk mengubah apartemen saudara laki-laki mereka menjadi sebuah rumah untuk ia dan calon istrinya.(n)</desc>
+    <desc lang="id">Jonathan dan Drew melakukan renovasi besar-besaran untuk mengubah apartemen saudara laki-laki mereka menjadi sebuah rumah untuk ia dan calon istrinya.</desc>
     <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
   <programme start="20210701043000 +0700" stop="20210701050000 +0700" channel="HGTV">
     <title lang="id">City Vs Burbs</title>
-    <desc lang="id">Sebuah keluarga, yang baru bertambah anggota, mencari sebuah rumah yang dapat memberi mereka ruang untuk lebih berkembang di kota Louisville, Kentucky.(n)</desc>
+    <desc lang="id">Sebuah keluarga, yang baru bertambah anggota, mencari sebuah rumah yang dapat memberi mereka ruang untuk lebih berkembang di kota Louisville, Kentucky.</desc>
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
   <programme start="20210701050000 +0700" stop="20210701052500 +0700" channel="HGTV">
     <title lang="id">Caribbean Life</title>
-    <desc lang="id">Sepasang penggemar selancar, Kenny dan Morgan baru saja menikah setelah berpacaran jarak jauh selama dua tahun. Lalu, mereka pun jatuh cinta dengan Puerto Rico saat berlibur di sana.(n)</desc>
+    <desc lang="id">Sepasang penggemar selancar, Kenny dan Morgan baru saja menikah setelah berpacaran jarak jauh selama dua tahun. Lalu, mereka pun jatuh cinta dengan Puerto Rico saat berlibur di sana.</desc>
     <episode-num system="onscreen">S5 E8</episode-num>
   </programme>
   <programme start="20210701052500 +0700" stop="20210701060000 +0700" channel="HGTV">
     <title lang="id">Caribbean Life</title>
-    <desc lang="id">Suatu pasangan mencari sebuah rumah besar dengan kolam renang untuk menghibur para tamu di Aruba.(n)</desc>
+    <desc lang="id">Suatu pasangan mencari sebuah rumah besar dengan kolam renang untuk menghibur para tamu di Aruba.</desc>
     <episode-num system="onscreen">S5 E9</episode-num>
   </programme>
   <programme start="20210701060000 +0700" stop="20210701062500 +0700" channel="HGTV">
     <title lang="id">House Hunters Int'l</title>
-    <desc lang="id">Sepasang suami istri asal Las Vegas berselisih mengenai desain kala berburu sebuah rumah di Somerset, Inggris.(n)</desc>
+    <desc lang="id">Sepasang suami istri asal Las Vegas berselisih mengenai desain kala berburu sebuah rumah di Somerset, Inggris.</desc>
     <episode-num system="onscreen">S98 E9</episode-num>
   </programme>
   <programme start="20210701062500 +0700" stop="20210701065000 +0700" channel="HGTV">
     <title lang="id">House Hunters</title>
-    <desc lang="id">Seorang pembeli muda mencari sebuah apartemen yang dibangun sebelum PD II di Kota New York.(n)</desc>
+    <desc lang="id">Seorang pembeli muda mencari sebuah apartemen yang dibangun sebelum PD II di Kota New York.</desc>
     <episode-num system="onscreen">S114 E9</episode-num>
   </programme>
   <programme start="20210701065000 +0700" stop="20210701071500 +0700" channel="HGTV">
     <title lang="id">Perfect Home: Asia</title>
-    <desc lang="id">Katie dan Jake telah berkencan sejak SMA dan selalu ingin berkeliling dunia bersama. Setelah menikah, mereka pergi ke Koh Samui, Thailand.(n)</desc>
+    <desc lang="id">Katie dan Jake telah berkencan sejak SMA dan selalu ingin berkeliling dunia bersama. Setelah menikah, mereka pergi ke Koh Samui, Thailand.</desc>
     <episode-num system="onscreen">S4 E3</episode-num>
   </programme>
   <programme start="20210701071500 +0700" stop="20210701074000 +0700" channel="HGTV">
     <title lang="id">City Vs Burbs</title>
-    <desc lang="id">Sebuah keluarga, yang baru bertambah anggota, mencari sebuah rumah yang dapat memberi mereka ruang untuk lebih berkembang di kota Louisville, Kentucky.(n)</desc>
+    <desc lang="id">Sebuah keluarga, yang baru bertambah anggota, mencari sebuah rumah yang dapat memberi mereka ruang untuk lebih berkembang di kota Louisville, Kentucky.</desc>
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
   <programme start="20210701074000 +0700" stop="20210701083000 +0700" channel="HGTV">
     <title lang="id">Very Brady Renovation</title>
-    <desc lang="id">Sebelum melakukan pembongkaran, para pemain Brady Bunch melakukan reuni nan emosional di rumah nan terkenal tempat mereka melakukan syuting.(n)</desc>
+    <desc lang="id">Sebelum melakukan pembongkaran, para pemain Brady Bunch melakukan reuni nan emosional di rumah nan terkenal tempat mereka melakukan syuting.</desc>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
   <programme start="20210701083000 +0700" stop="20210701092000 +0700" channel="HGTV">
     <title lang="id">Home Town: Stay Awhile</title>
-    <desc lang="id">Ben dan Erin membicarakan tentang sejumlah ruang pribadi yang mereka buat untuk pemilik rumah.(n)</desc>
+    <desc lang="id">Ben dan Erin membicarakan tentang sejumlah ruang pribadi yang mereka buat untuk pemilik rumah.</desc>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
   <programme start="20210701092000 +0700" stop="20210701094500 +0700" channel="HGTV">
     <title lang="id">Caribbean Life</title>
-    <desc lang="id">Sepasang suami istri asal Virginia mengunjungi St. Maarten untuk mencari sebuah rumah pinggir pantai dengan kamar untuk keluarga besar mereka.(n)</desc>
+    <desc lang="id">Sepasang suami istri asal Virginia mengunjungi St. Maarten untuk mencari sebuah rumah pinggir pantai dengan kamar untuk keluarga besar mereka.</desc>
     <episode-num system="onscreen">S5 E10</episode-num>
   </programme>
   <programme start="20210701094500 +0700" stop="20210701101000 +0700" channel="HGTV">
     <title lang="id">Caribbean Life</title>
-    <desc lang="id">Suatu pasangan asal Boston mencari sebuah rumah impian mereka di Republik Dominika.(n)</desc>
+    <desc lang="id">Suatu pasangan asal Boston mencari sebuah rumah impian mereka di Republik Dominika.</desc>
     <episode-num system="onscreen">S5 E11</episode-num>
   </programme>
   <programme start="20210701101000 +0700" stop="20210701103500 +0700" channel="HGTV">
     <title lang="id">Bath Crashers</title>
-    <desc lang="id">Sebuah kamar mandi nan kumuh milik sepasang suami istri mendapatkan renovasi nan artistik agar sesuai dengan kepribadian mereka yang kreatif.(n)</desc>
+    <desc lang="id">Sebuah kamar mandi nan kumuh milik sepasang suami istri mendapatkan renovasi nan artistik agar sesuai dengan kepribadian mereka yang kreatif.</desc>
     <episode-num system="onscreen">S11 E4</episode-num>
   </programme>
   <programme start="20210701103500 +0700" stop="20210701110000 +0700" channel="HGTV">
     <title lang="id">Bath Crashers</title>
-    <desc lang="id">Dua kamar mandi dirombak menjadi satu lengkap dengan sentuhan kayu yang dikeringkan, serta sebuah ruangan basah untuk menciptakan suasana liburan di pedesaan.(n)</desc>
+    <desc lang="id">Dua kamar mandi dirombak menjadi satu lengkap dengan sentuhan kayu yang dikeringkan, serta sebuah ruangan basah untuk menciptakan suasana liburan di pedesaan.</desc>
     <episode-num system="onscreen">S11 E5</episode-num>
   </programme>
   <programme start="20210701110000 +0700" stop="20210701115000 +0700" channel="HGTV">
     <title lang="id">House Hunters...</title>
-    <desc lang="id">Suatu pasangan asal California yang baru memiliki seorang bayi mengubah dua kamar mandi kecil menjadi tempat peristirahatan mini.(n)</desc>
+    <desc lang="id">Suatu pasangan asal California yang baru memiliki seorang bayi mengubah dua kamar mandi kecil menjadi tempat peristirahatan mini.</desc>
     <episode-num system="onscreen">S12 E8</episode-num>
   </programme>
   <programme start="20210701115000 +0700" stop="20210701124000 +0700" channel="HGTV">
     <title lang="id">Home Town: Stay Awhile</title>
-    <desc lang="id">Ben dan Erin membicarakan tentang sejumlah ruang pribadi yang mereka buat untuk pemilik rumah.(n)</desc>
+    <desc lang="id">Ben dan Erin membicarakan tentang sejumlah ruang pribadi yang mereka buat untuk pemilik rumah.</desc>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
   <programme start="20210701124000 +0700" stop="20210701130500 +0700" channel="HGTV">
     <title lang="id">Perfect Home: Asia</title>
-    <desc lang="id">Katie dan Jake telah berkencan sejak SMA dan selalu ingin berkeliling dunia bersama. Setelah menikah, mereka pergi ke Koh Samui, Thailand.(n)</desc>
+    <desc lang="id">Katie dan Jake telah berkencan sejak SMA dan selalu ingin berkeliling dunia bersama. Setelah menikah, mereka pergi ke Koh Samui, Thailand.</desc>
     <episode-num system="onscreen">S4 E3</episode-num>
   </programme>
   <programme start="20210701130500 +0700" stop="20210701133000 +0700" channel="HGTV">
     <title lang="id">City Vs Burbs</title>
-    <desc lang="id">Sebuah keluarga, yang baru bertambah anggota, mencari sebuah rumah yang dapat memberi mereka ruang untuk lebih berkembang di kota Louisville, Kentucky.(n)</desc>
+    <desc lang="id">Sebuah keluarga, yang baru bertambah anggota, mencari sebuah rumah yang dapat memberi mereka ruang untuk lebih berkembang di kota Louisville, Kentucky.</desc>
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
   <programme start="20210701133000 +0700" stop="20210701142000 +0700" channel="HGTV">
     <title lang="id">Very Brady Renovation</title>
-    <desc lang="id">Sebelum melakukan pembongkaran, para pemain Brady Bunch melakukan reuni nan emosional di rumah nan terkenal tempat mereka melakukan syuting.(n)</desc>
+    <desc lang="id">Sebelum melakukan pembongkaran, para pemain Brady Bunch melakukan reuni nan emosional di rumah nan terkenal tempat mereka melakukan syuting.</desc>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
   <programme start="20210701142000 +0700" stop="20210701144500 +0700" channel="HGTV">
     <title lang="id">House Hunters Int'l</title>
-    <desc lang="id">Sepasang suami istri asal Las Vegas berselisih mengenai desain kala berburu sebuah rumah di Somerset, Inggris.(n)</desc>
+    <desc lang="id">Sepasang suami istri asal Las Vegas berselisih mengenai desain kala berburu sebuah rumah di Somerset, Inggris.</desc>
     <episode-num system="onscreen">S98 E9</episode-num>
   </programme>
   <programme start="20210701144500 +0700" stop="20210701151000 +0700" channel="HGTV">
     <title lang="id">House Hunters</title>
-    <desc lang="id">Seorang pembeli muda mencari sebuah apartemen yang dibangun sebelum PD II di Kota New York.(n)</desc>
+    <desc lang="id">Seorang pembeli muda mencari sebuah apartemen yang dibangun sebelum PD II di Kota New York.</desc>
     <episode-num system="onscreen">S114 E9</episode-num>
   </programme>
   <programme start="20210701151000 +0700" stop="20210701153500 +0700" channel="HGTV">
     <title lang="id">Bath Crashers</title>
-    <desc lang="id">Sebuah kamar mandi nan kumuh milik sepasang suami istri mendapatkan renovasi nan artistik agar sesuai dengan kepribadian mereka yang kreatif.(n)</desc>
+    <desc lang="id">Sebuah kamar mandi nan kumuh milik sepasang suami istri mendapatkan renovasi nan artistik agar sesuai dengan kepribadian mereka yang kreatif.</desc>
     <episode-num system="onscreen">S11 E4</episode-num>
   </programme>
   <programme start="20210701153500 +0700" stop="20210701160000 +0700" channel="HGTV">
     <title lang="id">Bath Crashers</title>
-    <desc lang="id">Dua kamar mandi dirombak menjadi satu lengkap dengan sentuhan kayu yang dikeringkan, serta sebuah ruangan basah untuk menciptakan suasana liburan di pedesaan.(n)</desc>
+    <desc lang="id">Dua kamar mandi dirombak menjadi satu lengkap dengan sentuhan kayu yang dikeringkan, serta sebuah ruangan basah untuk menciptakan suasana liburan di pedesaan.</desc>
     <episode-num system="onscreen">S11 E5</episode-num>
   </programme>
   <programme start="20210701160000 +0700" stop="20210701165000 +0700" channel="HGTV">
     <title lang="id">House Hunters...</title>
-    <desc lang="id">Suatu pasangan asal California yang baru memiliki seorang bayi mengubah dua kamar mandi kecil menjadi tempat peristirahatan mini.(n)</desc>
+    <desc lang="id">Suatu pasangan asal California yang baru memiliki seorang bayi mengubah dua kamar mandi kecil menjadi tempat peristirahatan mini.</desc>
     <episode-num system="onscreen">S12 E8</episode-num>
   </programme>
   <programme start="20210701165000 +0700" stop="20210701174000 +0700" channel="HGTV">
     <title lang="id">Very Brady Renovation</title>
-    <desc lang="id">Sebelum melakukan pembongkaran, para pemain Brady Bunch melakukan reuni nan emosional di rumah nan terkenal tempat mereka melakukan syuting.(n)</desc>
+    <desc lang="id">Sebelum melakukan pembongkaran, para pemain Brady Bunch melakukan reuni nan emosional di rumah nan terkenal tempat mereka melakukan syuting.</desc>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
   <programme start="20210701174000 +0700" stop="20210701183000 +0700" channel="HGTV">
     <title lang="id">Home Town: Watch Party</title>
-    <desc lang="id">Di episode kali ini, sepasang suami istri dan anak-anak mereka meminta Ben dan Erin untuk menemukan rumah bersejarah besar yang kaya akan karakter dan pesona kota kecil.(n)</desc>
+    <desc lang="id">Di episode kali ini, sepasang suami istri dan anak-anak mereka meminta Ben dan Erin untuk menemukan rumah bersejarah besar yang kaya akan karakter dan pesona kota kecil.</desc>
     <episode-num system="onscreen">S4 E1</episode-num>
   </programme>
   <programme start="20210701183000 +0700" stop="20210701185500 +0700" channel="HGTV">
     <title lang="id">House Hunters Int'l</title>
-    <desc lang="id">Sepasang kekasih meninggalkan kehidupan kota demi mengejar impian mereka untuk tinggal di Pulau Norfolk, Australia yang santai.(n)</desc>
+    <desc lang="id">Sepasang kekasih meninggalkan kehidupan kota demi mengejar impian mereka untuk tinggal di Pulau Norfolk, Australia yang santai.</desc>
     <episode-num system="onscreen">S121 E3</episode-num>
   </programme>
   <programme start="20210701185500 +0700" stop="20210701192000 +0700" channel="HGTV">
     <title lang="id">House Hunters</title>
-    <desc lang="id">Sepasang suami istri yang akan segera memiliki bayi mencari sebuah rumah di pesisir utara Long Island yang dekat dengan perairan.(n)</desc>
+    <desc lang="id">Sepasang suami istri yang akan segera memiliki bayi mencari sebuah rumah di pesisir utara Long Island yang dekat dengan perairan.</desc>
     <episode-num system="onscreen">S127 E12</episode-num>
   </programme>
   <programme start="20210701192000 +0700" stop="20210701194500 +0700" channel="HGTV">
     <title lang="id">Bath Crashers</title>
-    <desc lang="id">Dua kamar mandi bercat merah muda dirombak menjadi satu kamar mandi berwarna putih mengkilap lengkap dengan meja beton, ubin yang lebar, dan ruangan yang luas.(n)</desc>
+    <desc lang="id">Dua kamar mandi bercat merah muda dirombak menjadi satu kamar mandi berwarna putih mengkilap lengkap dengan meja beton, ubin yang lebar, dan ruangan yang luas.</desc>
     <episode-num system="onscreen">S11 E6</episode-num>
   </programme>
   <programme start="20210701194500 +0700" stop="20210701201000 +0700" channel="HGTV">
     <title lang="id">Bath Crashers</title>
-    <desc lang="id">Kamar mandi bercat biru yang luar biasa diubah menjadi bergaya modern dilengkapi fitur cahaya terkeren dengan panel serat optik.(n)</desc>
+    <desc lang="id">Kamar mandi bercat biru yang luar biasa diubah menjadi bergaya modern dilengkapi fitur cahaya terkeren dengan panel serat optik.</desc>
     <episode-num system="onscreen">S11 E7</episode-num>
   </programme>
   <programme start="20210701201000 +0700" stop="20210701210000 +0700" channel="HGTV">
     <title lang="id">Very Brady Renovation</title>
-    <desc lang="id">Jasmine Roth dan Barry Williams membuat kamar khusus untuk Mike Brady dari tiga ruangan di rumahnya.(n)</desc>
+    <desc lang="id">Jasmine Roth dan Barry Williams membuat kamar khusus untuk Mike Brady dari tiga ruangan di rumahnya.</desc>
     <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
   <programme start="20210701210000 +0700" stop="20210701215000 +0700" channel="HGTV">
     <title lang="id">House Hunters...</title>
-    <desc lang="id">Sepasang pengantin baru asal California segera menyadari bahwa merenovasi rumah tak semudah yang terlihat di TV.(n)</desc>
+    <desc lang="id">Sepasang pengantin baru asal California segera menyadari bahwa merenovasi rumah tak semudah yang terlihat di TV.</desc>
     <episode-num system="onscreen">S12 E9</episode-num>
   </programme>
   <programme start="20210701215000 +0700" stop="20210701221500 +0700" channel="HGTV">
     <title lang="id">House Hunters Int'l</title>
-    <desc lang="id">Sepasang kekasih meninggalkan kehidupan kota demi mengejar impian mereka untuk tinggal di Pulau Norfolk, Australia yang santai.(n)</desc>
+    <desc lang="id">Sepasang kekasih meninggalkan kehidupan kota demi mengejar impian mereka untuk tinggal di Pulau Norfolk, Australia yang santai.</desc>
     <episode-num system="onscreen">S121 E3</episode-num>
   </programme>
   <programme start="20210701221500 +0700" stop="20210701224000 +0700" channel="HGTV">
     <title lang="id">House Hunters</title>
-    <desc lang="id">Sepasang suami istri yang akan segera memiliki bayi mencari sebuah rumah di pesisir utara Long Island yang dekat dengan perairan.(n)</desc>
+    <desc lang="id">Sepasang suami istri yang akan segera memiliki bayi mencari sebuah rumah di pesisir utara Long Island yang dekat dengan perairan.</desc>
     <episode-num system="onscreen">S127 E12</episode-num>
   </programme>
   <programme start="20210701224000 +0700" stop="20210701230500 +0700" channel="HGTV">
     <title lang="id">House Hunters Int'l</title>
-    <desc lang="id">Jennifer meninggalkan kehidupannya di Kanada dan ikut bersama suaminya ke Brisbane.(n)</desc>
+    <desc lang="id">Jennifer meninggalkan kehidupannya di Kanada dan ikut bersama suaminya ke Brisbane.</desc>
     <episode-num system="onscreen">S99 E1</episode-num>
   </programme>
   <programme start="20210701230500 +0700" stop="20210701233000 +0700" channel="HGTV">
     <title lang="id">House Hunters</title>
-    <desc lang="id">Seorang profesional muda ingin beralih dari menyewa rumah dengan membeli sebuah hunian di LA yang sangat mahal.(n)</desc>
+    <desc lang="id">Seorang profesional muda ingin beralih dari menyewa rumah dengan membeli sebuah hunian di LA yang sangat mahal.</desc>
     <episode-num system="onscreen">S118 E9</episode-num>
   </programme>
   <programme start="20210701233000 +0700" stop="20210702002000 +0700" channel="HGTV">
     <title lang="id">Very Brady Renovation</title>
-    <desc lang="id">Jasmine Roth dan Barry Williams membuat kamar khusus untuk Mike Brady dari tiga ruangan di rumahnya.(n)</desc>
+    <desc lang="id">Jasmine Roth dan Barry Williams membuat kamar khusus untuk Mike Brady dari tiga ruangan di rumahnya.</desc>
     <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
   <programme start="20210701000000 +0700" stop="20210701003000 +0700" channel="Ruang Trampil">
@@ -3200,51 +3201,51 @@
   </programme>
   <programme start="20210701020000 +0700" stop="20210701034500 +0700" channel="TVN Movies">
     <title lang="id">Lover's Concerto</title>
-    <desc lang="id">Ji-hwan menerima banyak surat cinta tak bernama, yang mengingatkannya pada dua sahabatnya yang pergi lima tahun lalu. Tiga sekawan ini biasa menghabiskan waktu bersama, namun bagaimana jika perasaan cinta muncul?(n)</desc>
+    <desc lang="id">Ji-hwan menerima banyak surat cinta tak bernama, yang mengingatkannya pada dua sahabatnya yang pergi lima tahun lalu. Tiga sekawan ini biasa menghabiskan waktu bersama, namun bagaimana jika perasaan cinta muncul?</desc>
   </programme>
   <programme start="20210701034500 +0700" stop="20210701054500 +0700" channel="TVN Movies">
     <title lang="id">Secret Zoo</title>
-    <desc lang="id">Bermimpi menjadi karyawan tetap di sebuah firma hukum, seorang karyawan kontrak melakukan pekerjaan nan tak biasa guna menjaga kebun binatang agar tetap buka dengan membujuk karyawannya untuk mengenakan kostum hewan.(n)</desc>
+    <desc lang="id">Bermimpi menjadi karyawan tetap di sebuah firma hukum, seorang karyawan kontrak melakukan pekerjaan nan tak biasa guna menjaga kebun binatang agar tetap buka dengan membujuk karyawannya untuk mengenakan kostum hewan.</desc>
   </programme>
   <programme start="20210701054500 +0700" stop="20210701073000 +0700" channel="TVN Movies">
     <title lang="id">Six Ball</title>
-    <desc lang="id">Sung-hoon, seorang pemain biliar nan berbakat, mengalami cedera di tangan kirinya dalam sebuah permainan karena ulah Mr. Young. Ia pun memutuskan untuk membalas dendam dan bersiap untuk pertempuran terakhir.(n)</desc>
+    <desc lang="id">Sung-hoon, seorang pemain biliar nan berbakat, mengalami cedera di tangan kirinya dalam sebuah permainan karena ulah Mr. Young. Ia pun memutuskan untuk membalas dendam dan bersiap untuk pertempuran terakhir.</desc>
   </programme>
   <programme start="20210701073000 +0700" stop="20210701093000 +0700" channel="TVN Movies">
     <title lang="id">Juror 8</title>
-    <desc lang="id">Film yang diangkat dari kisah nyata tentang delapan orang biasa dengan latar belakang berbeda yang dipilih sebagai juri pertama dalam persidangan kasus pembunuhan di Korea Selatan pada tahun 2008.(n)</desc>
+    <desc lang="id">Film yang diangkat dari kisah nyata tentang delapan orang biasa dengan latar belakang berbeda yang dipilih sebagai juri pertama dalam persidangan kasus pembunuhan di Korea Selatan pada tahun 2008.</desc>
   </programme>
   <programme start="20210701093000 +0700" stop="20210701113000 +0700" channel="TVN Movies">
     <title lang="id">Part-Time Spy</title>
-    <desc lang="id">Seorang mantan pekerja kontrak di Badan Keamanan Nasional bergabung dengan seorang detektif yang tengah menyamar untuk mendapatkan kembali uang yang dicuri dari bosnya lewat skema penipuan.(n)</desc>
+    <desc lang="id">Seorang mantan pekerja kontrak di Badan Keamanan Nasional bergabung dengan seorang detektif yang tengah menyamar untuk mendapatkan kembali uang yang dicuri dari bosnya lewat skema penipuan.</desc>
   </programme>
   <programme start="20210701113000 +0700" stop="20210701133000 +0700" channel="TVN Movies">
     <title lang="id">Unstoppable</title>
-    <desc lang="id">Seorang mantan gangster, Dong-chul, membersihkan masa lalunya dan mencoba menikmati kehidupan biasa dengan istrinya Ji-soo, tapi keadaan menjadi sulit saat ia terus diperdaya untuk membuat keputusan bisnis yang buruk.(n)</desc>
+    <desc lang="id">Seorang mantan gangster, Dong-chul, membersihkan masa lalunya dan mencoba menikmati kehidupan biasa dengan istrinya Ji-soo, tapi keadaan menjadi sulit saat ia terus diperdaya untuk membuat keputusan bisnis yang buruk.</desc>
   </programme>
   <programme start="20210701133000 +0700" stop="20210701153000 +0700" channel="TVN Movies">
     <title lang="id">Rules Of Dating</title>
-    <desc lang="id">Seorang wanita nan sinis bekerja sebagai guru di sebuah sekolah. Saat sang guru pengawas mendekatinya, pertempuran antara hati dan logika dimulai karena keduanya ragu dengan perasaan masing-masing.(n)</desc>
+    <desc lang="id">Seorang wanita nan sinis bekerja sebagai guru di sebuah sekolah. Saat sang guru pengawas mendekatinya, pertempuran antara hati dan logika dimulai karena keduanya ragu dengan perasaan masing-masing.</desc>
   </programme>
   <programme start="20210701153000 +0700" stop="20210701173000 +0700" channel="TVN Movies">
     <title lang="id">Wide Awake</title>
-    <desc lang="id">Seorang anak laki-laki yang mengalami trauma setelah menjalani pembiusan lokal saat operasi jantung terlibat dalam serangkaian pembunuhan 25 tahun kemudian.(n)</desc>
+    <desc lang="id">Seorang anak laki-laki yang mengalami trauma setelah menjalani pembiusan lokal saat operasi jantung terlibat dalam serangkaian pembunuhan 25 tahun kemudian.</desc>
   </programme>
   <programme start="20210701173000 +0700" stop="20210701191500 +0700" channel="TVN Movies">
     <title lang="id">Mission: Possible</title>
-    <desc lang="id">Seorang detektif swasta yang tengah mengalami kesulitan finansial, Woo Su-Han, dipekerjakan oleh seorang agen rahasia bernama Yoo Da-Hee untuk menghentikan sebuah operasi perdagangan senjata yang berisiko tinggi.(n)</desc>
+    <desc lang="id">Seorang detektif swasta yang tengah mengalami kesulitan finansial, Woo Su-Han, dipekerjakan oleh seorang agen rahasia bernama Yoo Da-Hee untuk menghentikan sebuah operasi perdagangan senjata yang berisiko tinggi.</desc>
   </programme>
   <programme start="20210701191500 +0700" stop="20210701210000 +0700" channel="TVN Movies">
     <title lang="id">Where The Truth Lies</title>
-    <desc lang="id">Dua mahasiswa Korea-Amerika dituduh melakukan pembunuhan. Namun, penyelidikan menjadi kacau saat kedua tersangka memberikan laporan dan bukti yang bertentangan, dan saling menyalahkan atas kejahatan tersebut.(n)</desc>
+    <desc lang="id">Dua mahasiswa Korea-Amerika dituduh melakukan pembunuhan. Namun, penyelidikan menjadi kacau saat kedua tersangka memberikan laporan dan bukti yang bertentangan, dan saling menyalahkan atas kejahatan tersebut.</desc>
   </programme>
   <programme start="20210701210000 +0700" stop="20210701224000 +0700" channel="TVN Movies">
     <title lang="id">Blood And Ties</title>
-    <desc lang="id">Seorang jurnalis mencurigai ayahnya adalah seorang penculik kejam yang melarikan diri 15 tahun yang lalu.(n)</desc>
+    <desc lang="id">Seorang jurnalis mencurigai ayahnya adalah seorang penculik kejam yang melarikan diri 15 tahun yang lalu.</desc>
   </programme>
   <programme start="20210701224000 +0700" stop="20210702003500 +0700" channel="TVN Movies">
     <title lang="id">Innocent Thing</title>
-    <desc lang="id">Perasaan suka seorang siswi SMA terhadap guru olahraganya yang populer menjadi kian tak terkendali hingga membuatnya amat terobsesi.(n)</desc>
+    <desc lang="id">Perasaan suka seorang siswi SMA terhadap guru olahraganya yang populer menjadi kian tak terkendali hingga membuatnya amat terobsesi.</desc>
   </programme>
   <programme start="20210630000000 +0000" stop="20210630004500 +0000" channel="Kplus">
     <title lang="en">My Strange Hero</title>
@@ -3974,6 +3975,142 @@
   </programme>
   <programme start="20210701233000 +0700" stop="20210702000000 +0700" channel="Dreamworks">
     <title lang="id">Turbo F. A. S. T</title>
+  </programme>
+  <programme start="20210701000000 +0700" stop="20210701010000 +0700" channel="Baby First">
+    <title lang="en">A Dreamy Journey</title>
+    <desc lang="en">A Soothing Audio-Visual Journey That Lulls Babies Into The Realm Of Sleep.(n)</desc>
+  </programme>
+  <programme start="20210701010000 +0700" stop="20210701020000 +0700" channel="Baby First">
+    <title lang="en">A Dreamy Journey</title>
+    <desc lang="en">A Soothing Audio-Visual Journey That Lulls Babies Into The Realm Of Sleep.(n)</desc>
+  </programme>
+  <programme start="20210701020000 +0700" stop="20210701030000 +0700" channel="Baby First">
+    <title lang="en">A Dreamy Journey</title>
+    <desc lang="en">A Soothing Audio-Visual Journey That Lulls Babies Into The Realm Of Sleep.(n)</desc>
+  </programme>
+  <programme start="20210701030000 +0700" stop="20210701053000 +0700" channel="Baby First">
+    <title lang="en">A Dreamy Journey</title>
+    <desc lang="en">A Soothing Audio-Visual Journey That Lulls Babies Into The Realm Of Sleep.(n)</desc>
+  </programme>
+  <programme start="20210701053000 +0700" stop="20210701060000 +0700" channel="Baby First">
+    <title lang="en">Early Bloomers</title>
+    <desc lang="en">Special programs designed for the attention span, visual capabilities and thought processes of our youngest viewers.(n)</desc>
+  </programme>
+  <programme start="20210701060000 +0700" stop="20210701063000 +0700" channel="Baby First">
+    <title lang="en">Developmental Programs for Baby</title>
+    <desc lang="en">Introduce your baby to new words, numbers, music, animals and more.(n)</desc>
+  </programme>
+  <programme start="20210701063000 +0700" stop="20210701070000 +0700" channel="Baby First">
+    <title lang="en">Developmental Programs for Baby</title>
+    <desc lang="en">Introduce your baby to new words, numbers, music, animals and more.(n)</desc>
+  </programme>
+  <programme start="20210701070000 +0700" stop="20210701073000 +0700" channel="Baby First">
+    <title lang="en">Baby class</title>
+    <desc lang="en">Shows for your baby that focus on important building blocks such as 123s and ABCs.(n)</desc>
+  </programme>
+  <programme start="20210701073000 +0700" stop="20210701080000 +0700" channel="Baby First">
+    <title lang="en">Developmental Programs for Baby</title>
+    <desc lang="en">Introduce your baby to new words, numbers, music, animals and more.(n)</desc>
+  </programme>
+  <programme start="20210701080000 +0700" stop="20210701083000 +0700" channel="Baby First">
+    <title lang="en">Baby First Club</title>
+    <desc lang="en">Programmes get young viewers excited about the day ahead:.(n)</desc>
+  </programme>
+  <programme start="20210701083000 +0700" stop="20210701090000 +0700" channel="Baby First">
+    <title lang="en">Baby First Club</title>
+    <desc lang="en">Programmes get young viewers excited about the day ahead:.(n)</desc>
+  </programme>
+  <programme start="20210701090000 +0700" stop="20210701093000 +0700" channel="Baby First">
+    <title lang="en">Baby First Club</title>
+    <desc lang="en">Programmes get young viewers excited about the day ahead:.(n)</desc>
+  </programme>
+  <programme start="20210701093000 +0700" stop="20210701100000 +0700" channel="Baby First">
+    <title lang="en">Baby First Club</title>
+    <desc lang="en">Programmes get young viewers excited about the day ahead:.(n)</desc>
+  </programme>
+  <programme start="20210701100000 +0700" stop="20210701103000 +0700" channel="Baby First">
+    <title lang="en">Developmental Programs for Baby</title>
+    <desc lang="en">Introduce your baby to new words, numbers, music, animals and more.(n)</desc>
+  </programme>
+  <programme start="20210701103000 +0700" stop="20210701110000 +0700" channel="Baby First">
+    <title lang="en">Early Bloomers</title>
+    <desc lang="en">Special programs designed for the attention span, visual capabilities and thought processes of our youngest viewers.(n)</desc>
+  </programme>
+  <programme start="20210701110000 +0700" stop="20210701113000 +0700" channel="Baby First">
+    <title lang="en">Developmental Programs for Baby</title>
+    <desc lang="en">Introduce your baby to new words, numbers, music, animals and more.(n)</desc>
+  </programme>
+  <programme start="20210701113000 +0700" stop="20210701120000 +0700" channel="Baby First">
+    <title lang="en">Art &amp; Music</title>
+    <desc lang="en">Explore the world of arts with your baby through dance, music, movement, and more – while encouraging creative expression.(n)</desc>
+  </programme>
+  <programme start="20210701120000 +0700" stop="20210701123000 +0700" channel="Baby First">
+    <title lang="en">Developmental Programs for Baby</title>
+    <desc lang="en">Introduce your baby to new words, numbers, music, animals and more.(n)</desc>
+  </programme>
+  <programme start="20210701123000 +0700" stop="20210701130000 +0700" channel="Baby First">
+    <title lang="en">Developmental Programs for Baby</title>
+    <desc lang="en">Introduce your baby to new words, numbers, music, animals and more.(n)</desc>
+  </programme>
+  <programme start="20210701130000 +0700" stop="20210701133000 +0700" channel="Baby First">
+    <title lang="en">Developmental Programs for Baby</title>
+    <desc lang="en">Introduce your baby to new words, numbers, music, animals and more.(n)</desc>
+  </programme>
+  <programme start="20210701133000 +0700" stop="20210701140000 +0700" channel="Baby First">
+    <title lang="en">Developmental Programs for Baby</title>
+    <desc lang="en">Introduce your baby to new words, numbers, music, animals and more.(n)</desc>
+  </programme>
+  <programme start="20210701140000 +0700" stop="20210701143000 +0700" channel="Baby First">
+    <title lang="en">Baby class</title>
+    <desc lang="en">Shows for your baby that focus on important building blocks such as 123s and ABCs.(n)</desc>
+  </programme>
+  <programme start="20210701143000 +0700" stop="20210701150000 +0700" channel="Baby First">
+    <title lang="en">Developmental Programs for Baby</title>
+    <desc lang="en">Introduce your baby to new words, numbers, music, animals and more.(n)</desc>
+  </programme>
+  <programme start="20210701150000 +0700" stop="20210701153000 +0700" channel="Baby First">
+    <title lang="en">Baby First Club</title>
+    <desc lang="en">Programmes get young viewers excited about the day ahead:.(n)</desc>
+  </programme>
+  <programme start="20210701153000 +0700" stop="20210701160000 +0700" channel="Baby First">
+    <title lang="en">Baby First Club</title>
+    <desc lang="en">Programmes get young viewers excited about the day ahead:.(n)</desc>
+  </programme>
+  <programme start="20210701160000 +0700" stop="20210701163000 +0700" channel="Baby First">
+    <title lang="en">Baby First Club</title>
+    <desc lang="en">Programmes get young viewers excited about the day ahead:.(n)</desc>
+  </programme>
+  <programme start="20210701163000 +0700" stop="20210701170000 +0700" channel="Baby First">
+    <title lang="en">Baby First Club</title>
+    <desc lang="en">Programmes get young viewers excited about the day ahead:.(n)</desc>
+  </programme>
+  <programme start="20210701170000 +0700" stop="20210701173000 +0700" channel="Baby First">
+    <title lang="en">Developmental Programs for Baby</title>
+    <desc lang="en">Introduce your baby to new words, numbers, music, animals and more.(n)</desc>
+  </programme>
+  <programme start="20210701173000 +0700" stop="20210701180000 +0700" channel="Baby First">
+    <title lang="en">Early Bloomers</title>
+    <desc lang="en">Special programs designed for the attention span, visual capabilities and thought processes of our youngest viewers.(n)</desc>
+  </programme>
+  <programme start="20210701180000 +0700" stop="20210701183000 +0700" channel="Baby First">
+    <title lang="en">Developmental Programs for Baby</title>
+    <desc lang="en">Introduce your baby to new words, numbers, music, animals and more.(n)</desc>
+  </programme>
+  <programme start="20210701183000 +0700" stop="20210701190000 +0700" channel="Baby First">
+    <title lang="en">Art &amp; Music</title>
+    <desc lang="en">Explore the world of arts with your baby through dance, music, movement, and more – while encouraging creative expression.(n)</desc>
+  </programme>
+  <programme start="20210701190000 +0700" stop="20210701193000 +0700" channel="Baby First">
+    <title lang="en">Developmental Programs for Baby</title>
+    <desc lang="en">Introduce your baby to new words, numbers, music, animals and more.(n)</desc>
+  </programme>
+  <programme start="20210701193000 +0700" stop="20210701200000 +0700" channel="Baby First">
+    <title lang="en">Developmental Programs for Baby</title>
+    <desc lang="en">Introduce your baby to new words, numbers, music, animals and more.(n)</desc>
+  </programme>
+  <programme start="20210701200000 +0700" stop="20210702000000 +0700" channel="Baby First">
+    <title lang="en">A Dreamy Journey</title>
+    <desc lang="en">A soothing audio-visual journey that lulls babies into the realm of sleep.(n)</desc>
   </programme>
   <programme start="20210701000000 +0700" stop="20210701020000 +0700" channel="My Kids">
     <title lang="id">Minuscule - Valley of The Lost Ants</title>
