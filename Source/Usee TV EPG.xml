@@ -368,118 +368,147 @@
   </channel>
   <channel id="DISNEY HD">
     <display-name lang="id">DISNEY HD</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/disney_channel.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="Disney Junior HD">
     <display-name lang="id">Disney Junior HD</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/disney_jr.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="Animax">
     <display-name lang="id">Animax</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/animax.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="Nickelodeon">
     <display-name lang="id">Nickelodeon</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/nick.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="Nick Junior">
     <display-name lang="id">Nick Junior</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/nick_jr.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="Cartoon Network">
     <display-name lang="id">Cartoon Network</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/cn.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="ANIPlus">
     <display-name lang="id">ANIPlus</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/aniplus.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="Dreamworks">
     <display-name lang="id">Dreamworks</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_dreamworks_small1.png?v=2.0.0.13&quot;  alt=&quot;Dreamworks&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;Dreamworks&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Dreamworks&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/tvposter/dreamworks.png&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="Da Vinci Learning">
     <display-name lang="id">Da Vinci Learning</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/da_vinci.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="Baby First">
     <display-name lang="en">Baby First</display-name>
+    <icon src="https://www.firstmedia.com/files/images/bfirst.png" />
     <url>http://www.firstmedia.com</url>
   </channel>
   <channel id="Dunia Anak">
     <display-name lang="id">Dunia anak</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/dunia_anak.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="My Kids">
     <display-name lang="id">My Kids</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_mykids_small.png&quot;  alt=&quot;My Kids&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;My Kids&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;My Kids&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="Horee">
     <display-name lang="id">Horee</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_horee_small.png?v=2.0.0.13&quot;  alt=&quot;Horee&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;Horee&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Horee&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/tvposter/horee.png&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="Boomerang HD">
     <display-name lang="id">Boomerang HD</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/boomerang.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="CNN Indonesia HD">
     <display-name lang="id">CNN Indonesia HD</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/cnn_ind_bg.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="TRANS TV HD">
     <display-name lang="id">TRANS TV HD</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/trans.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="TRANS7 HD">
     <display-name lang="id">TRANS7 HD</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/trans7.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="SCTV">
     <display-name lang="id">SCTV</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/sctv.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="Net TV">
     <display-name lang="id">Net TV</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13&quot;  alt=&quot;Net.&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;Net.&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Net.&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/tvposter/net.png&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="Metro TV">
     <display-name lang="id">Metro TV</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/metro.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="tvOne">
     <display-name lang="id">tvOne</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/tv_one.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="ANTV">
     <display-name lang="id">ANTV</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/antv.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="INDOSIAR">
     <display-name lang="id">INDOSIAR</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/indosiar.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="Kompas TV">
     <display-name lang="id">Kompas TV</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/kompas.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="TVRI">
     <display-name lang="id">TVRI</display-name>
+    <icon src="http://www.transvision.co.id/img/channel/tvri_new.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="Rajawali TV">
     <display-name lang="id">Rajawali TV</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/rajawali.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="BeritaSatu">
     <display-name lang="id">BeritaSatu</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/berita_satu.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="JakTV">
     <display-name lang="id">JakTV</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/jaktv.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="Bali TV">
     <display-name lang="id">Bali TV</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13&quot;  alt=&quot;Bali TV&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;Bali TV&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Bali TV&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/tvposter/balitv.png&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="Pal TV">
@@ -488,190 +517,237 @@
   </channel>
   <channel id="RRI NET">
     <display-name lang="id">RRI NET</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_rri_small1.png?v=2.0.0.13&quot;  alt=&quot;RRI NET&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;RRI NET&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;RRI NET&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="JTV">
     <display-name lang="id">JTV</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png?v=2.0.0.13&quot;  alt=&quot;JTV&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;JTV&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;JTV&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/tvposter/jtv.png&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="RCTI">
     <display-name lang="id">RCTI</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/rcti.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="Global TV">
     <display-name lang="id">Global TV</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/global.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="MNC TV">
     <display-name lang="id">MNC TV</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/mnc.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="inews">
     <display-name lang="id">inews</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_inews_small.png&quot;  alt=&quot;iNews&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;iNews&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;iNews&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="mncnews">
     <display-name lang="id">mncnews</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_mncnews_small.png&quot;  alt=&quot;MNC News&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;MNC News&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;MNC News&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="Nusantara TV">
     <display-name lang="id">Nusantara TV</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_nusantaratv_small.png?v=1.1&quot;  alt=&quot;Nusantara TV&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;Nusantara TV&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Nusantara TV&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="Antara">
     <display-name lang="id">Antara</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_antara_small1.png?v=2.0.0.13&quot;  alt=&quot;Antara&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;Antara&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Antara&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/tvposter/antara.png&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="Al Jazeera">
     <display-name lang="id">Al Jazeera</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/al_jazeera.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="France 24">
     <display-name lang="id">France 24</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/france24.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="CNBC Indonesia">
     <display-name lang="id">CNBC Indonesia</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_cnbcid_small.png&quot;  alt=&quot;CNBC Indonesia&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;CNBC Indonesia&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;CNBC Indonesia&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="CNN International">
     <display-name lang="id">CNN International</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/cnn_int.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="DW (English)">
     <display-name lang="id">DW (English)</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/dw.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="SEA Today">
     <display-name lang="id">SEA Today</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_seatoday_small.png?v=1&quot;  alt=&quot;SEA Today&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;SEA Today&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;SEA Today&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="NHK World">
     <display-name lang="id">NHK World</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_355.jpeg" />
     <url>http://www.mncvision.id.E</url>
   </channel>
   <channel id="News Asia">
     <display-name lang="id">News Asia</display-name>
+    <icon src="http://www.transvision.co.id/img/channel/cna.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="ABC Australia">
     <display-name lang="id">ABC Australia</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png&quot;  alt=&quot;ABC Australia&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;ABC Australia&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;ABC Australia&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="TV5 MONDE">
     <display-name lang="id">TV5 MONDE</display-name>
+    <icon src="http://www.transvision.co.id/img/channel/tv5_monde.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="Euronews">
     <display-name lang="id">Euronews</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/euronews_bg.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="Bloomberg">
     <display-name lang="id">Bloomberg</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/bloomberg.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="TRT World">
     <display-name lang="id">TRT World</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_trtworld_small.png&quot;  alt=&quot;TRT World&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;TRT World&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;TRT World&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="TVBS News">
     <display-name lang="id">TVBS News</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_tvbsnews_small.png&quot;  alt=&quot;TVBS News&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;TVBS News&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;TVBS News&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="IDX">
     <display-name lang="id">IDX</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_idx_small.png&quot;  alt=&quot;IDX&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;IDX&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;IDX&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="English - Zhejiang Satellite TV">
     <display-name lang="en">English - Zhejiang Satellite TV</display-name>
+    <icon src="http://epg.cms.now-tv.com/iphone/channelLogo/ch555.png" />
     <url>http://www.nowtv.now.com</url>
   </channel>
   <channel id="CCTV4">
     <display-name lang="id">CCTV4</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/cctv4.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="EBC Asia">
     <display-name lang="id">EBC Asia</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_ebcasia_small.png?v=1.1&quot;  alt=&quot;EBC Asia&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;EBC Asia&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;EBC Asia&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="CTI Asia">
     <display-name lang="id">CTI Asia</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_ctiasia_small.png&quot;  alt=&quot;CTI Asia&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;CTI Asia&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;CTI Asia&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="Formosa">
     <display-name lang="id">Formosa</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_formosa_small.png&quot;  alt=&quot;Formosa&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;Formosa&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Formosa&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="Star Chinese">
     <display-name lang="id">Star Chinese</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/scc.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="English - Shenzhen TV">
     <display-name lang="en">English - Shenzhen TV</display-name>
+    <icon src="http://epg.cms.now-tv.com/iphone/channelLogo/ch540.png" />
     <url>http://www.nowtv.now.com</url>
   </channel>
   <channel id="AlQuran Kareem">
     <display-name lang="id">AlQuran Kareem</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/al_kareem.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="MTATV">
     <display-name lang="id">MTATV</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_mtatv_small1.png?v=2.0.0.13&quot;  alt=&quot;MTATV&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;MTATV&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;MTATV&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/tvposter/mtatv.png&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="MQTV">
     <display-name lang="id">MQTV</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_mqtv_small1.png?v=2.0.0.13&quot;  alt=&quot;MQTV&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;MQTV&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;MQTV&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/tvposter/mqtv.png&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="TV9 NU">
     <display-name lang="id">TV9 NU</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_tv9_small.png?v=2.0.0.13&quot;  alt=&quot;TV9 NU&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;TV9 NU&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;TV9 NU&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="Muhammadiyah TV">
     <display-name lang="id">Muhammadiyah TV</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_muhammadiyahtv_small1.png?v=2.0.0.13&quot;  alt=&quot;Muhammadiyah TV&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;Muhammadiyah TV&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Muhammadiyah TV&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/tvposter/tvmu.png&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="Tawaf TV">
     <display-name lang="id">Tawaf TV</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_tawaftv_small.png&quot;  alt=&quot;Tawaf TV&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;Tawaf TV&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Tawaf TV&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="MUI TV">
     <display-name lang="id">MUI TV</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_tvmui_small.png?v=2.0.0.13&quot;  alt=&quot;MUI TV&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;MUI TV&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;MUI TV&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="HopeChannel">
     <display-name lang="en">HopeChannel</display-name>
+    <icon src="https://static.sky.co.nz/sky/epglogos/MK_HopeChannel_Logo_80x60.png" />
     <url>http://www.espn.com</url>
   </channel>
   <channel id="UChannel">
     <display-name lang="id">UChannel</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_uchannel_small1.png?v=2.0.0.13&quot;  alt=&quot;UChannel&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;UChannel&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;UChannel&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/tvposter/uchannel.png&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="Rodja TV">
     <display-name lang="id">Rodja TV</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png?v=2.0.0.13&quot;  alt=&quot;Rodja TV&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;Rodja TV&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Rodja TV&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/tvposter/rodja.png&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="Daai TV">
     <display-name lang="id">Daai TV</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?v=2.0.0.13&quot;  alt=&quot;Daai TV&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;Daai TV&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Daai TV&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/tvposter/daai.png&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="Indihome Shopping">
     <display-name lang="id">Indihome Shopping</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_indishopping_small.png&quot;  alt=&quot;Indihome Shopping&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;Indihome Shopping&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Indihome Shopping&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="M Shop">
     <display-name lang="id">M Shop</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_mshop_small.png?v=1.1&quot;  alt=&quot;M Shop&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;M Shop&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;M Shop&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; id=&quot;video-player&quot;  style=&quot;width:100%;&quot; height=&quot;430;&quot;  class=&quot;embed-responsive-item video-js vjs-default-skin  vjs-big-play-centered&quot; controls autoplay=&quot;&quot;&gt;&lt;/video&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="MSHOP Super Sale!">
     <display-name lang="id">MSHOP Super Sale!</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_79.jpg" />
     <url>http://www.mncvision.id.E</url>
   </channel>
   <channel id="Eat N Go">
     <display-name lang="id">Eat N Go</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/eat&amp;go.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <channel id="Asian Food Network HD">
     <display-name lang="id">Asian Food Network HD</display-name>
+    <icon src="http://www.transvision.co.id/img/channel/afn.png" />
     <url>http://www.transvision.co.id</url>
   </channel>
   <programme start="20210702002000 +0700" stop="20210702011500 +0700" channel="Blue Ant Entertainment HD">
@@ -16617,6 +16693,81 @@
   <programme start="20210702230000 +0700" stop="20210703000000 +0700" channel="IDX">
     <title lang="id">The Best Concert</title>
   </programme>
+  <programme start="20210702014300 +0000" stop="20210702095700 +0000" channel="English - Zhejiang Satellite TV">
+    <title lang="en">重播精選綜藝</title>
+    <desc lang="en">(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Variety</category>
+    <country lang="en">CN</country>
+  </programme>
+  <programme start="20210702095700 +0000" stop="20210702100000 +0000" channel="English - Zhejiang Satellite TV">
+    <title lang="en">氣象預報</title>
+    <desc lang="en">(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Weather</category>
+    <country lang="en">CN</country>
+  </programme>
+  <programme start="20210702100000 +0000" stop="20210702103000 +0000" channel="English - Zhejiang Satellite TV">
+    <title lang="en">新聞深一度</title>
+    <desc lang="en">(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Features</category>
+    <country lang="en">CN</country>
+  </programme>
+  <programme start="20210702103000 +0000" stop="20210702105100 +0000" channel="English - Zhejiang Satellite TV">
+    <title lang="en">浙江新聞聯播</title>
+    <desc lang="en">(n)</desc>
+    <category lang="en">News</category>
+    <country lang="en">CN</country>
+  </programme>
+  <programme start="20210702105100 +0000" stop="20210702105300 +0000" channel="English - Zhejiang Satellite TV">
+    <title lang="en">天氣預報</title>
+    <desc lang="en">(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Weather</category>
+    <country lang="en">CN</country>
+  </programme>
+  <programme start="20210702105300 +0000" stop="20210702110000 +0000" channel="English - Zhejiang Satellite TV">
+    <title lang="en">今日聚焦</title>
+    <desc lang="en">(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Talkshow</category>
+    <country lang="en">CN</country>
+  </programme>
+  <programme start="20210702110000 +0000" stop="20210702113300 +0000" channel="English - Zhejiang Satellite TV">
+    <title lang="en">轉播中央電視台新聞聯播</title>
+    <desc lang="en">(n)</desc>
+    <category lang="en">News</category>
+    <country lang="en">CN</country>
+  </programme>
+  <programme start="20210702113300 +0000" stop="20210702133000 +0000" channel="English - Zhejiang Satellite TV">
+    <title lang="en">中國藍劇場</title>
+    <desc lang="en">(n)</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Chinese</category>
+    <country lang="en">CN</country>
+  </programme>
+  <programme start="20210702133000 +0000" stop="20210702134000 +0000" channel="English - Zhejiang Satellite TV">
+    <title lang="en">今日評說</title>
+    <desc lang="en">(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Talkshow</category>
+    <country lang="en">CN</country>
+  </programme>
+  <programme start="20210702134000 +0000" stop="20210702135800 +0000" channel="English - Zhejiang Satellite TV">
+    <title lang="en">中國藍速遞</title>
+    <desc lang="en">(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Variety</category>
+    <country lang="en">CN</country>
+  </programme>
+  <programme start="20210702135800 +0000" stop="20210702160200 +0000" channel="English - Zhejiang Satellite TV">
+    <title lang="en">重播精選綜藝</title>
+    <desc lang="en">(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Variety</category>
+    <country lang="en">CN</country>
+  </programme>
   <programme start="20210702001000 +0700" stop="20210702004500 +0700" channel="CCTV4">
     <title lang="id">China Showbiz</title>
     <desc lang="id">The China Showbiz menghimpun beragam karya seni TV yang artistik. Program ini juga mengajak pemirsa menikmati dunia seni yang luar biasa melalui apresiasi serta ulasan berbagai karya.</desc>
@@ -17118,6 +17269,78 @@
   <programme start="20210702220000 +0700" stop="20210702230000 +0700" channel="Star Chinese">
     <title lang="id">Lady Commander Plus</title>
     <desc lang="id">Lady Commander Plus menyuguhkan berbagai isu menarik seputar pria dan wanita. Program ini mengangkat tema-tema terkini dengan bintang tamu yang menarik, mulai dari tokoh populer hingga pakar di bidang hubungan asmara.</desc>
+  </programme>
+  <programme start="20210702001000 +0000" stop="20210702031500 +0000" channel="English - Shenzhen TV">
+    <title lang="en">TV Theatre</title>
+    <desc lang="en">Excellent TV Series.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <country lang="en">CN</country>
+  </programme>
+  <programme start="20210702031500 +0000" stop="20210702040000 +0000" channel="English - Shenzhen TV">
+    <title lang="en">Direct Broadcasting Of HK,Macou And Taiwan</title>
+    <desc lang="en">Report the up to day news of Hongkong、Macou and Taiwan. Invite the top news analyst to anatomy the events.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <country lang="en">CN</country>
+  </programme>
+  <programme start="20210702040000 +0000" stop="20210702045500 +0000" channel="English - Shenzhen TV">
+    <title lang="en">The Travel In Literature Season 3</title>
+    <desc lang="en">A Chinese reading program created by Shenzhen Satellite TV and Lemon Read, invites university professors to guide the reading of famous works.It shows the audience the charm of classical Chinese works such as ZHUANG-ZI,TAO TE CHING,and The Analects of Confucius.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <country lang="en">CN</country>
+  </programme>
+  <programme start="20210702045500 +0000" stop="20210702053000 +0000" channel="English - Shenzhen TV">
+    <title lang="en">Reveal Time</title>
+    <desc lang="en">The prospective touch the nature and human history and future, such as technology and occult in all areas. Through detailed data collection and interpretation of strict logic and reasoning, with the audience close to the truth behind the events, it prys into the mysteries of the magical world.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <country lang="en">CN</country>
+  </programme>
+  <programme start="20210702053000 +0000" stop="20210702092000 +0000" channel="English - Shenzhen TV">
+    <title lang="en">TV Theatre</title>
+    <desc lang="en">Excellent TV Series.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <country lang="en">CN</country>
+  </programme>
+  <programme start="20210702092000 +0000" stop="20210702100500 +0000" channel="English - Shenzhen TV">
+    <title lang="en">Witness China With Photos</title>
+    <desc lang="en">A Show witnesses the development and great changes of the 40 years of reform and opening-up of China with photographs comparison. With photographs as the medium, through the time witness's display of the photograph and the story behind the photograph, people can truly compare and witness the great changes.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <country lang="en">CN</country>
+  </programme>
+  <programme start="20210702100500 +0000" stop="20210702110000 +0000" channel="English - Shenzhen TV">
+    <title lang="en">Direct Broadcasting Of HK,Macou And Taiwan</title>
+    <desc lang="en">Report the up to day news of Hongkong、Macou and Taiwan. Invite the top news analyst to anatomy the events.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <country lang="en">CN</country>
+  </programme>
+  <programme start="20210702110000 +0000" stop="20210702113000 +0000" channel="English - Shenzhen TV">
+    <title lang="en">News Broadcasting</title>
+    <desc lang="en">Broadcasting the current affairs of China and all over the world.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <country lang="en">CN</country>
+  </programme>
+  <programme start="20210702113000 +0000" stop="20210702142000 +0000" channel="English - Shenzhen TV">
+    <title lang="en">TV Theatre</title>
+    <desc lang="en">Excellent TV Series.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <country lang="en">CN</country>
+  </programme>
+  <programme start="20210702142000 +0000" stop="20210702143000 +0000" channel="English - Shenzhen TV">
+    <title lang="en">Nightly News</title>
+    <desc lang="en">Shenzhen evening news report.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <country lang="en">CN</country>
+  </programme>
+  <programme start="20210702143000 +0000" stop="20210702153000 +0000" channel="English - Shenzhen TV">
+    <title lang="en">Direct Broadcasting Of HK,Macou And Taiwan</title>
+    <desc lang="en">Report the up to day news of Hongkong、Macou and Taiwan. Invite the top news analyst to anatomy the events.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <country lang="en">CN</country>
+  </programme>
+  <programme start="20210702153000 +0000" stop="20210702162000 +0000" channel="English - Shenzhen TV">
+    <title lang="en">My White Coat</title>
+    <desc lang="en">The program aims to create a vivid image of doctors, demonstrates the achievements of Shenzhen public health service system, popularizes medical knowledge, and enhances the trust and understanding between doctors and patients.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <country lang="en">CN</country>
   </programme>
   <programme start="20210702000000 +0700" stop="20210702003000 +0700" channel="AlQuran Kareem">
     <title lang="id">Live from Mecca</title>
@@ -17882,6 +18105,248 @@
   </programme>
   <programme start="20210702230000 +0700" stop="20210703000000 +0700" channel="MUI TV">
     <title lang="id">Sign Off</title>
+  </programme>
+  <programme start="20210702050000 +0000" stop="20210702060000 +0000" channel="HopeChannel">
+    <title lang="en">Go Healthy For Good</title>
+    <desc lang="en">Correcting Distortions - part 2: Emotional Intelligence has been shown to help people think more clearly, communicate more effectively, and bring unity to teamwork. So how do we get a high emotional quotient?(n)</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210702060000 +0000" stop="20210702070000 +0000" channel="HopeChannel">
+    <title lang="en">Hope Sabbath School</title>
+    <desc lang="en">Rest In Christ - Living in a 24/7 Society: Rest In Christ - Discover new treasures in Gods word when the Hope Sabbath School team study this weeks topic called: Living in a 24/7 Society.(n)</desc>
+    <category lang="en">Religion</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210702070000 +0000" stop="20210702073000 +0000" channel="HopeChannel">
+    <title lang="en">7th Street Theatre</title>
+    <desc lang="en">The Man of My Dreams: Travis and Rudy have a difficult time working out how they can get 4 different sets on the same stage at the same time. And Gates wonders why Chad and Lisa have such big roles.(n)</desc>
+    <category lang="en">Drama</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210702073000 +0000" stop="20210702080000 +0000" channel="HopeChannel">
+    <title lang="en">It Is Written</title>
+    <desc lang="en">Seashells - Wonders of Creation: The world is filled with evidence of God's creative power - fish, birds, and animals of all shapes and sizes. See an extensive shell collection and discover God's creative power.(n)</desc>
+    <category lang="en">Religion</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210702080000 +0000" stop="20210702083000 +0000" channel="HopeChannel">
+    <title lang="en">Family Reunion Concert</title>
+    <desc lang="en">The Promise 02: Join The Voice Of Prophecy Family Reunion musicians in part 2 as they unite in spirit and song by lifting our hearts to heaven through music and praise to God.(n)</desc>
+    <category lang="en">Traditional Music</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210702083000 +0000" stop="20210702093000 +0000" channel="HopeChannel">
+    <title lang="en">Table Talk - Reformation</title>
+    <desc lang="en">Hebrew Roots Christianity: Scripture alone. Christ alone. Glory to God alone. These were the foundation blocks of the Protestant Reformation. But don't think of it merely as a remote historical event. The Reformation continues.(n)</desc>
+    <category lang="en">Religion</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210702093000 +0000" stop="20210702100000 +0000" channel="HopeChannel">
+    <title lang="en">Radical Protection</title>
+    <desc lang="en">Contending with Cosmic Forces: We are in the midst of a great cosmic conflict. We will have to contend in fierce hand-to-hand combat with cosmic forces who are in opposition to God. In this battle, our strength is found in the Lo.(n)</desc>
+    <category lang="en">Religion</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210702100000 +0000" stop="20210702103000 +0000" channel="HopeChannel">
+    <title lang="en">Tell The World</title>
+    <desc lang="en">Tell the World: Ellen struggles with another loss, James' poor health, and new visions about health and education. Faced with profound limitations the leaders of this new movement have to decide how large their vis.(n)</desc>
+    <category lang="en">Drama</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20210702103000 +0000" stop="20210702113000 +0000" channel="HopeChannel">
+    <title lang="en">The Bible on Trial</title>
+    <desc lang="en">The Bible on Trial: Set in a courtroom, the Bible on Trial examines the contributions of biblical analysis, ancient history, archaeology and testimony to determine the reliability and accuracy of the Bible message.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20210702113000 +0000" stop="20210702120000 +0000" channel="HopeChannel">
+    <title lang="en">Faith Against the Odds</title>
+    <desc lang="en">A Mediator we Can't Manipulate: In 1686, the mountains of Italy witnessed one of history's most tragic acts of religious persecution. King Louis XIV ordered the slaughter of the Waldenses. What lessons can we learn from history?(n)</desc>
+    <category lang="en">Historical Documentary</category>
+    <rating>
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20210702120000 +0000" stop="20210702123000 +0000" channel="HopeChannel">
+    <title lang="en">Lifestyle Magazine</title>
+    <desc lang="en">Creating a Money Habit: Investment advisor Greg Johnson has been giving his clients financial advice for years. He joins us today to talk about why it's important to create good money habits for yourself.(n)</desc>
+    <category lang="en">News Magazine</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210702123000 +0000" stop="20210702130000 +0000" channel="HopeChannel">
+    <title lang="en">Cliff!</title>
+    <desc lang="en">What Aristotle Got Wrong: In the ongoing creation-evolution debate, Cliff looks at some very startling implications of the common view that evolutionists are the Gallileoes of today and the creationists are narrow minded.(n)</desc>
+    <category lang="en">Lifestyle</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210702130000 +0000" stop="20210702133000 +0000" channel="HopeChannel">
+    <title lang="en">Creation Magazine Live</title>
+    <desc lang="en">What Would We Know About Creation if We Only Had the New Testament: Is Genesis just a side issue? Should modern Christians just focus on New Testament teachings?(n)</desc>
+    <category lang="en">News Magazine</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210702133000 +0000" stop="20210702140000 +0000" channel="HopeChannel">
+    <title lang="en">My Story, My Song</title>
+    <desc lang="en">Alison Brook: Join your host Kandus Thorp to hear powerful stories of how God has used music to bless both listeners and performers alike. Today's guest is Alison Brook.(n)</desc>
+    <category lang="en">Music</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210702140000 +0000" stop="20210702150000 +0000" channel="HopeChannel">
+    <title lang="en">God?</title>
+    <desc lang="en">What Is Hell?: Journey with David Asscherick as he unravels some of the mystery about God and answers some very tough questions about life  - such as 'What is Hell?'.(n)</desc>
+    <category lang="en">Religion</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20210702150000 +0000" stop="20210702153000 +0000" channel="HopeChannel">
+    <title lang="en">Unhooked</title>
+    <desc lang="en">Preventing Addictive Environments: Learn how certain environments can encourage and perpetuate a cycle of unhealthy behaviours. In his own words, John explains why he thought drugs and alcohol helped him to cope with life.(n)</desc>
+    <category lang="en">Lifestyle</category>
+    <rating>
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20210702153000 +0000" stop="20210702160000 +0000" channel="HopeChannel">
+    <title lang="en">It Is Written</title>
+    <desc lang="en">Seashells - Wonders of Creation: The world is filled with evidence of God's creative power - fish, birds, and animals of all shapes and sizes. See an extensive shell collection and discover God's creative power.(n)</desc>
+    <category lang="en">Religion</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210702160000 +0000" stop="20210702163000 +0000" channel="HopeChannel">
+    <title lang="en">The 5th Gospel</title>
+    <desc lang="en">Walking Among the Seven Candlesticks: Celebrate the resurrected and victorious Jesus of Revelation. If you are struggling with tragedy, fear, or disappointment, this picture of Jesus will give you courage and hope.(n)</desc>
+    <category lang="en">Religion</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210702163000 +0000" stop="20210702170500 +0000" channel="HopeChannel">
+    <title lang="en">The Presence</title>
+    <desc lang="en">Behind the Veil: Shawn Boonstra answers from the Bible a few questions that people frequently ask regarding the sanctuary.(n)</desc>
+    <category lang="en">Religion</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210702170500 +0000" stop="20210702173000 +0000" channel="HopeChannel">
+    <title lang="en">Zoo Days</title>
+    <desc lang="en">Lions, Katavi, and Macaws: Today we catch up with Katavi the cheetah cub as he takes his first steps outdoors. Century the giraffe faces a big challenge when he comes face to face with the rhinos for the first time.(n)</desc>
+    <category lang="en">Nature Documentary</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210702173000 +0000" stop="20210702182500 +0000" channel="HopeChannel">
+    <title lang="en">The First Silent Night</title>
+    <desc lang="en">The First Silent Night: Simon Callow journeys to the Austrian village of Oberndorf as well as the city of Salzburg, where the story of the world's favourite carol has its origins.(n)</desc>
+    <category lang="en">Historical Documentary</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20210702182500 +0000" stop="20210702190000 +0000" channel="HopeChannel">
+    <title lang="en">Imperfect Believers</title>
+    <desc lang="en">The Sisters: Stew Hardy speaks on characters in bible who were Imperfect Believers. Todays topic is \"The Sisters\".(n)</desc>
+    <category lang="en">Religion</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210702190000 +0000" stop="20210702200000 +0000" channel="HopeChannel">
+    <title lang="en">Go Healthy For Good</title>
+    <desc lang="en">Correcting Distortions - part 2: Emotional Intelligence has been shown to help people think more clearly, communicate more effectively, and bring unity to teamwork. So how do we get a high emotional quotient?(n)</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210702200000 +0000" stop="20210702203500 +0000" channel="HopeChannel">
+    <title lang="en">Scripture Seekers</title>
+    <desc lang="en">Persevering with God: In todays episode, Everybody blames Hunter and Twerp because they not feeling joyful or spiritual while Hunter realises they giving up too easily when he sees Twerp persevering with a puzzle.(n)</desc>
+    <category lang="en">Cartoons</category>
+    <category lang="en">Puppets</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210702203500 +0000" stop="20210702210000 +0000" channel="HopeChannel">
+    <title lang="en">Cook 30 for Kids</title>
+    <desc lang="en">Barbeque Beans and caraway Potatoes: Using healthy whole foods with tasty fresh flavours, the children help Jeremy Dixon from Auckland to make some delicious food in just 30 minutes.(n)</desc>
+    <category lang="en">Food</category>
+    <category lang="en">Cooking</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210702210000 +0000" stop="20210702213000 +0000" channel="HopeChannel">
+    <title lang="en">7th Street Theatre</title>
+    <desc lang="en">The Man of My Dreams: Travis and Rudy have a difficult time working out how they can get 4 different sets on the same stage at the same time. And Gates wonders why Chad and Lisa have such big roles.(n)</desc>
+    <category lang="en">Drama</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210702213000 +0000" stop="20210702220000 +0000" channel="HopeChannel">
+    <title lang="en">Tell The World</title>
+    <desc lang="en">Tell the World: Ellen struggles with another loss, James' poor health, and new visions about health and education. Faced with profound limitations the leaders of this new movement have to decide how large their vis.(n)</desc>
+    <category lang="en">Drama</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20210702220000 +0000" stop="20210702230000 +0000" channel="HopeChannel">
+    <title lang="en">Hope Sabbath School</title>
+    <desc lang="en">Rest In Christ - Living in a 24/7 Society: Rest In Christ - Discover new treasures in Gods word when the Hope Sabbath School team study this weeks topic called: Living in a 24/7 Society.(n)</desc>
+    <category lang="en">Religion</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210702230000 +0000" stop="20210702233000 +0000" channel="HopeChannel">
+    <title lang="en">Hope Church</title>
+    <desc lang="en">Boarding Call 07- At 35000 Feet: 35,000 feet is a great place to be if you're travelling long distance, but only if you're doing so inside an airplane. Today, Ben Martin explores the conditions we need for our faith to thrive.(n)</desc>
+    <category lang="en">Religion</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210702233000 +0000" stop="20210703000000 +0000" channel="HopeChannel">
+    <title lang="en">Family Reunion Concert</title>
+    <desc lang="en">The Promise 02: Join The Voice Of Prophecy Family Reunion musicians in part 2 as they unite in spirit and song by lifting our hearts to heaven through music and praise to God.(n)</desc>
+    <category lang="en">Traditional Music</category>
+    <rating>
+      <value>G</value>
+    </rating>
   </programme>
   <programme start="20210702000000 +0700" stop="20210702010000 +0700" channel="UChannel">
     <title lang="id">Positive Hits</title>
